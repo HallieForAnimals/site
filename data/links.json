@@ -43,6 +43,28 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Test CTA 2",
+          "instagram": "",
+          "description": "This is a test of HallieForAnimals Mega Amazing Software Of The Gods 3000",
+          "location": {
+            "country": "United States",
+            "region": "Test State",
+            "locality": "Test City"
+          },
+          "targets": [
+            "Test Target"
+          ],
+          "phones": [
+            {
+              "who": "Test Number",
+              "main": "+1 0000000",
+              "ext": "000"
+            }
+          ],
+          "url": "mailto:squidlegz2014@gmail.com?subject=Test%20CTA%202&body=To%20whom%20it%20may%20concern%2C%0A%0ATest%20CTA%202%0A%0ASincerely%2C",
+          "tag": "Email"
+        },
+        {
           "title": "Test CTA",
           "instagram": "",
           "description": "PLEASE SEND THE ONE CLICK EMAIL IN MY LINKTREE TO TEST TARGETS TITLED \"TEST CTA\"❗️\n\nCall:\nTest Number: +1 00000000 ext. 0000\n\nHallieForAnimals Mega Amazing Software Of The Gods 3000\n\n\n#cuteanimals #animallover #doglover #corgi #dogsofinstagram #health #fitness #beauty #catsofinstagram #dachshund #love #luxurylifestyle #instagood #fashion #beautiful #happy #cute #vacation #summer #catlovers #puppies #cutedogs #beagle #beauty #puppylove #photography #popular #TestState #TestCity",
