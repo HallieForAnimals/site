@@ -43,6 +43,20 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "email test",
+          "instagram": "",
+          "description": "A new campaign has been posted — please take action.",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/email/email-test/",
+          "tag": "Email"
+        },
+        {
           "title": "mailto test",
           "instagram": "",
           "description": "A new campaign has been posted — please take action.",
