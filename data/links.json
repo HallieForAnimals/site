@@ -57,6 +57,20 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Test Slug",
+          "instagram": "",
+          "description": "A new campaign has been posted — please take action.",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/email/test-slug/",
+          "tag": "Email"
+        },
+        {
           "title": "test slug",
           "instagram": "",
           "description": "A new campaign has been posted — please take action.",
