@@ -1,0 +1,41 @@
+{
+  "meta": { "title": "Rescues & Charities" },
+  "sections": [
+    {
+      "name": "Verified Rescues",
+      "rescues": [
+        {
+          "id": "pwb-uk",
+          "title": "Paws Without Borders UK",
+          "description": "Transparent, foster-based placements.",
+          "country": "United Kingdom",
+          "region": "England",
+          "url": "https://example.org",
+          "urlButton": "View Site",
+          "instagram": "https://instagram.com/pwbuk",
+          "facebook": "https://facebook.com/pwbuk",
+          "email": "hello@pwb.org",
+          "logo": "https://…/pwb-logo.png"
+        }
+      ]
+    },
+    {
+      "name": "Verified Charities",
+      "charities": [
+        {
+          "id": "wap",
+          "title": "World Animal Protection",
+          "description": "Global campaigns.",
+          "country": "Global",
+          "region": "",
+          "url": "https://worldanimalprotection.org",
+          "urlButton": "View Site",
+          "instagram": "",
+          "facebook": "",
+          "email": "",
+          "logo": ""
+        }
+      ]
+    }
+  ]
+}

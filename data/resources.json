@@ -1,0 +1,25 @@
+{
+  "title": "Resources",
+  "sections": [
+    {
+      "name": "Practical Guides",
+      "links": [
+        { "title": "What To Do If You Find a Stray Dog", "subtitle": "Step-by-step checklist", "url": "/assets/resources/stray-dog-checklist.pdf" },
+        { "title": "Helping Lost or Injured Animals Safely", "subtitle": "Do's, don'ts, and transport tips", "url": "/assets/resources/lost-injured-animals.pdf" },
+        { "title": "Fireworks & Noise Anxiety", "subtitle": "Desensitisation & safe spaces", "url": "/assets/resources/noise-anxiety.pdf" },
+        { "title": "Preparing for a Vet Visit", "subtitle": "Reduce stress for you and your pet", "url": "/assets/resources/prep-for-vet.png" },
+        { "title": "First Aid Basics for Pets", "subtitle": "When to act and when to call the vet", "url": "https://example.com/pet-first-aid" }
+      ]
+    },
+    {
+      "name": "Awareness & Education",
+      "links": [
+        { "title": "Understanding Dog Body Language", "subtitle": "Signals, distance-increasing cues", "url": "/assets/resources/dog-body-language.pdf" },
+        { "title": "Recognising Signs of Animal Cruelty", "subtitle": "Red flags and reporting paths", "url": "/assets/resources/recognise-cruelty.pdf" },
+        { "title": "The Link Between Animal & Human Violence", "subtitle": "Research summary & citations", "url": "/assets/resources/violence-link.pdf" },
+        { "title": "Supporting Ethical Rescues", "subtitle": "Transparency checklist", "url": "/assets/resources/ethical-rescues.pdf" },
+        { "title": "How To Spot A Scam Rescue", "subtitle": "Common patterns & proofs", "url": "/assets/resources/spot-scam-rescue.pdf" }
+      ]
+    }
+  ]
+}
