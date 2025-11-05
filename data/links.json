@@ -57,18 +57,14 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Test Slug",
-          "instagram": "",
-          "description": "A new campaign has been posted — please take action.",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
+          "title": "Test Slug editied",
+          "description": "A new campaign has been posted — please take action. This is an aditional test, let's see if it works.",
+          "location": {},
           "targets": [],
           "phones": [],
           "url": "/email/test-slug/",
-          "tag": "Email"
+          "tag": "Email",
+          "slug": "test-slug-edited"
         },
         {
           "title": "Demand An Investigation Into Georgie's Injuries",
