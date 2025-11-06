@@ -1,5 +1,7 @@
 {
-  "meta": { "title": "Rescues & Charities" },
+  "meta": {
+    "title": "Rescues & Charities"
+  },
   "sections": [
     {
       "name": "Ongoing Cases",
@@ -13,54 +15,54 @@
           "description2": "",
           "description3Title": "",
           "description3": [
-          ""
-        ],
-        "targets": [
-        "",
-        "",
-        ""
-        ],
-        "urlIndex": "/ongoing.html#china-laws",
-        "url": "",
-        "buttonText": "",
-        "url2": "https://tinyurl.com/ya3wa8ke",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
+            ""
+          ],
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "urlIndex": "/ongoing.html#china-laws",
+          "url": "",
+          "buttonText": "",
+          "url2": "https://tinyurl.com/ya3wa8ke",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
         },
         {
-        "title": "Stop Ugandan Rescue Scams",
-        "slug": "scam",
-        "descriptionTitle": "What’s happening",
-        "description": "A cluster of Instagram/Facebook pages posing as dog rescues. They don’t rescue; they manufacture cruelty. Dogs are starved, injured on purpose, or left untreated so photos look shocking. The goal is simple: squeeze donations from decent people. When one dog stops performing (i.e., healing), another “urgent case” appears. Same script, different wounds.",
-        "description2Title": "Why it matters",
-        "description2": "Stage or prolong suffering \u2192 post daily \"updates\" \u2192 guilt-trip \u2192 collect via instant-pay links \u2192 disappear/recycle content. Use throwaway admins and burner numbers. When flagged, they rename, pivot, or move to a new handle.",
-        "description3Title": "Red flags to look out for",
-        "description3": [
-        "Money first, transparency never: PayPal.me / mobile money / Western Union only; no registered charity number, no audited reports, no vet invoices.",
-        "Geo nonsense: Claims \"Uganda shelter\" while geotags/photos hop across countries or time zones. Stock photos of \"Africa\" sprinkled in.",
-        "High followers, dead engagement: Bought audience; low comments/likes that don’t match follower count.",
-        "Recycled media: Same dog, same injury, posted for months with \"urgent surgery today!\" Reverse-image search catches repeats.",
-        "No real-world footprint: No website or a 1-page site with stolen copy; no Google Maps listing; no legitimate adoption process or contracts.",
-        "Pressure tactics: \"Only YOU can save him in the next hour,\" mass tagging, DM spamming, guilt trips if you ask for proof.",
-        "Vague or shifting details: Dog’s name, age, location, and diagnosis change post to post.",
-        "Medical fantasy: Miraculous diagnoses, dramatic before/after collages, never a verifiable vet name, clinic address, or itemized bill.",
-        "Comment control: Critical questions deleted, comments turned off, or replies move instantly to DMs.",
-        "Verified-but-hijacked look: Sometimes a verified or old account repurposed (handle changed, old content wiped).",
-        "Logistics that make no sense: Offering international adoptions but no import/export compliance or quarantine info.",
-        "Donation links, zero governance: No trustees, no policy pages (safeguarding, returns, complaints), no annual reports—just the donate button."
-        ],
-        "targets": [
-        "Ugandan Authorities",
-        "International NGOs",
-        "Social Media Companies"
-        ],
-        "urlIndex": "/ongoing.html#stop-ugandan-rescue-scams",
-        "url": "/report-scam.html",
-        "buttonText": "Report a Scam",
-        "url2": "https://tinyurl.com/ysb6zz9e",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
-      },
+          "title": "Stop Ugandan Rescue Scams",
+          "slug": "scam",
+          "descriptionTitle": "What’s happening",
+          "description": "A cluster of Instagram/Facebook pages posing as dog rescues. They don’t rescue; they manufacture cruelty. Dogs are starved, injured on purpose, or left untreated so photos look shocking. The goal is simple: squeeze donations from decent people. When one dog stops performing (i.e., healing), another “urgent case” appears. Same script, different wounds.",
+          "description2Title": "Why it matters",
+          "description2": "Stage or prolong suffering → post daily \"updates\" → guilt-trip → collect via instant-pay links → disappear/recycle content. Use throwaway admins and burner numbers. When flagged, they rename, pivot, or move to a new handle.",
+          "description3Title": "Red flags to look out for",
+          "description3": [
+            "Money first, transparency never: PayPal.me / mobile money / Western Union only; no registered charity number, no audited reports, no vet invoices.",
+            "Geo nonsense: Claims \"Uganda shelter\" while geotags/photos hop across countries or time zones. Stock photos of \"Africa\" sprinkled in.",
+            "High followers, dead engagement: Bought audience; low comments/likes that don’t match follower count.",
+            "Recycled media: Same dog, same injury, posted for months with \"urgent surgery today!\" Reverse-image search catches repeats.",
+            "No real-world footprint: No website or a 1-page site with stolen copy; no Google Maps listing; no legitimate adoption process or contracts.",
+            "Pressure tactics: \"Only YOU can save him in the next hour,\" mass tagging, DM spamming, guilt trips if you ask for proof.",
+            "Vague or shifting details: Dog’s name, age, location, and diagnosis change post to post.",
+            "Medical fantasy: Miraculous diagnoses, dramatic before/after collages, never a verifiable vet name, clinic address, or itemized bill.",
+            "Comment control: Critical questions deleted, comments turned off, or replies move instantly to DMs.",
+            "Verified-but-hijacked look: Sometimes a verified or old account repurposed (handle changed, old content wiped).",
+            "Logistics that make no sense: Offering international adoptions but no import/export compliance or quarantine info.",
+            "Donation links, zero governance: No trustees, no policy pages (safeguarding, returns, complaints), no annual reports—just the donate button."
+          ],
+          "targets": [
+            "Ugandan Authorities",
+            "International NGOs",
+            "Social Media Companies"
+          ],
+          "urlIndex": "/ongoing.html#stop-ugandan-rescue-scams",
+          "url": "/report-scam.html",
+          "buttonText": "Report a Scam",
+          "url2": "https://tinyurl.com/ysb6zz9e",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
+        },
         {
           "title": "Stop the Mass Slaughter of Street Dogs in Morocco",
           "slug": "morocco-cull",
@@ -70,19 +72,19 @@
           "description2": "",
           "description3Title": "",
           "description3": [
-          ""
-        ],
-        "targets": [
-        "",
-        "",
-        ""
-        ],
-        "urlIndex": "/ongoing.html#morocco-cull",
-        "url": "",
-        "buttonText": "",
-        "url2": "https://tinyurl.com/bypzvuz4",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
+            ""
+          ],
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "urlIndex": "/ongoing.html#morocco-cull",
+          "url": "",
+          "buttonText": "",
+          "url2": "https://tinyurl.com/bypzvuz4",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
         },
         {
           "title": "Stop the Mass Slaughter of Street Dogs in Turkey",
@@ -93,19 +95,19 @@
           "description2": "",
           "description3Title": "",
           "description3": [
-          ""
-        ],
-        "targets": [
-        "",
-        "",
-        ""
-        ],
-        "urlIndex": "/ongoing.html#turkey-cull",
-        "url": "",
-        "buttonText": "",
-        "url2": "https://tinyurl.com/bypzvuz4",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
+            ""
+          ],
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "urlIndex": "/ongoing.html#turkey-cull",
+          "url": "",
+          "buttonText": "",
+          "url2": "https://tinyurl.com/bypzvuz4",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
         },
         {
           "title": "Stop the Mass Slaughter of Street Dogs in Delhi",
@@ -116,19 +118,19 @@
           "description2": "",
           "description3Title": "",
           "description3": [
-          ""
-        ],
-        "targets": [
-        "",
-        "",
-        ""
-        ],
-        "urlIndex": "/ongoing.html#delhi-cull",
-        "url": "",
-        "buttonText": "",
-        "url2": "https://tinyurl.com/2yzw4mj5",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
+            ""
+          ],
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "urlIndex": "/ongoing.html#delhi-cull",
+          "url": "",
+          "buttonText": "",
+          "url2": "https://tinyurl.com/2yzw4mj5",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
         },
         {
           "title": "Demand Animal Welfare Laws in Vietnam",
@@ -139,25 +141,46 @@
           "description2": "",
           "description3Title": "",
           "description3": [
-          ""
-        ],
-        "targets": [
-        "",
-        "",
-        ""
-        ],
-        "urlIndex": "/ongoing.html#vietnam-laws",
-        "url": "",
-        "buttonText": "",
-        "url2": "https://tinyurl.com/mta8x92p",
-        "buttonText2": "Take Action",
-        "tag": "Ongoing"
+            ""
+          ],
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "urlIndex": "/ongoing.html#vietnam-laws",
+          "url": "",
+          "buttonText": "",
+          "url2": "https://tinyurl.com/mta8x92p",
+          "buttonText2": "Take Action",
+          "tag": "Ongoing"
         }
       ]
     },
     {
       "name": "Recent Cases",
       "links": [
+        {
+          "title": "testing new slug and caseid",
+          "slug": "testing-new-slug-and-caseid",
+          "caseId": "test-case",
+          "instagram": "",
+          "description": "ANIMAL ABUSER ALERT❗",
+          "location": {
+            "country": "France",
+            "region": "",
+            "locality": "Paris"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "Noone",
+              "main": "45696849654"
+            }
+          ],
+          "url": "mailto:?subject=testing%20new%20slug%20and%20caseid",
+          "tag": "Abuser"
+        },
         {
           "title": "Demand An Investigation Into Georgie's Injuries",
           "instagram": "https://www.instagram.com/p/DQXYT_6CIHC/",
