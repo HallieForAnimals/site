@@ -1,5 +1,7 @@
 {
-  "meta": { "title": "Rescues & Charities" },
+  "meta": {
+    "title": "Rescues & Charities"
+  },
   "sections": [
     {
       "url": "/in-memoriam-submit.html",
@@ -22,7 +24,7 @@
           "name": "Merlin",
           "img": "/assets/img/merlin.jpg",
           "years": "2001 to 2013",
-          "description":""
+          "description": ""
         },
         {
           "name": "Koda",
@@ -31,5 +33,7 @@
           "description": ""
         }
       ]
-    }]
-        }
+    }
+  ],
+  "__sha": "004cb5f1eaf15637959d27816546de63b0678a1a"
+}
