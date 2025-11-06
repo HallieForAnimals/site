@@ -1,36 +1,11 @@
-{
-  "meta": { "title": "Rescues & Charities" },
-  "title": "Updates",
-  "items": [
-    {
-      "id": "bronx-cat-killer",
-      "title": "Bronx Cat Killer",
-      "date": "2025-10-31",
-      "status": "ongoing",
-      "location": "Bronx, New York, USA",
-      "summary": "He got arrested, let's make sure he's prosecuted.",
-      "takeActionUrl": "example.com",
-      "takeAction": "Take Action",
-      "links": [
-        {
-          "label": "News Report",
-          "url": "https://ground.news/article/video-outrage-of-animal-abuse-in-chihuahua"
-        }
-      ]
-    },
-    {
-      "id": "justice-for-aria-miami-usa",
-      "title": "Justice for Aria",
-      "date": "2025-10-20",
-      "status": "resolved",
-      "location": "Miami, Florida, USA",
-      "summary": "The sitter responsible for Aria’s death was formally charged with felony animal cruelty. Following public pressure and over 12,000 emails, the case will proceed to trial in January 2026.",
-      "takeActionUrl":"example.com",
-      "takeAction": "Take Action",
-      "links": [
-        { "label": "News Report", "url": "https://example.com/article1" },
-        { "label": "Court Docket", "url": "https://example.com/article2" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "testing new slug and caseid",
+    "status": "ongoing",
+    "summary": "testing-new-slug-and-caseid",
+    "date": "2025-11-06",
+    "caseId": "test-case",
+    "slug": "testing-new-slug-and-caseid",
+    "links": []
+  }
+]
