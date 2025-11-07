@@ -345,6 +345,70 @@ async function fetchLinksJson() {
   return res.json();
 }
 
+// --- Sticky banner: prefer email CTAs → use their own URL; else send to /cta.html
+async function updateBannerFromFirstEmail() {
+  // Find banner + its text/link (support a few markups)
+  const banner = document.getElementById('sticky-banner')
+              || document.querySelector('.sticky-banner')
+              || document.querySelector('.banner');   // you already use ".banner" for offset calc
+  if (!banner) return;
+
+  const linkEl = banner.querySelector('a') || banner.querySelector('.cta-link');
+  const textEl = banner.querySelector('.cta-text') || banner.querySelector('.text') || banner;
+
+  // Load links.json (your existing helper)
+  let data;
+  try { data = await fetchLinksJson(); }
+  catch (e) { console.warn('[banner] links.json load failed', e); banner.hidden = true; return; }
+
+  // Pull the "Recent" section the way your site does
+  const recentSec   = (data.sections || []).find(s => /recent/i.test(s?.name || ''));
+  const recentLinks = Array.isArray(recentSec?.links) ? recentSec.links : [];
+  if (!recentLinks.length) { banner.hidden = true; return; }
+
+  // Select candidates (newest first by date when present)
+  const byDate = (a,b) => new Date(b.date||0) - new Date(a.date||0);
+
+  // prefer explicit email-tagged CTAs
+  let candidates = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email').sort(byDate);
+
+  // else, accept anything that looks like a mailto or shortlink
+  if (!candidates.length) {
+    candidates = recentLinks.filter(it => {
+      const u = it.url || it.urlIndex || '';
+      return /^mailto:/i.test(u) || /\/s\/[^/]+/i.test(u);
+    }).sort(byDate);
+  }
+
+  // else, any actionable CTA (your general predicate)
+  if (!candidates.length && typeof isActionCTA === 'function') {
+    candidates = recentLinks.filter(isActionCTA).sort(byDate);
+  }
+
+  if (!candidates.length) { banner.hidden = true; return; }
+
+  const first = candidates[0];
+  const tag   = (first.tag || '').toLowerCase();
+
+  // Decide the banner href:
+  // email-tagged → use the CTA's own URL (shortlink/mailto/absolute/path)
+  // everything else → /cta.html
+  const ctaUrl = (() => {
+    const u = first.urlIndex || first.url || '';
+    if (tag === 'email' && u) return u;
+    return '/cta.html';
+  })();
+
+  // Text remains "Take Action" (per A), but use CTA title if you prefer:
+  // const title = first.title || 'Take Action';
+  const title = 'Take Action';
+
+  if (textEl && textEl !== banner) textEl.textContent = title;
+  if (linkEl) linkEl.href = ctaUrl;
+  banner.hidden = false;
+}
+
+
 
 function flattenSections(json) {
   const out = [];
