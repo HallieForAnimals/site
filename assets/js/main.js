@@ -108,30 +108,59 @@ async function renderIndexEmailCTAs() {
   }
 }
 
-// prefer explicit email-tagged CTAs
-let candidates = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email');
+// --- Sticky banner: choose a recent CTA robustly ---
+async function updateBannerFromFirstEmail() {
+  // Find the banner + its text/link; support multiple markups
+  const banner = document.getElementById('sticky-banner')
+             || document.querySelector('.sticky-banner')
+             || document.getElementById('banner');
+  if (!banner) return;
 
-// if none, accept anything that looks like a mailto or shortlink
-if (!candidates.length) {
-  candidates = recentLinks.filter(it => {
-    const url = it.url || it.urlIndex || '';
-    return /^mailto:/i.test(url) || /\/s\/[^/]+/i.test(url);
-  });
+  const link = banner.querySelector('a') || banner.querySelector('.cta-link');
+  const textEl = banner.querySelector('.cta-text') || banner.querySelector('.text') || banner;
+
+  try {
+    const data = await fetchLinksJson();
+    const recentSec = (data.sections || []).find(s => /recent/i.test(s?.name || ''));
+    const recentLinks = Array.isArray(recentSec?.links) ? recentSec.links : [];
+
+    // 1) Prefer explicit email CTAs
+    let candidates = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email');
+
+    // 2) If none, accept any mailto or shortlink (/s/slug)
+    if (!candidates.length) {
+      candidates = recentLinks.filter(it => {
+        const url = it.url || it.urlIndex || '';
+        return /^mailto:/i.test(url) || /\/s\/[^/]+/i.test(url);
+      });
+    }
+
+    // 3) If still none, fall back to any actionable CTA
+    if (!candidates.length) {
+      candidates = recentLinks.filter(isActionCTA);
+    }
+
+    // Newest → oldest (if date present)
+    candidates.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+    if (!candidates.length) {
+      banner.hidden = true;   // nothing to show
+      return;
+    }
+
+    const first = candidates[0];
+    const href = first.urlIndex || first.url || '#';
+    const title = first.title || 'Take Action';
+
+    if (textEl && textEl !== banner) textEl.textContent = title;
+    if (link) link.href = href;
+    banner.hidden = false;
+  } catch (err) {
+    console.warn('[banner] links.json not ready yet:', err);
+    // be graceful — don’t crash the page if JSON fails
+  }
 }
 
-// if still none, fall back to any actionable CTA
-if (!candidates.length) {
-  candidates = recentLinks.filter(isActionCTA);
-}
-
-// newest → oldest by optional date field
-candidates.sort((a,b) => new Date(b.date||0) - new Date(a.date||0));
-if (!candidates.length) return;
-
-const first = candidates[0];
-text.textContent = first.title || 'Take Action';
-link.href = (first.url || first.urlIndex || '#');
-banner.hidden = false;
 
 
 
