@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>HallieForAnimals: Contact</title>
+  <meta name="description" content="Contact HallieForAnimals — one-click activism for animal welfare, how it works, and who's behind it.">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://your-domain.tld/contact.html">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="HallieForAnimals — Contact">
+  <meta property="og:description" content="One-click activism for animal welfare. Updated daily with current campaigns.">
+  <meta property="og:image" content="assets/img/hallielogo6.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://your-domain.tld/contact.html">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="HallieForAnimals — Contact">
+  <meta name="twitter:description" content="One-click activism for animal welfare. Updated daily with current campaigns.">
+  <meta name="twitter:image" content="assets/img/hallielogo6.png">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+<body id="top">
+
+<!-- Future ad zones (inactive) -->
+<div class="ad-side left"></div>
+<div class="ad-side right"></div>
+
+
+  <!-- STICKY BANNER (full width) -->
+  <div id="banner" class="banner" hidden aria-live="polite">
+    <div class="banner-pill">
+      <span id="banner-text"></span>
+      <a id="banner-link" class="banner-cta" href="#" target="_blank" rel="noopener">Take action</a>
+    </div>
+  </div>
+
+  <!-- HEADER: logo left, title + tagline -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html">
+      <img src="assets/img/hallielogo6.png" alt="HallieForAnimals logo" class="logo" width="120" height="120">
+      </a>
+      <div class="title-wrap">
+        <h1 class="site-title">HallieForAnimals</h1>
+        <p class="site-tagline">Because those who need us most can’t ask.</p>
+      </div>
+
+            <button id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation" aria-controls="nav-menu" aria-expanded="false">
+  <span class="bar"></span>
+  <span class="bar"></span>
+  <span class="bar"></span>
+</button>
+    </div>
+
+  </header>
+
+  <nav class="main-nav" aria-label="Main navigation">
+  <ul id="nav-menu">
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="/ongoing.html">Ongoing</a></li>
+    <li><a href="/cta.html">CTAs</a></li>
+    <li><a href="/updates.html">Updates</a></li>
+    <li><a href="/rescues-charities.html">Rescues</a></li>
+    <li><a href="/resources.html">Resources</a></li>
+    <li><a href="/in-memoriam.html">In Memoriam</a></li>
+    <li><a href="/contact.html" class="active">Contact</a></li>
+  </ul>
+</nav>
+
+  <!-- MAIN -->
+  <main class="container">
+  
+<!-- CTA SUBMISSIONS -->
+<section class="section section-card contact" aria-labelledby="submit-title">
+  <h2 class="subhead" id="submit-title">Submit a Case / Call To Action</h2>
+
+  <!-- Simple general contact line -->
+  <p class="contact-top-note">
+    <strong>PLEASE NOTE:</strong> <br>This form is for case/call to action submissions. For general contact, please <a href="mailto:contact@hallieforanimals.org">email us</a>.
+  </p>
+
+  <div class="notice disclaimer" role="note" aria-label="Submission guidelines">
+  <strong>Before you submit:</strong>
+  <ul>
+    <li>We do not publish hearsay, rumours, or personal disputes.</li>
+    <li>Submissions must include <em>verifiable evidence</em> (links to posts, videos, profiles, or official documents).</li>
+    <li>Blur/redact private information that is not essential to the report.</li>
+    <li>We may contact you for clarification before any CTA goes live.</li>
+  </ul>
+</div>
+
+
+  <form id="submission-form" novalidate>
+    <!-- Case Basics -->
+    <fieldset class="field-group">
+      <legend>Case basics</legend>
+
+      <div class="grid-3">
+        <label>
+          <span>Country <em>(required)</em></span>
+          <input name="country" list="countries" placeholder="Start typing…" required>
+          <datalist id="countries">
+            <!-- optional: populate from JSON later; for now a few common -->
+            <option>United Kingdom</option>
+            <option>United States</option>
+            <option>Ireland</option>
+            <option>Indonesia</option>
+            <option>India</option>
+            <option>Turkey</option>
+          </datalist>
+        </label>
+
+        <label>
+          <span>City / region</span>
+          <input name="city" type="text" placeholder="e.g., Brooklyn">
+        </label>
+
+        <label>
+          <span>Incident date</span>
+          <input name="date" type="date">
+        </label>
+      </div>
+    </fieldset>
+
+    <!-- Evidence -->
+    <fieldset class="field-group">
+      <legend>Evidence</legend>
+      <p class="help">
+        Share <strong><em>links only</em></strong> to posts, videos, profiles, or documents. If you have files, upload to Drive/Dropbox and paste a share link.
+      </p>
+
+      <label>
+        <span>Evidence URLs <em>(at least one)</em></span>
+        <textarea name="evidence" rows="5" placeholder="https://instagram.com/p/…&#10;https://twitter.com/...&#10;https://drive.google.com/file/..." required></textarea>
+        <small id="evidence-errors" class="error" aria-live="polite"></small>
+      </label>
+    </fieldset>
+
+    <!-- Details -->
+    <fieldset class="field-group">
+      <legend>Details</legend>
+
+      <label>
+        <span>Description <em>(required)</em></span>
+        <textarea name="description" rows="7" maxlength="2000" placeholder="What happened? What do you want people to do? Key facts only. Be as throrough as possible." required></textarea>
+        <small class="counter"><span id="desc-count">0</span>/2000</small>
+      </label>
+    </fieldset>
+
+    <!-- Reporter -->
+    <fieldset class="field-group">
+      <legend>Your info (private)</legend>
+      <div class="grid-3">
+        <label>
+          <span>Your name</span>
+          <input name="reporterName" type="text" placeholder="Optional">
+        </label>
+
+        <label>
+          <span>Email</span>
+          <input name="reporterEmail" type="email" placeholder="For potential follow-up">
+        </label>
+
+        <label>
+          <span>Social handle <em>(for credit)</em></span>
+          <input name="handle" type="text" placeholder="@youraccount (optional)">
+        </label>
+      </div>
+    </fieldset>
+
+    <!-- Consent -->
+    <fieldset class="field-group">
+      <legend>Consent</legend>
+<label class="check">
+  <input type="checkbox" name="consentTruth" required>
+  <span>I confirm the information is accurate to the best of my knowledge.</span>
+</label>
+<label class="check">
+  <input type="checkbox" name="consentShare" required>
+  <span>I consent to HallieForAnimals using this information to create a public CTA.</span>
+</label>
+<label class="check">
+  <input type="checkbox" name="consentPrivacy" required>
+  <span>I agree to the <a href="/privacy.html" target="_blank" rel="noopener">Privacy Policy</a>.</span>
+</label>
+
+
+      <!-- Honeypot (spam bots fill this; humans won’t) -->
+      <label class="hp">
+        <span>Website</span>
+        <input name="website" type="text" autocomplete="off" tabindex="-1">
+      </label>
+    </fieldset>
+
+    <!-- CAPTCHA -->
+<!-- CAPTCHA placeholder (only rendered on submit) -->
+<div id="captcha-wrap" style="margin-top:12px;"></div>
+
+    <div class="actions">
+      <button type="submit" class="action-btn" ><span>Submit Case</span></button>
+      <p class="subtle">We’ll review for completeness & safety before posting.</p>
+    </div>
+
+    <!-- Inline success/fail messages -->
+    <p id="submit-ok" class="toast ok" hidden>Thanks - your submission has been recorded.</p>
+    <p id="submit-bad" class="toast bad" hidden>Something’s missing or invalid. Please check the highlighted fields.</p>
+  </form>
+</section>
+
+<!-- Subscribe -->
+<section class="subscribe section-card" aria-labelledby="subscribe-title">
+  <h2 class="section-header" id="subscribe-title">Get Alerts When A New CTA Drops</h2>
+
+<form id="subscribe-form" novalidate>
+  <input id="sub-email" type="email" name="email" placeholder="your@email.com" required>
+  <button id="sub-btn" type="submit" class="action-btn" style="border:0">
+    <span>Subscribe</span>
+  </button>
+  <div id="sub-note" class="toast" role="status" aria-live="polite"></div>
+  <p>Low-volume. High impact. Unsubscribe anytime.</p>
+</form>
+</section>
+  </main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+            <a href="/index.html" class="footer-logo">
+      <img src="assets/img/hallielogo6.png" alt="Hallie For Animals logo">
+    </a>
+    <nav aria-label="Footer" class="footer-nav">
+      <a href="https://instagram.com/hallieforanimals" rel="noopener" class="social-link" aria-label="Instagram">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="display:inline-block;vertical-align:middle;">
+          <path fill="currentColor" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9zm4.5 3a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11zm0 2a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm5.25-.75a.75.75 0 1 1 0 1.5.75.75 0 0 1 0-1.5z"/>
+        </svg>
+      </a>
+      •
+      <a href="/index.html">Home</a> •
+      <a href="/about.html">About</a> •
+      <a href="/ongoing.html">Ongoing</a> •
+      <a href="/cta.html">Call To Actions</a> •
+      <a href="/updates.html">Updates</a> •
+	    <a href="/rescues-charities.html">Rescues & Charities</a> •
+	    <a href="/resources.html">Resources</a> •
+	    <a href="/privacy.html">Privacy</a> •
+      <a href="/in-memoriam.html">In Memoriam</a> •
+      <a href="/contact.html">Contact</a> •
+    </nav>
+
+    <div>© <span id="yr"></span> HallieForAnimals ~ Built on GitHub Pages</div>
+  </div>
+</footer>
+
+  <!-- Main JS -->
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" async defer></script>
+  <script defer src="assets/js/main.js"></script>
+  <script>
+    // Fallback: set year if main.js doesn't
+    (function(){ try{
+      document.getElementById('yr').textContent = new Date().getFullYear();
+    }catch(e){} })();
+  </script>
+    <a href="#top" id="back-to-top" aria-label="Back to top">↑</a>
+    <script src="/assets/js/track-lite.js" defer></script>
+
+</body>
+</html>
