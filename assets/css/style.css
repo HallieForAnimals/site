@@ -234,10 +234,6 @@ body::after{
   box-sizing: border-box;
 }
 
-/* ====== Two-column sections ====== */
-.sections{ display:grid; grid-template-columns:1fr; gap:22px; }
-@media(min-width:800px){ .sections{ grid-template-columns:1fr 1fr; } }
-
 .section{
   background:#fff;
   border:1px solid var(--outline);
@@ -256,7 +252,7 @@ fieldset, .stack {text-align: left;}
   border:1px solid var(--outline);
   border-radius:var(--radius);
   box-shadow:inset 0 -1px 0 rgba(255,255,255,.3);
-  padding:18px;
+  padding: var(--pad); 
 }
 .section-card::after{
   content:"";
@@ -1865,111 +1861,6 @@ html { scroll-behavior: smooth; }
   }
 }
 
-/* ===== IN MEMORIAM PAGE ===== */
-.memoriam-columns{
-  display:grid;
-  grid-template-columns: repeat(auto-fit,minmax(360px,1fr));
-  gap:32px;
-  margin-top:24px;
-}
-
-
-
-.memoriam-col .col-title{
-  background:var(--primary);
-  color:var(--btn-text);
-  text-align:center;
-  text-transform:uppercase;
-  font-weight:800;
-  margin:-18px -18px 16px;
-  padding:16px 18px 12px;
-  border-top-left-radius:var(--radius);
-  border-top-right-radius:var(--radius);
-}
-
-/* keep even gutters and clip header to rounded corners */
-#memoriam .memoriam-col{
-  --pad: 16px;
-  padding: var(--pad);
-  overflow: hidden;               /* lets the purple header go full-bleed inside */
-}
-
-/* purple band touches sides/top of the inner card */
-#memoriam .col-title{
-  background: var(--primary);
-  color: var(--btn-text);
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  text-align: center;
-
-  margin: calc(var(--pad) * -1) calc(var(--pad) * -1) 12px; /* extend over padding */
-  padding: 10px 0 12px;
-  border-radius: var(--radius) var(--radius) 0 0;
-}
-
-/* list stack behavior mirrors partners fix */
-#memoriam .memoriam-list{
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  align-items: stretch;
-  padding: 0;
-  margin: 0;
-}
-
-/* belt-and-braces: prevent any horizontal scroll on this section */
-#memoriam{ overflow-x: hidden; }
-
-.memoriam-img {
-  width: 100%;
-  height: 320px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 0 0 18px 18px;
-  display: block;
-}
-
-.memoriam-col {
-  background: #fff;
-  border-radius: 18px;
-  box-shadow: 0 6px 20px rgba(0,0,0,.1);
-  overflow: hidden;
-  max-width: 320px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.memoriam-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 320px);
-  column-gap: 32px;
-  row-gap: 32px;
-  justify-content: center;
-  align-items: start;
-  margin: 32px auto 0;
-  width: 100%;
-  max-width: calc(2 * 320px + 32px); 
-}
-
-.memoriam-name {
-  background: var(--primary, #6b57b7);
-  color: #fff;
-  font-weight: 800;
-  text-align: center;
-  width: 100%;
-  padding: 10px 0;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.memoriam-columns {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
 /* 2-row nav: pills should touch the bar's top/bottom edges */
 @media (min-width:801px) and (max-width:1108px){
   .main-nav{
@@ -2314,53 +2205,9 @@ html { scroll-behavior: smooth; }
 
 /* let the list area grow to fill, footer sticks to bottom */
 .section .stack { flex: 1 1 auto; }
-.section .section-footer.mirrored-bar { margin-top: auto; }
+.section .section-footer.mirrored-bar { margin-top: 18px; }
 
-/* In Memoriam: make the purple header flush with the card edges */
-.section.section-card.memoriam > h2{
-  margin: -18px -18px 18px;  /* match the card's 18px padding */
-  padding: 12px 0 14px;      /* same vertical rhythm as other pages */
-  border-radius: 10px 10px 0 0;
-}
 
-/* Trim the extra space right under the title */
-.section.section-card.memoriam > p:first-of-type{
-  margin-top: 8px;           /* was browser default (~1em) */
-}
-
-#memoriam-form { display:flex; flex-direction:column; gap:18px; }
-
-#memoriam-form label { display:flex; flex-direction:column; }
-#memoriam-form label > span {
-  font-weight:700; color: var(--primary);
-  text-transform: uppercase; letter-spacing: .03em;
-}
-
-#memoriam-form input,
-#memoriam-form select,
-#memoriam-form textarea {
-  margin-top: 6px;
-  padding: 12px 14px;
-  border: 1px solid var(--outline);
-  border-radius: 10px;
-  font: 400 1rem 'Baloo 2', system-ui, sans-serif;
-  color: var(--text);
-  background: #fff;
-  box-shadow: var(--shadow);
-  transition: border .2s ease, box-shadow .2s ease;
-}
-
-#memoriam-form textarea { resize: vertical; }
-
-#memoriam-form input:focus,
-#memoriam-form select:focus,
-#memoriam-form textarea:focus {
-  outline: none;
-  border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(109,101,183,.25);
-}
-
-#memoriam-form .cf-turnstile{ margin-top:8px; margin-bottom:12px; }
 
 /* On-brand file input button */
 .brand-file {
@@ -2432,4 +2279,195 @@ html { scroll-behavior: smooth; }
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
+}
+/* Ongoing page: always one column */
+#ongoing-grid.cta-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--gap, 16px);
+  width: 800px;    /* optional: keeps cards nicely readable */
+  margin-inline: auto; /* optional: centers the column */
+}
+
+/* ===== IN MEMORIAM (consolidated) ===== */
+
+/* Page wrapper: no chrome here — the featured frame handles the border */
+.memoriam-columns{
+  width: 100%;
+  display: block;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+/* Card */
+.memoriam-col {
+  background: #fff;
+  border-radius: 16px;
+  padding: 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 450px;          /* consistent height across cards */
+}
+
+/* Name bar */
+.memoriam-name {
+  width: 100%;
+  background: var(--primary, #6D65B7);
+  color: #fff;
+  font-weight: 800;
+  text-align: center;
+  padding: 10px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+/* Image: 1:1, no squish */
+.memoriam-img{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  object-fit: cover;
+  object-position: 50% 50%;
+  border-radius: 12px;
+  display: block;
+  margin-bottom: 8px;
+}
+/* Nudge portrait shots so faces aren’t “bottom-hugging” */
+.memoriam-img.portrait { object-position: 50% 35%; }
+
+/* Keep the last paragraph from stretching heights unevenly */
+.memoriam-col p:last-child { margin-top: auto; }
+
+/* ==== Layout: Featured (top row) + Rest (below) ==== */
+
+/* Top row: two featured cards inside a single, tight frame */
+.memoriam-featured{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;                     /* tighter gap so border hugs the pair */
+  width: 100%;
+  margin: 0 0 24px;
+  padding: 10px;                 /* “tight” frame feel */
+  border: 3px solid var(--primary, #6D65B7);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+}
+.memoriam-featured .memoriam-col { margin: 0; } /* no inner margins */
+
+/* Fallback if your JS ever outputs .memoriam-grid--featured */
+.memoriam-grid--featured { grid-template-columns: repeat(2, minmax(0,1fr)); gap: 16px; }
+
+/* Below the featured: three per row, randomized in JS on each load */
+.memoriam-rest{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  width: 100%;
+}
+
+/* Responsive */
+@media (max-width: 980px){
+  .memoriam-rest{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 640px){
+  .memoriam-featured{ grid-template-columns: 1fr; }
+  .memoriam-rest{ grid-template-columns: 1fr; }
+}
+/* In Memoriam: match site padding */
+.section.section-card.memoriam{
+  padding: var(--pad);                 /* 14px instead of 18px */
+}
+/* Home split: Recent (left) + Ongoing (right) */
+.home-split{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+/* Collapse to single column on narrow screens */
+@media (max-width: 860px){
+  .home-split{
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Kill the per-section max-width and center margins inside the split */
+.home-split .section.section-card{
+  max-width: none;   /* ← removes the narrow cap */
+  width: 100%;
+  margin: 0;         /* ← no auto-centering */
+}
+
+/* Ensure inner stacks/buttons expand */
+.home-split .stack{ width: 100%; }
+.home-split .action-btn{ width: 100%; }
+
+/* Responsive collapse */
+@media (max-width: 860px){
+  .home-split{ grid-template-columns: 1fr; }
+  .home-split .section.section-card{ margin: 0; }
+}
+/* Resources: stack sections vertically (all breakpoints) */
+#resources .partners-columns,
+#resources .sections,
+#resources .resources-grid {
+  display: grid;
+  grid-template-columns: 1fr !important;
+}
+@media (max-width: 900px) {
+  #resources .partners-columns,
+  #resources .sections,
+  #resources .resources-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+/* Resources: two columns (desktop), stack on mobile */
+.resources-columns{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+@media (max-width: 900px){
+  .resources-columns{ grid-template-columns: 1fr; }
+}
+/* === Resources two-column layout === */
+.resources-grid{
+  display:grid;
+  gap:24px;
+  align-items:start;
+  grid-template-columns: 1fr;       /* mobile: single column */
+}
+@media (min-width: 900px){
+  .resources-grid{ grid-template-columns: 1fr 1fr; } /* desktop: two */
+}
+
+.resources-col{
+  background: var(--card, #fff);
+  border: 1px solid rgba(109,101,183,.25);
+  border-radius: 20px;
+  padding: var(--pad,14px);
+  box-shadow: var(--shadow, 0 6px 18px rgba(0,0,0,.06));
+}
+
+.resources-col .col-title{
+  margin: calc(var(--pad,14px) * -1) calc(var(--pad,14px) * -1) 18px;
+  padding: 14px 16px;
+  background: var(--purple, #6D65B7);
+  color: #fff;
+  text-align: center;
+  border-radius: 16px 16px 0 0;
+  letter-spacing: .4px;
+}
+
+/* make each link fill the row nicely (same pills as elsewhere) */
+#resources .resources-list .action-btn{
+  width: 100%;
 }
