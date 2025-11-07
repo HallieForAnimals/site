@@ -108,60 +108,47 @@ async function renderIndexEmailCTAs() {
   }
 }
 
-// --- Sticky banner: choose a recent CTA robustly ---
+// Banner shows latest CTA title; link goes to CTA URL if tag=email, else /cta.html
 async function updateBannerFromFirstEmail() {
-  // Find the banner + its text/link; support multiple markups
   const banner = document.getElementById('sticky-banner')
-             || document.querySelector('.sticky-banner')
-             || document.getElementById('banner');
+            || document.querySelector('.sticky-banner')
+            || document.querySelector('.banner');
   if (!banner) return;
 
-  const link = banner.querySelector('a') || banner.querySelector('.cta-link');
+  const linkEl = banner.querySelector('a') || banner.querySelector('.cta-link');
   const textEl = banner.querySelector('.cta-text') || banner.querySelector('.text') || banner;
 
   try {
-    const data = await fetchLinksJson();
-    const recentSec = (data.sections || []).find(s => /recent/i.test(s?.name || ''));
-    const recentLinks = Array.isArray(recentSec?.links) ? recentSec.links : [];
+    const data = await fetchLinksJson(); // your existing helper
+    const sections = Array.isArray(data?.sections) ? data.sections : [];
+    // Prefer the section named "Recent" (case-insensitive); else just use the first section
+    const recent = sections.find(s => /recent/i.test(s?.name || '')) || sections[0];
+    const items = Array.isArray(recent?.links) ? recent.links : [];
+    if (!items.length) { banner.hidden = true; return; }
 
-    // 1) Prefer explicit email CTAs
-    let candidates = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email');
+    // "Latest" = newest by date if present; otherwise keep existing order
+    const sorted = [...items].sort((a,b) => new Date(b.date||0) - new Date(a.date||0));
+    const latest = sorted[0];
 
-    // 2) If none, accept any mailto or shortlink (/s/slug)
-    if (!candidates.length) {
-      candidates = recentLinks.filter(it => {
-        const url = it.url || it.urlIndex || '';
-        return /^mailto:/i.test(url) || /\/s\/[^/]+/i.test(url);
-      });
+    const title = latest?.title || 'Take Action';
+    const tag   = (latest?.tag || '').toLowerCase();
+    const url   = latest?.urlIndex || latest?.url || '';
+
+    // Link rule: email-tagged -> its URL; otherwise -> /cta.html
+    const href  = (tag === 'email' && url) ? url : '/cta.html';
+
+    // Apply to DOM
+    if (textEl && textEl !== banner) textEl.textContent = title;       // banner title = latest CTA text
+    if (linkEl) {
+      linkEl.href = href;                                              // "Take Action" points correctly
+      if (!linkEl.textContent.trim()) linkEl.textContent = 'Take Action';
     }
-
-    // 3) If still none, fall back to any actionable CTA
-    if (!candidates.length) {
-      candidates = recentLinks.filter(isActionCTA);
-    }
-
-    // Newest → oldest (if date present)
-    candidates.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-
-    if (!candidates.length) {
-      banner.hidden = true;   // nothing to show
-      return;
-    }
-
-    const first = candidates[0];
-    const href = first.urlIndex || first.url || '#';
-    const title = first.title || 'Take Action';
-
-    if (textEl && textEl !== banner) textEl.textContent = title;
-    if (link) link.href = href;
     banner.hidden = false;
   } catch (err) {
-    console.warn('[banner] links.json not ready yet:', err);
-    // be graceful — don’t crash the page if JSON fails
+    console.warn('[banner] failed to load links.json:', err);
+    banner.hidden = true;
   }
 }
-
-
 
 
 // fetch and render
@@ -854,10 +841,10 @@ const panel =
   }
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', startTimer);
-  } else {
-    startTimer();
-  }
+  document.addEventListener('DOMContentLoaded', () => { updateBannerFromFirstEmail().catch(console.warn); }, { once:true });
+} else {
+  updateBannerFromFirstEmail().catch(console.warn);
+}
 
   // helper for testing
   window.hfaPopup = { show: showPopup, hide: hidePopup };
