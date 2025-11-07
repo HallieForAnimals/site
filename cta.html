@@ -39,14 +39,6 @@
   referrerpolicy="no-referrer"
 />
 
-  <!-- OneSignal (optional) -->
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
-  <script>
-    window.OneSignal = window.OneSignal || [];
-    OneSignal.push(function () {
-      OneSignal.init({ appId: "ca4a221d-b852-42df-920f-90f30c138756" });
-    });
-  </script>
 </head>
 <body id="top" class="page-cta">
 
@@ -173,5 +165,7 @@
     }catch(e){} })();
   </script>
     <a href="#top" id="back-to-top" aria-label="Back to top">↑</a>
+    <script src="/assets/js/track-lite.js" defer></script>
+
 </body>
 </html>
