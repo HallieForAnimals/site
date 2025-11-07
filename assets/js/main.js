@@ -15,8 +15,17 @@ const container = document.getElementById('sections') || document.getElementById
 
 function isActionCTA(item) {
   const t = (item.tag || '').toLowerCase();
-  return ['email', 'petition', 'donate', 'call', 'appeal'].includes(t);
+  // treat known tags + anything that clearly has an action URL as an actionable CTA
+  const known = ['email','petition','donate','call','appeal','action','cta'];
+  if (known.includes(t)) return true;
+
+  const url = item.url || item.urlIndex || '';
+  if (!url) return false;
+
+  // accept mailto, internal shortlinks (/s/slug), or any http(s)
+  return /^mailto:/i.test(url) || /\/s\/[^/]+/i.test(url) || /^https?:\/\//i.test(url) || /^\//.test(url) || /^#/.test(url);
 }
+
 
 function getEmailFromForm(form) {
   const v =
@@ -99,37 +108,31 @@ async function renderIndexEmailCTAs() {
   }
 }
 
-async function updateBannerFromFirstEmail() {
-  const banner = document.getElementById('banner');
-  const text = document.getElementById('banner-text');
-  const link = document.getElementById('banner-link');
-  if (!banner || !text || !link) return;
+// prefer explicit email-tagged CTAs
+let candidates = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email');
 
-  try {
-    const data = await fetchLinksJson();
-    // 1) find the "Recent" section
-    const recent = (data.sections || []).find(s => /recent/i.test(s?.name || ''));
-    const recentLinks = Array.isArray(recent?.links) ? recent.links : [];
-
-    // 2) only Email CTAs
-    const emails = recentLinks.filter(it => (it.tag || '').toLowerCase() === 'email');
-
-    // 3) newest → oldest by optional date field
-    emails.sort((a,b) => new Date(b.date||0) - new Date(a.date||0));
-
-    if (!emails.length) return;
-
-    const first = emails[0];
-    text.textContent = first.title || 'Take Action';
-    link.href = first.url || '#';
-    banner.hidden = false;
-
-    // keep CSS var in sync for layout
-    document.documentElement.style.setProperty('--banner-h', banner.offsetHeight + 'px');
-  } catch (e) {
-    console.error(e);
-  }
+// if none, accept anything that looks like a mailto or shortlink
+if (!candidates.length) {
+  candidates = recentLinks.filter(it => {
+    const url = it.url || it.urlIndex || '';
+    return /^mailto:/i.test(url) || /\/s\/[^/]+/i.test(url);
+  });
 }
+
+// if still none, fall back to any actionable CTA
+if (!candidates.length) {
+  candidates = recentLinks.filter(isActionCTA);
+}
+
+// newest → oldest by optional date field
+candidates.sort((a,b) => new Date(b.date||0) - new Date(a.date||0));
+if (!candidates.length) return;
+
+const first = candidates[0];
+text.textContent = first.title || 'Take Action';
+link.href = (first.url || first.urlIndex || '#');
+banner.hidden = false;
+
 
 
 // fetch and render
