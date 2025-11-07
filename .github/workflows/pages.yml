@@ -1,0 +1,41 @@
+name: pages-build-deployment
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/deploy.json'   # ← only deploy when this marker file changes
+  workflow_dispatch:
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # If your site is at repo root:
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .            # change to ./site if your site lives in /site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
