@@ -182,6 +182,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Testing The Non-Email CTA Builder",
+          "slug": "testing-the-non-email-cta-builder",
+          "caseId": "testing-the-non-email-cta-builder",
+          "instagram": "",
+          "description": "PUBLIC SERVICE ANNOUNCEMENT❗",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#testing-the-non-email-cta-builder",
+          "tag": "PSA",
+          "createdAt": "2025-11-08",
+          "noButton": true
+        },
+        {
           "title": "Testing Another Non Email CTA",
           "slug": "testing-another-non-email-cta",
           "caseId": "testing-another-non-email-cta",
