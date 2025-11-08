@@ -167,6 +167,23 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "testing non email cta",
+          "slug": "testing-non-email-cta",
+          "caseId": "testing-non-email-cta",
+          "instagram": "",
+          "description": "APPEAL FOR INFORMATION❗",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/email/testing-non-email-cta/",
+          "tag": "Appeal",
+          "createdAt": "2025-11-08"
+        },
+        {
           "title": "testing the trackers 2",
           "slug": "testing-the-trackers-2",
           "caseId": "tracker-test-2",
