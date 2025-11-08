@@ -182,6 +182,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Retesting Non Email CTA Builder",
+          "slug": "retesting-non-email-cta-builder",
+          "caseId": "retesting-non-email-cta-builder",
+          "instagram": "",
+          "description": "A new campaign has been posted — please take action.",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#retesting-non-email-cta-builder",
+          "tag": "BOLO",
+          "createdAt": "2025-11-08",
+          "noButton": true
+        },
+        {
           "title": "Testing The Non-Email CTA Builder",
           "slug": "testing-the-non-email-cta-builder",
           "caseId": "testing-the-non-email-cta-builder",
