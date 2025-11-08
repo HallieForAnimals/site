@@ -196,8 +196,7 @@
           "phones": [],
           "url": "/cta.html#retesting-non-email-cta-builder",
           "tag": "BOLO",
-          "createdAt": "2025-11-08",
-          "noButton": true
+          "createdAt": "2025-11-08"
         },
         {
           "title": "Testing The Non-Email CTA Builder",
