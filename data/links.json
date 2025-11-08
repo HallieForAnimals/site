@@ -196,8 +196,7 @@
           "phones": [],
           "url": "/cta.html#testing-the-non-email-cta-builder",
           "tag": "PSA",
-          "createdAt": "2025-11-08",
-          "noButton": true
+          "createdAt": "2025-11-08"
         },
         {
           "title": "Testing Another Non Email CTA",
