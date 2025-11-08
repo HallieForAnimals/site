@@ -167,6 +167,23 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "re testing non email cta",
+          "slug": "re-testing-non-email-cta",
+          "caseId": "re-testing-non-email-cta",
+          "instagram": "",
+          "description": "APPEAL FOR INFORMATION❗",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/email/re-testing-non-email-cta/",
+          "tag": "Appeal",
+          "createdAt": "2025-11-08"
+        },
+        {
           "title": "testing non email cta",
           "slug": "testing-non-email-cta",
           "caseId": "testing-non-email-cta",
