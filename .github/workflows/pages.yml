@@ -1,0 +1,56 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+    # Deploy when your app updates these
+    paths:
+      - 'data/links.json'
+      - 'email/**'
+      # plus typical surface files that drive the banner/index/cta
+      - 'index.html'
+      - 'cta.html'
+      - 'ongoing.html'
+      - 'updates.html'
+      - 'assets/**'
+      - 'data/**'
+  workflow_dispatch:
+
+# Needed for the Pages deploy action
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# IMPORTANT: do not cancel in-progress runs (prevents the “cancelled” chain reaction)
+concurrency:
+  group: 'pages-deploy'
+  cancel-in-progress: false
+
+# If you haven’t already, make sure your repo settings:
+# Settings → Pages → Build and deployment → Source = GitHub Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # If you have a build step, add it here.
+      # For a pure static site, just upload the repo as the artifact:
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deploy
+        name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
