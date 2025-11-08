@@ -160,6 +160,21 @@
           "url2": "https://tinyurl.com/mta8x92p",
           "buttonText2": "Take Action",
           "tag": "Ongoing"
+        },
+        {
+          "title": "",
+          "slug": "ongoing",
+          "url": "",
+          "buttonText": "",
+          "url2": "",
+          "buttonText2": "",
+          "urlIndex": "",
+          "description2Title": "",
+          "description2": "",
+          "description3Title": "",
+          "description3": [],
+          "targets": [],
+          "tag": "Ongoing"
         }
       ]
     },
