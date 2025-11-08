@@ -167,23 +167,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Test Email CTA",
-          "slug": "test-email-cta",
-          "caseId": "test-email-cta",
-          "instagram": "",
-          "description": "A new campaign has been posted — please take action.",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "mailto:?subject=Test%20Email%20CTA&body=To%20whom%20it%20may%20concern%2C%0A%0ATest%20Email%20CTA%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "createdAt": "2025-11-08"
-        },
-        {
           "title": "Demand An Investigation Into Georgie's Injuries",
           "slug": "demand-an-investigation-into-georgies-injuries",
           "caseId": "georgie-oklahoma",
