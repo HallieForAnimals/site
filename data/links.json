@@ -167,6 +167,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test Internal",
+          "slug": "non-email-cta-test-internal",
+          "caseId": "non-email-cta-test-internal",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#non-email-cta-test-internal",
+          "tag": "BOLO",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-cta-test-internal",
+          "createdAt": "2025-11-09"
+        },
+        {
           "title": "Non-Email CTA Test External",
           "slug": "non-email-cta-test-external",
           "caseId": "non-email-cta-test-external",
