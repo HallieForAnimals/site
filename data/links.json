@@ -167,6 +167,23 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test External",
+          "slug": "non-email-cta-test-external",
+          "caseId": "non-email-cta-test-external",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "https://www.instagram.com/hallieforanimals",
+          "tag": "Scam",
+          "createdAt": "2025-11-09"
+        },
+        {
           "title": "Non-Email CTA Test Internal",
           "slug": "non-email-cta-test-internal",
           "caseId": "non-email-cta-test-internal",
