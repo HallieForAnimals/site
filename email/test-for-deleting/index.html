@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Opening your email…</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="2;url=mailto:?subject=Test%20For%20Deleting&body=To%20whom%20it%20may%20concern%2C%0A%0Agdgdfg%0A%0ASincerely%2C%0A">
+<style>
+  :root { color-scheme: dark light; --bg:#0f1116; --fg:#e8eaed; --accent:#6D65B7; --muted:#9aa0a6; }
+  body{margin:0;min-height:100dvh;display:grid;place-items:center;background:var(--bg);color:var(--fg);font:600 16px/1.4 system-ui,Segoe UI,Roboto,sans-serif}
+  .card{width:min(560px,92vw);border:1px solid rgba(109,101,183,.35);border-radius:16px;padding:24px;box-shadow:0 10px 40px rgba(0,0,0,.45);background:#0f1116}
+  h1{margin:0 0 8px;font-weight:800;font-size:1.2rem}
+  p{margin:6px 0;color:var(--muted)}
+  a.button{display:inline-block;margin-top:12px;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;text-decoration:none;font-weight:700}
+  code{font-family:ui-monospace,Consolas,monospace}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  button{padding:8px 12px;border-radius:10px;border:1px solid rgba(109,101,183,.35);background:transparent;color:#e8eaed;cursor:pointer}
+</style>
+</head>
+<body>
+  <div class="card" role="dialog" aria-live="polite">
+    <h1>Opening your email app…</h1>
+    <p>If nothing happens, tap the button below.</p>
+    <div class="row">
+      <a id="open" class="button" href="mailto:?subject=Test%20For%20Deleting&body=To%20whom%20it%20may%20concern%2C%0A%0Agdgdfg%0A%0ASincerely%2C%0A" rel="nofollow">Open email</a>
+      <a id="done-return" class="button" href="https://hallieforanimals.org/cta.html" rel="nofollow">Done? Back to CTA</a>
+    </div>
+  </div>
+
+<script>
+(function(){
+  const SLUG='test-for-deleting', CTA_ID='test-for-deleting', MAILTO="mailto:?subject=Test%20For%20Deleting&body=To%20whom%20it%20may%20concern%2C%0A%0Agdgdfg%0A%0ASincerely%2C%0A", RETURN_TO='https://hallieforanimals.org/cta.html';
+  function ping(stage){
+    try{
+      const b=new Blob([JSON.stringify({kind:'email',slug:SLUG,cta_id:CTA_ID,stage})],{type:'application/json'});
+      if(navigator.sendBeacon) navigator.sendBeacon('/api/click',b);
+      else new Image().src='/api/click?kind=email&slug='+encodeURIComponent(SLUG)+'&stage='+stage+'&t='+Date.now();
+    }catch(_){}
+  }
+  // count land
+  ping('open');
+  // launch email (after tiny delay to flush beacon)
+  setTimeout(()=>{ try{location.replace(MAILTO);}catch{location.href=MAILTO;} },75);
+
+  let redirected=false;
+  function goBack(){ if(redirected) return; redirected=true; ping('return'); location.assign(RETURN_TO); }
+
+  // on return from mail client → CTA
+  window.addEventListener('focus',()=>setTimeout(goBack,120));
+  document.addEventListener('visibilitychange',()=>{ if(!document.hidden) setTimeout(goBack,120); });
+  window.addEventListener('pageshow',e=>{ if(e.persisted) setTimeout(goBack,120); });
+
+  document.getElementById('done-return')?.addEventListener('click',e=>{ e.preventDefault(); goBack(); });
+})();
+</script>
+</body>
+</html>
