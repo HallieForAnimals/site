@@ -167,40 +167,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Non-Email CTA Test Internal",
-          "slug": "non-email-cta-test-internal",
-          "caseId": "non-email-cta-test-internal",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "/cta.html",
-          "tag": "Appeal",
-          "createdAt": "2025-11-09"
-        },
-        {
-          "title": "Non-Email CTA Test",
-          "slug": "non-email-cta-test",
-          "caseId": "non-email-cta-test",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "instagram.com/hallieforanimals",
-          "tag": "Abuser",
-          "createdAt": "2025-11-09"
-        },
-        {
           "title": "Demand An Investigation Into Georgie's Injuries",
           "slug": "demand-an-investigation-into-georgies-injuries",
           "caseId": "georgie-oklahoma",
