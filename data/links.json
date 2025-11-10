@@ -167,6 +167,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test External 3",
+          "slug": "non-email-cta-test-external-3",
+          "caseId": "non-email-cta-test-external-3",
+          "instagram": "",
+          "description": "SCAM SCAM SCAM SCAM SCAM",
+          "location": {
+            "country": "Antigua and Barbuda",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "https://www.penisland.com/",
+          "tag": "Scam",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-cta-test-external-3",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Non-Email CTA Test External 2",
           "slug": "non-email-cta-test-external-2",
           "caseId": "non-email-cta-test-external-2",
