@@ -167,6 +167,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test Internal 2",
+          "slug": "non-email-cta-test-internal-2",
+          "caseId": "non-email-cta-test-internal-2",
+          "instagram": "",
+          "description": "Another test. Cause you never know",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#non-email-cta-test-internal-2",
+          "tag": "Abuser",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-cta-test-internal-2",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Email CTA Test 6",
           "slug": "email-cta-test-6",
           "caseId": "email-cta-test-6",
