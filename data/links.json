@@ -167,6 +167,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Email CTA Test 7",
+          "slug": "email-cta-test-7",
+          "caseId": "email-cta-test-7",
+          "instagram": "",
+          "description": "sdsdghsdgds",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "mailto:?subject=Email%20CTA%20Test%207&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-7",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Non-Email CTA Test External 3",
           "slug": "non-email-cta-test-external-3",
           "caseId": "non-email-cta-test-external-3",
