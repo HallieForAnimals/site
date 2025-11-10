@@ -441,24 +441,6 @@
           "createdAt": "2025-11-10"
         },
         {
-          "title": "Email CTA  Test",
-          "slug": "email-cta-test",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "mailto:?subject=Email%20CTA%20%20Test&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test",
-          "createdAt": "2025-11-09"
-        },
-        {
           "title": "Demand An Investigation Into Georgie's Injuries",
           "slug": "demand-an-investigation-into-georgies-injuries",
           "caseId": "georgie-oklahoma",
