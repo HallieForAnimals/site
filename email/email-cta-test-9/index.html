@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Opening your email…</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta http-equiv="refresh" content="2;url=mailto:?subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A">
+<meta http-equiv="refresh" content="2;url=mailto:test@test.com?cc=test%40test.com&bcc=test%40test.com&subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A">
 <style>
   :root { color-scheme: dark light; --bg:#0f1116; --fg:#e8eaed; --accent:#6D65B7; --muted:#9aa0a6; }
   body{margin:0;min-height:100dvh;display:grid;place-items:center;background:var(--bg);color:var(--fg);font:600 16px/1.4 system-ui,Segoe UI,Roboto,sans-serif}
@@ -22,14 +22,14 @@
     <h1>Opening your email app…</h1>
     <p>If nothing happens, tap the button below.</p>
     <div class="row">
-      <a id="open" class="button" href="mailto:?subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A" rel="nofollow">Open email</a>
+      <a id="open" class="button" href="mailto:test@test.com?cc=test%40test.com&bcc=test%40test.com&subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A" rel="nofollow">Open email</a>
       <a id="done-return" class="button" href="https://hallieforanimals.org/cta.html" rel="nofollow">Done? Back to CTA</a>
     </div>
   </div>
 
 <script>
 (function(){
-  const SLUG='email-cta-test-9', CTA_ID='email-cta-test-9', MAILTO="mailto:?subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A", RETURN_TO='https://hallieforanimals.org/cta.html';
+  const SLUG='email-cta-test-9', CTA_ID='email-cta-test-9', MAILTO="mailto:test@test.com?cc=test%40test.com&bcc=test%40test.com&subject=Email%20CTA%20Test%209&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A", RETURN_TO='https://hallieforanimals.org/cta.html';
   function ping(stage){
     try{
       const b=new Blob([JSON.stringify({kind:'email',slug:SLUG,cta_id:CTA_ID,stage})],{type:'application/json'});
