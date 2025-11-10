@@ -167,6 +167,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Protect Abused and Neglected Dogs on Skid Row",
+          "slug": "protect-abused-and-neglected-dogs-on-skid-row",
+          "caseId": "skid-row",
+          "instagram": "",
+          "description": "Luke here survived with third-degree burns and smoke-damaged lungs. The other dog is still lying dead on Florence Ave. nearly a week later.\n\nPeople in the encampment are claiming Luke “got a fright and jumped into the fire.” Bullshit. Dogs don’t “accidentally” swan-dive into flames. Someone lit that fire, and then they refused to give him up for treatment.\n@compton_paw_patrol pulled Luke out of the camp and got him to a vet.\n\nIf you're interested in being Luke's foster once he's out of the vet, DM @compton_paw_patrol\n\nAnd please consider donating to @compton_paw_patrol. Vet treatment isn't cheap.\n\nThank you, @therealpaulmueller, for sharing his story.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Los Angeles"
+          },
+          "targets": [
+            "LA Council Members & The DA"
+          ],
+          "phones": [
+            {
+              "who": "Crime Stoppers",
+              "main": "+1 800 222 8477",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:councilmember.jurado@lacity.org,curtis.watts@lacity.org,yvonne.rodriguez@lacity.org,info@da.lacounty.gov,cityatty.help@lacity.org?subject=Urgent%20Action%20Required%20for%20Skid%20Row%20Dogs&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20writing%20with%20deep%20concern%20to%20demand%20immediate%20and%20sustained%20action%20to%20protect%20the%20abused%20and%20neglected%20animals%20living%20in%20the%20Skid%20Row%20area%20of%20Downtown%20Los%20Angeles.%0A%0AWhile%20Skid%20Row%E2%80%99s%20human%20crisis%20rightly%20draws%20attention%2C%20we%20cannot%20ignore%20the%20silent%20suffering%20of%20the%20countless%20animals%20trapped%20in%20this%20humanitarian%20emergency%2C%20sick%2C%20starving%2C%20mistreated%2C%20and%20exposed%20to%20extreme%20elements%20without%20care%20or%20protection.%0A%0AMany%20of%20these%20animals%20are%20left%20to%20endure%3A%0A%0AChronic%20malnutrition%20and%20dehydration%0A%0ALack%20of%20medical%20treatment%2C%20vaccinations%2C%20or%20sterilization%0A%0AViolent%20abuse%20or%20improper%20restraints%0A%0AForced%20drug%20use%20and%20overdose%0A%0ALong-term%20exposure%20to%20extreme%20heat%20or%20cold%0A%0ADangerous%2C%20unsanitary%20conditions%20with%20no%20oversight%0A%0AThese%20acts%2C%20whether%20by%20neglect%20or%20deliberate%20cruelty%2C%20are%20violations%20of%20California%20Penal%20Code%20597%2C%20yet%20enforcement%20is%20virtually%20nonexistent.%20Compassion%20should%20never%20be%20selective.%20Animals%20in%20Skid%20Row%20are%20just%20as%20deserving%20of%20protection%20under%20the%20law%20as%20those%20in%20any%20other%20neighborhood.%0A%0AWe%20urge%20the%20City%20of%20Los%20Angeles%20to%3A%0A%0ACreate%20a%20dedicated%20task%20force%20to%20identify%20and%20intervene%20in%20cases%20of%20animal%20abuse%20and%20neglect%20on%20Skid%20Row.%0A%0AProvide%20accessible%20veterinary%20outreach%20services%2C%20including%20food%2C%20treatment%2C%20and%20spay%2Fneuter%20programs%20to%20pet%20owners%20in%20need.%0A%0AHold%20perpetrators%20of%20abuse%20accountable%20through%20appropriate%20penalties%20and%20interventions.%0A%0AImplement%20co-sheltering%20policies%20so%20that%20people%20do%20not%20have%20to%20choose%20between%20housing%20and%20keeping%20their%20animals%20safe.%0A%0AAnimal%20cruelty%20is%20never%20excusable%2C%20regardless%20of%20circumstance.%20Los%20Angeles%20has%20the%20opportunity%20to%20lead%20with%20both%20compassion%20and%20accountability.%0A%0APlease%20act%20now.%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/protect-abused-and-neglected-dogs-on-skid-row",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Demand An Investigation Into Georgie's Injuries",
           "slug": "demand-an-investigation-into-georgies-injuries",
           "caseId": "georgie-oklahoma",
