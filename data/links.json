@@ -167,6 +167,30 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test 3",
+          "slug": "non-email-cta-test-3",
+          "caseId": "non-email-cta-test-3",
+          "instagram": "",
+          "description": "Abuser alert. Blah blah blah",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Brooklyn"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "",
+              "main": "+1",
+              "ext": ""
+            }
+          ],
+          "url": "/cta.html#non-email-cta-test-3",
+          "tag": "Abuser",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-cta-test-3",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Non-Email CTA Test Internal 2",
           "slug": "non-email-cta-test-internal-2",
           "caseId": "non-email-cta-test-internal-2",
