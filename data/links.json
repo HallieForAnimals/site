@@ -167,6 +167,30 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email CTA Test External 2",
+          "slug": "non-email-cta-test-external-2",
+          "caseId": "non-email-cta-test-external-2",
+          "instagram": "",
+          "description": "ghsdhgsdhsdhsdh",
+          "location": {
+            "country": "Angola",
+            "region": "asdgasdga",
+            "locality": "dsgasdgag"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "",
+              "main": "+244",
+              "ext": ""
+            }
+          ],
+          "url": "https://go.hallieforanimals.org/t/non-email-cta-test-external-2",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-cta-test-external-2",
+          "createdAt": "2025-11-10"
+        },
+        {
           "title": "Non-Email CTA Test 3",
           "slug": "non-email-cta-test-3",
           "caseId": "non-email-cta-test-3",
