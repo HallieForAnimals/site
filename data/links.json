@@ -193,6 +193,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Justice For Aria Update",
+          "slug": "justice-for-aria-update",
+          "caseId": "justice-for-aria",
+          "instagram": "",
+          "description": "dshsdhsdhsdh",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "https://www.petition.com/example",
+          "tag": "Update",
+          "shortlink": "https://go.hallieforanimals.org/t/justice-for-aria-update",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Demand Animal Welfare Laws in Vietnam Update",
           "slug": "demand-animal-welfare-laws-in-vietnam-update",
           "caseId": "vietnam-laws",
