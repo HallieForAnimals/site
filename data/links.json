@@ -193,6 +193,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Email CTA Test 1 Update",
+          "slug": "email-cta-test-1-update",
+          "caseId": "email-cta-test-1",
+          "instagram": "",
+          "description": "agtagag",
+          "location": {
+            "country": "Nicaragua",
+            "region": "wertwert",
+            "locality": "ewrtwert"
+          },
+          "targets": [
+            "ertwert"
+          ],
+          "phones": [
+            {
+              "who": "wertwert",
+              "main": "+505 45643564",
+              "ext": "5646"
+            }
+          ],
+          "url": "mailto:rtgewgg?subject=wertwetrwet&body=To%20whom%20it%20may%20concern%2C%0A%0Awertwertwert%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-1-update",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Non-Email External CTA Test 1",
           "slug": "non-email-external-cta-test-1",
           "caseId": "non-email-external-cta-test-1",

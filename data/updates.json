@@ -1,1 +1,44 @@
-
+[
+  {
+    "title": "Email CTA Test 1",
+    "status": "resolved",
+    "summary": "dgfwsdhwsjahadhjasdh",
+    "date": "2025-11-11",
+    "caseId": "email-cta-test-1",
+    "slug": "email-cta-test-1",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/email-cta-test-1-update"
+      }
+    ]
+  },
+  {
+    "title": "Non-Email External CTA Test 1 Update",
+    "status": "resolved",
+    "summary": "This is a testThis is a testThis is a testThis is a testThis is a testThis is a test",
+    "date": "2025-11-11",
+    "caseId": "non-email-external-cta-test-1",
+    "slug": "non-email-external-cta-test-1-update",
+    "links": [
+      {
+        "label": "New",
+        "url": "www.example.com"
+      }
+    ]
+  },
+  {
+    "title": "Non-Email External CTA Test 1",
+    "status": "ongoing",
+    "summary": "This is a testThis is a testThis is a testThis is a testThis is a test",
+    "date": "2025-11-11",
+    "caseId": "email-cta-test-1",
+    "slug": "non-email-external-cta-test-1",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/email-cta-test-1-update"
+      }
+    ]
+  }
+]
