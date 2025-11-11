@@ -1,16 +1,1 @@
-[
-  {
-    "title": "Email CTA Test Arrest",
-    "status": "resolved",
-    "summary": "case closed",
-    "date": "2025-11-11",
-    "caseId": "email-cta-test",
-    "slug": "email-cta-test-arrest",
-    "links": [
-      {
-        "label": "Take Action",
-        "url": "https://go.hallieforanimals.org/t/email-cta-test-prosecution"
-      }
-    ]
-  }
-]
+[]
