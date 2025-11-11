@@ -193,6 +193,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email Internal CTA Test 1",
+          "slug": "non-email-internal-cta-test-1",
+          "caseId": "non-email-internal-cta-test-1",
+          "instagram": "",
+          "description": "Test",
+          "location": {
+            "country": "American Samoa",
+            "region": "Test",
+            "locality": "test"
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#non-email-internal-cta-test-1",
+          "tag": "BOLO",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-internal-cta-test-1",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Email CTA Test 1",
           "slug": "email-cta-test-1",
           "caseId": "email-cta-test-1",
