@@ -193,6 +193,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Email CTA Test 1",
+          "slug": "email-cta-test-1",
+          "caseId": "email-cta-test-1",
+          "instagram": "",
+          "description": "This is a test",
+          "location": {
+            "country": "Jordan",
+            "region": "This is a test",
+            "locality": "This is a test"
+          },
+          "targets": [
+            "This is a test"
+          ],
+          "phones": [
+            {
+              "who": "This is a test",
+              "main": "+962 546745674567",
+              "ext": "5566"
+            }
+          ],
+          "url": "mailto:test@test.com?subject=This%20is%20a%20test&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20test%0A%0AEvidence%3A%20www.example.com%0A%0AThis%20is%20a%20test%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-1",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Protect Abused and Neglected Dogs on Skid Row",
           "slug": "protect-abused-and-neglected-dogs-on-skid-row",
           "caseId": "skid-row",
