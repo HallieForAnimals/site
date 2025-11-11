@@ -193,26 +193,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Stop Bronx Cat Killer Update",
-          "slug": "stop-bronx-cat-killer-update",
-          "caseId": "bronx-cat-killer",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [
-            "fdghsdhsdsd"
-          ],
-          "phones": [],
-          "url": "https://www.petition.com/",
-          "tag": "Update",
-          "shortlink": "https://go.hallieforanimals.org/t/stop-bronx-cat-killer-update",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email External CTA Test 1",
           "slug": "non-email-external-cta-test-1",
           "caseId": "non-email-external-cta-test-1",
