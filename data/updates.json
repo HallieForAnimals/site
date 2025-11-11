@@ -1,15 +1,15 @@
 [
   {
-    "title": "Email CTA Test",
+    "title": "Non-Email External CTA Test",
     "status": "ongoing",
-    "summary": "SDGHHJKHDFGDHDFJDGHKJGH",
+    "summary": "sdhgjlkjtkythyrehjtjrtjhjtrshjtshshtx",
     "date": "2025-11-11",
-    "caseId": "email-cta-test",
-    "slug": "email-cta-test",
+    "caseId": "non-email-external-cta-test",
+    "slug": "non-email-external-cta-test",
     "links": [
       {
         "label": "Take Action",
-        "url": "https://go.hallieforanimals.org/t/email-cta-test-update-no-email-test"
+        "url": "https://go.hallieforanimals.org/t/non-email-external-cta-test-update-with-email"
       }
     ]
   }

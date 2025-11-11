@@ -193,6 +193,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email External CTA Test Update With Email",
+          "slug": "non-email-external-cta-test-update-with-email",
+          "caseId": "non-email-external-cta-test",
+          "instagram": "",
+          "description": "dsdshshsdh",
+          "location": {
+            "country": "Mozambique",
+            "region": "sghgh",
+            "locality": "sdghgh"
+          },
+          "targets": [
+            "sdfhshg"
+          ],
+          "phones": [
+            {
+              "who": "dsghdgh",
+              "main": "+258 5677676",
+              "ext": "6666"
+            }
+          ],
+          "url": "mailto:s,hdghsdhsdfh?subject=dhsdfghsgh&body=To%20whom%20it%20may%20concern%2C%0A%0Asdhsdfghshg%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-external-cta-test-update-with-email",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Email CTA Test Update-No-Email Test",
           "slug": "email-cta-test-update-no-email-test",
           "caseId": "email-cta-test",
