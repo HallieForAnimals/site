@@ -193,6 +193,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Email CTA Test 1 Update",
+          "slug": "email-cta-test-1-update",
+          "caseId": "email-cta-test-1",
+          "instagram": "",
+          "description": "This is a test",
+          "location": {
+            "country": "Laos",
+            "region": "This is a test",
+            "locality": "This is a test"
+          },
+          "targets": [
+            "This is a test"
+          ],
+          "phones": [
+            {
+              "who": "This is a test",
+              "main": "+856 65745745",
+              "ext": "6666"
+            }
+          ],
+          "url": "mailto:test@test.com?subject=This%20is%20a%20test&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20test%0A%0AEvidence%3A%20www.example.com%0A%0AThis%20is%20a%20test%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-1-update",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Non-Email External CTA Test 1",
           "slug": "non-email-external-cta-test-1",
           "caseId": "non-email-external-cta-test-1",
