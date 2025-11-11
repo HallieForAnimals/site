@@ -219,24 +219,6 @@
           "createdAt": "2025-11-11"
         },
         {
-          "title": "Email CTA Test Update-No-Email Test",
-          "slug": "email-cta-test-update-no-email-test",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "agasgasga",
-          "location": {
-            "country": "Qatar",
-            "region": "dfghsd",
-            "locality": "dghsdg"
-          },
-          "targets": [],
-          "phones": [],
-          "url": "https://www.youtube.com/",
-          "tag": "Appeal",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-update-no-email-test",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email External CTA Test",
           "slug": "non-email-external-cta-test",
           "caseId": "non-email-external-cta-test",
