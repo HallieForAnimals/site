@@ -1,5 +1,19 @@
 [
   {
+    "title": "Non-Email External CTA Test",
+    "status": "ongoing",
+    "summary": "",
+    "date": "2025-11-11",
+    "caseId": "non-email-external-cta-test",
+    "slug": "non-email-external-cta-test",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/non-email-external-cta-test-update"
+      }
+    ]
+  },
+  {
     "title": "Email CTA Test",
     "status": "ongoing",
     "summary": "gehwgasdg",
