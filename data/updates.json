@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "title": "Email CTA Test",
+    "status": "ongoing",
+    "summary": "SDGHHJKHDFGDHDFJDGHKJGH",
+    "date": "2025-11-11",
+    "caseId": "email-cta-test",
+    "slug": "email-cta-test",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/email-cta-test-update-no-email-test"
+      }
+    ]
+  }
+]
