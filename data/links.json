@@ -213,24 +213,6 @@
           "createdAt": "2025-11-11"
         },
         {
-          "title": "Non-Email Internal CTA Test 1 Update",
-          "slug": "non-email-internal-cta-test-1-update",
-          "caseId": "non-email-internal-cta-test-1",
-          "instagram": "",
-          "description": "dsafhgasdfhdashf",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "https://www.youtube.com/",
-          "tag": "PSA",
-          "shortlink": "https://go.hallieforanimals.org/t/non-email-internal-cta-test-1-update",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email External CTA Test 1",
           "slug": "non-email-external-cta-test-1",
           "caseId": "non-email-external-cta-test-1",
