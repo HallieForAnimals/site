@@ -193,6 +193,30 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email Internal CTA Test",
+          "slug": "non-email-internal-cta-test",
+          "caseId": "non-email-internal-cta-test",
+          "instagram": "",
+          "description": "dsfghgjhsadgdh",
+          "location": {
+            "country": "Libya",
+            "region": "ghksdahj",
+            "locality": "dgjdffg"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "gdsfhgj",
+              "main": "+218 4676",
+              "ext": "66767"
+            }
+          ],
+          "url": "/cta.html#non-email-internal-cta-test",
+          "tag": "BOLO",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-internal-cta-test",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Email CTA Test",
           "slug": "email-cta-test",
           "caseId": "email-cta-test",
