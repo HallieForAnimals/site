@@ -217,32 +217,6 @@
           "createdAt": "2025-11-11"
         },
         {
-          "title": "Email CTA Test Update",
-          "slug": "email-cta-test-update",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "hdhsdhdh",
-          "location": {
-            "country": "Antigua and Barbuda",
-            "region": "sdhsdh",
-            "locality": "sdhsdh"
-          },
-          "targets": [
-            "sdhsdahs"
-          ],
-          "phones": [
-            {
-              "who": "sdfhsdh",
-              "main": "+1 5674567",
-              "ext": "565"
-            }
-          ],
-          "url": "mailto:hsghdfhgsgh?subject=sdhsghsdh&body=To%20whom%20it%20may%20concern%2C%0A%0Asdhdahsh%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-update",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email External CTA Test",
           "slug": "non-email-external-cta-test",
           "caseId": "non-email-external-cta-test",
