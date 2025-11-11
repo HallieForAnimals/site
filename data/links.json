@@ -193,24 +193,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Demand Animal Welfare Laws in Vietnam Update",
-          "slug": "demand-animal-welfare-laws-in-vietnam-update",
-          "caseId": "vietnam-laws",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "https://go.hallieforanimals.org/t/demand-animal-welfare-laws-in-vietnam-update",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/demand-animal-welfare-laws-in-vietnam-update",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email Internal CTA Test 1 Update",
           "slug": "non-email-internal-cta-test-1-update",
           "caseId": "non-email-internal-cta-test-1",
