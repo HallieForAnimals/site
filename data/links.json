@@ -193,6 +193,30 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email External CTA Test",
+          "slug": "non-email-external-cta-test",
+          "caseId": "non-email-external-cta-test",
+          "instagram": "",
+          "description": "fgjhdfhsjfgsdh",
+          "location": {
+            "country": "Angola",
+            "region": "gfhghsd",
+            "locality": "hdhhg"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "ghdsghsfg",
+              "main": "+244 56756",
+              "ext": "6767"
+            }
+          ],
+          "url": "https://www.youtube.com/",
+          "tag": "Scam",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-external-cta-test",
+          "createdAt": "2025-11-11"
+        },
+        {
           "title": "Non-Email Internal CTA Test",
           "slug": "non-email-internal-cta-test",
           "caseId": "non-email-internal-cta-test",
