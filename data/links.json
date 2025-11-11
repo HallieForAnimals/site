@@ -229,32 +229,6 @@
           "createdAt": "2025-11-11"
         },
         {
-          "title": "Email CTA Test Arrest",
-          "slug": "email-cta-test-arrest",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "hgsdhsdfhgdsfhg",
-          "location": {
-            "country": "Antigua and Barbuda",
-            "region": "dsfgdgdsfg",
-            "locality": "dsfgsdfg"
-          },
-          "targets": [
-            "sgdsdgsdf"
-          ],
-          "phones": [
-            {
-              "who": "gsdfgsdfg",
-              "main": "+1 4356454",
-              "ext": "56456"
-            }
-          ],
-          "url": "mailto:djhghghghg?subject=hghghghgd&body=To%20whom%20it%20may%20concern%2C%0A%0Ahdgghhgh%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-arrest",
-          "createdAt": "2025-11-11"
-        },
-        {
           "title": "Non-Email External CTA Test",
           "slug": "non-email-external-cta-test",
           "caseId": "non-email-external-cta-test",
