@@ -193,24 +193,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Email CTA Test Prosecution",
-          "slug": "email-cta-test-prosecution",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "/cta.html#email-cta-test-prosecution",
-          "tag": "Update",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-prosecution",
-          "createdAt": "2025-11-12"
-        },
-        {
           "title": "Non-Email Internal CTA Test Update",
           "slug": "non-email-internal-cta-test-update",
           "caseId": "non-email-internal-cta-test",
