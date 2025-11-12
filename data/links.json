@@ -229,24 +229,6 @@
           "createdAt": "2025-11-12"
         },
         {
-          "title": "Email CTA Test Arrest",
-          "slug": "email-cta-test-arrest",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "mailto:dfgsdgsd?subject=sdfgsdgsd&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-arrest",
-          "createdAt": "2025-11-12"
-        },
-        {
           "title": "Non-Email External CTA Test",
           "slug": "non-email-external-cta-test",
           "caseId": "non-email-external-cta-test",
