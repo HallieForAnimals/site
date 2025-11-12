@@ -193,24 +193,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Email CTA Test Prosecution",
-          "slug": "email-cta-test-prosecution",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "/cta.html#email-cta-test-prosecution",
-          "tag": "Update",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test-prosecution",
-          "createdAt": "2025-11-12"
-        },
-        {
           "title": "Non-Email Internal CTA Test Update",
           "slug": "non-email-internal-cta-test-update",
           "caseId": "non-email-internal-cta-test",
@@ -280,32 +262,6 @@
           "url": "/cta.html#non-email-internal-cta-test",
           "tag": "PSA",
           "shortlink": "https://go.hallieforanimals.org/t/non-email-internal-cta-test",
-          "createdAt": "2025-11-11"
-        },
-        {
-          "title": "Email CTA Test",
-          "slug": "email-cta-test",
-          "caseId": "email-cta-test",
-          "instagram": "",
-          "description": "hthhsh",
-          "location": {
-            "country": "Armenia",
-            "region": "shsdhsdh",
-            "locality": "sdhsdhs"
-          },
-          "targets": [
-            "dhshs"
-          ],
-          "phones": [
-            {
-              "who": "ghshh",
-              "main": "+374 45456",
-              "ext": "456456"
-            }
-          ],
-          "url": "mailto:dfghghgh?subject=sdfghfgshgh&body=To%20whom%20it%20may%20concern%2C%0A%0Ashshgshshg%0A%0AEvidence%3A%20www.youtube.com%0A%0Asddhsghsghg%0A%0ASincerely%2C%0A",
-          "tag": "Email",
-          "shortlink": "https://go.hallieforanimals.org/t/email-cta-test",
           "createdAt": "2025-11-11"
         },
         {
