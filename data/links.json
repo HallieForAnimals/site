@@ -193,6 +193,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Non-Email Internal CTA Test Update",
+          "slug": "non-email-internal-cta-test-update",
+          "caseId": "non-email-internal-cta-test",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "/cta.html#non-email-internal-cta-test-update",
+          "tag": "Update",
+          "shortlink": "https://go.hallieforanimals.org/t/non-email-internal-cta-test-update",
+          "createdAt": "2025-11-12"
+        },
+        {
           "title": "Email CTA Test Arrest",
           "slug": "email-cta-test-arrest",
           "caseId": "email-cta-test",
