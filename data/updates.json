@@ -12,5 +12,19 @@
         "url": "https://go.hallieforanimals.org/t/non-email-internal-cta-test-update"
       }
     ]
+  },
+  {
+    "title": "Email CTA Test Arrest",
+    "status": "ongoing",
+    "summary": "gsdgsdgsd",
+    "date": "2025-11-12",
+    "caseId": "email-cta-test",
+    "slug": "email-cta-test-arrest",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/email-cta-test-arrest"
+      }
+    ]
   }
 ]
