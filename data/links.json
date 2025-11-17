@@ -191,6 +191,32 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Test Email CTA",
+          "slug": "test-email-cta",
+          "caseId": "test-email-cta",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "Algeria",
+            "region": "test",
+            "locality": "test"
+          },
+          "targets": [
+            "Test"
+          ],
+          "phones": [
+            {
+              "who": "test",
+              "main": "+213 4353453",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:test@test.com?subject=test&body=To%20whom%20it%20may%20concern%2C%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/test-email-cta",
+          "createdAt": "2025-11-17"
+        },
+        {
           "title": "Stop Ugandan Rescue Scams Rescue",
           "slug": "stop-ugandan-rescue-scams-rescue",
           "caseId": "scam",
