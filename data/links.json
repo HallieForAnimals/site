@@ -7,6 +7,27 @@
       "name": "Ongoing Cases",
       "links": [
         {
+          "title": "Test Ongoing CTA",
+          "slug": "test-ongoing-cta",
+          "caseId": "stop-the-cat-and-dog-meat-trade-in-china",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "China",
+            "region": "Ching",
+            "locality": "Chong"
+          },
+          "targets": [
+            "China"
+          ],
+          "phones": [],
+          "url": "https://go.hallieforanimals.org/t/test-ongoing-cta",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/test-ongoing-cta",
+          "status": "ongoing",
+          "createdAt": "2025-11-17"
+        },
+        {
           "title": "Stop The Cat and Dog Meat Trade in China",
           "slug": "stop-the-cat-and-dog-meat-trade-in-china",
           "caseId": "china-meat-trade",
