@@ -9,6 +9,25 @@
         {
           "title": "Test Ongoing CTA",
           "slug": "test-ongoing-cta",
+          "caseId": "china-laws",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "https://go.hallieforanimals.org/t/test-ongoing-cta",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/test-ongoing-cta",
+          "status": "ongoing",
+          "createdAt": "2025-11-17"
+        },
+        {
+          "title": "Test Ongoing CTA",
+          "slug": "test-ongoing-cta",
           "caseId": "stop-the-cat-and-dog-meat-trade-in-china",
           "instagram": "",
           "description": "",
