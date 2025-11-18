@@ -231,24 +231,6 @@
       "name": "Recent Cases",
       "links": [
         {
-          "title": "Test Non Email External CTA",
-          "slug": "test-non-email-external-cta",
-          "caseId": "test-non-email-external-cta",
-          "instagram": "",
-          "description": "",
-          "location": {
-            "country": "",
-            "region": "",
-            "locality": ""
-          },
-          "targets": [],
-          "phones": [],
-          "url": "https://www.boobs.com/",
-          "tag": "Scam",
-          "shortlink": "https://go.hallieforanimals.org/t/test-non-email-external-cta",
-          "createdAt": "2025-11-17"
-        },
-        {
           "title": "Test Non Email Internal CTA",
           "slug": "test-non-email-internal-cta",
           "caseId": "test-non-email-internal-cta",
