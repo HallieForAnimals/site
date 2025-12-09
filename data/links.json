@@ -363,6 +363,35 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Carson City Dog Abuser",
+          "slug": "carson-city-dog-abuser",
+          "caseId": "carson-city-dog-abuser",
+          "instagram": "",
+          "description": "Latino male, approximately mid-20s to mid-30s, seen treading on a dog's head, violently yanking the leash, and acting with aggression toward witnesses.\n\nUnconfirmed sources suggest the abuser's identity is Angel Martinez (Sanchez).",
+          "location": {
+            "country": "United States",
+            "region": "Nevada",
+            "locality": "Carson City"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "Carson City Sheriff’s Office",
+              "main": "+1 775 887 2677",
+              "ext": ""
+            },
+            {
+              "who": "Carson City Animal Services",
+              "main": "+1 775 887 2171",
+              "ext": ""
+            }
+          ],
+          "url": "/cta.html#carson-city-dog-abuser",
+          "tag": "Appeal",
+          "shortlink": "https://go.hallieforanimals.org/t/carson-city-dog-abuser",
+          "createdAt": "2025-12-09"
+        },
+        {
           "title": "Odelia Asher Dog Abuse",
           "slug": "odelia-asher-dog-abuse",
           "caseId": "odelia-asher-dog-abuse",
