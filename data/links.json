@@ -363,6 +363,57 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Stop Abusive Dog Trainer Trevor Cochran",
+          "slug": "stop-abusive-dog-trainer-trevor-cochran",
+          "caseId": "stop-abusive-dog-trainer-trevor-cochran",
+          "instagram": "",
+          "description": "Name: Trevor Cochran\nLocation: Dallas, TX Area\n\nTrevor Cochran of @worldpetheath is a dog abuser posing as a trainer who uses abusive training methods in order to \"train\" dogs into obedience, running the risk of physical injury and fear conditioning, which is a primary cause of aggression and avoidable dog bites.",
+          "location": {
+            "country": "United States",
+            "region": "Texas",
+            "locality": "Dallas"
+          },
+          "targets": [
+            "Dog Training Accreditation Schemes"
+          ],
+          "phones": [
+            {
+              "who": "CCPDT",
+              "main": "+1 855 362 3784",
+              "ext": ""
+            },
+            {
+              "who": "APDT International",
+              "main": "+1 800 738 3647",
+              "ext": ""
+            },
+            {
+              "who": "Karen Pryor Academy",
+              "main": "+1 800 472 5425",
+              "ext": ""
+            },
+            {
+              "who": "Fear Free",
+              "main": "+1 303 952 0585",
+              "ext": ""
+            },
+            {
+              "who": "Pet Professional Guild",
+              "main": "+1 914 357 5481",
+              "ext": ""
+            },
+            {
+              "who": "IACP",
+              "main": "+1 512 564 1011",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:administrator@ccpdt.org,info@ccpdt.org,ethics@iaabc.org,info@iaabc.org,membership@apdt.com,support@iacpdogs.org,operations@petprofessionalguild.com,pr@petprofessionalguild.com,wags@fearfree.com,certifyme@fearfree.com,support@karenpryoracademy.com,info@nadoi.org,info@academyfordogtrainers.com,questions@iaabcfoundation.org,ceus@iaabcfoundation.org?subject=Complaint%20%2F%20credential%20check%3A%20Trainer%20using%20forceful%20%26%20aversive%20handling&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20formal%20complaint%2Fwarning%20regarding%20a%20dog%20trainer%20operating%20in%20Dallas%2C%20TX%20(possibly%20Garland)%3A%0A%0ATrevor%20Cochran%20of%20Worldpethealth%0A%0AAssociated%20with%3A%0A-%20Rhino%20Boerboels%0A-%20ironsharpk9%0A%0AThe%20allegations%20are%20time-critical%20because%20this%20involves%20ongoing%20handling%20practices%20that%20can%20cause%20immediate%20physical%20injury%20and%20long-term%20fear%20conditioning.%0A%0AObserved%20conduct%20(demonstrated%2Fpromoted%2Fused%20on%20dogs)%3A%0A-%20hard%20lead%20yanks%20%2F%20leash%20pops%0A-%20picking%20dogs%20up%20by%20the%20collar%20(lifting%2Fdragging%20by%20the%20neck)%0A-%20forcing%2Ftossing%20dogs%20into%20a%20swimming%20pool%20%E2%80%9Cto%20figure%20it%20out%2C%E2%80%9D%20regardless%20of%20visible%20struggle%2C%20stress%2C%20or%20panic%20behavior%0A%0AWe%20demand%3A%0A%0A1)%20Credential%2Fstatus%20check%3A%0ADetermine%20whether%20Trevor%20Cochran%20is%20currently%20(or%20has%20ever%20been)%20certified%2C%20credentialed%2C%20listed%2C%20endorsed%2C%20or%20a%20member%20under%20your%20organization.%0A%0A2)%20Immediate%20enforcement%20where%20applicable%3A%0AIf%20he%20is%20connected%20to%20your%20organization%20in%20any%20capacity%2C%20treat%20this%20as%20a%20potential%20ethics%2Fstandards%20violation%20and%20take%20action%20consistent%20with%20your%20rules%20(investigation%2C%20suspension%2Frevocation%2C%20removal%20from%20directories%2C%20disciplinary%20record%2C%20etc.).%0A%0A3)%20Public%20clarification%20(where%20applicable)%3A%0AIf%20your%20organization%20is%20not%20associated%20with%20him%2C%20or%20if%20he%20has%20been%20removed%2Fdropped%2C%20publish%20a%20clear%20public%20statement%20clarifying%20that%20he%20is%20not%20certified%2Flisted%2Fmember%20(or%20that%20his%20status%20has%20been%20revoked%2Fended)%2C%20so%20your%20name%20cannot%20be%20used%2C%20directly%20or%20indirectly%2C%20to%20imply%20legitimacy.%0A%0A4)%20Clear%20routing%20%2F%20no%20quiet%20closures%3A%0ADo%20not%20bounce%20this%20between%20departments%20or%20silently%20close%20it%20out.%20If%20your%20org%20is%20not%20the%20correct%20venue%20for%20action%2C%20route%20internally%20to%20the%20correct%20ethics%2Fstandards%20contact%20and%20log%20this%20as%20a%20formal%20warning.%0A%0ABecause%20abusive%20trainers%20often%20continue%20operating%20behind%20implied%20credentials%20and%20brand%20association%2C%20this%20notice%20is%20being%20sent%20across%20multiple%20trainer%20bodies%2Fcertification%20orgs.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Khu6NGhotM9bixni2kXuLKHjVOIAmf3i%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/stop-abusive-dog-trainer-trevor-cochran",
+          "createdAt": "2025-12-18"
+        },
+        {
           "title": "Neglected Doberman In Lakewood, CA",
           "slug": "neglected-doberman-in-lakewood-ca",
           "caseId": "neglected-doberman-in-lakewood-ca",
