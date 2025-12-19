@@ -26,5 +26,19 @@
         "url": "https://go.hallieforanimals.org/t/email-cta-test-prosecution"
       }
     ]
+  },
+  {
+    "title": "Justice For Fluffo",
+    "status": "ongoing",
+    "summary": "Someone named \"Voderick\" did this, and Fluffo wasn't his first victim, he's known by the authorities, and yet he's still free to roam the streets. It's only a matter of time before he burns another dog.",
+    "date": "2025-12-18",
+    "caseId": "justice-for-fluffo",
+    "slug": "justice-for-fluffo",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/prosecute-fluffos-killer"
+      }
+    ]
   }
 ]

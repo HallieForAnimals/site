@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Prosecute Fluffo's Killer",
+          "slug": "prosecute-fluffos-killer",
+          "caseId": "justice-for-fluffo",
+          "instagram": "",
+          "description": "Someone named \"Voderick\" did this, and Fluffo wasn't his first victim; he's known by the authorities, and yet he's still free to roam the streets. It's only a matter of time before he burns another dog.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Stockton"
+          },
+          "targets": [
+            "Stockton & San Joaquin Authorities & Prosecutors"
+          ],
+          "phones": [
+            {
+              "who": "Stockton Mayor's Office",
+              "main": "+1 209 937 8499",
+              "ext": ""
+            },
+            {
+              "who": "Stockton City Manager's Office",
+              "main": "+1 209 937 8212",
+              "ext": ""
+            },
+            {
+              "who": "Stockton Police Department",
+              "main": "+1 209 937 8377",
+              "ext": ""
+            },
+            {
+              "who": "Stockton Animal Service",
+              "main": "+1 209 937 7445",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:christina.fugazi@stocktonca.gov,michele.padilla@stocktonca.gov,mariela.ponce@stocktonca.gov,michael.blower@stocktonca.gov,mario.enriquez@stocktonca.gov,brando.villapudua@stocktonca.gov,jason.lee@stocktonca.gov,johnny.ford@stocktonca.gov,lori.asuncion@stocktonca.gov,stanley.mcfadden@stocktonca.gov,ashley.kluza@stocktonca.gov,mgardea@sjgov.org,pcanepa@sjgov.org,sdhaliwal@sjgov.org,sding@sjgov.org,rrickman@sjgov.org,ekiernan@sjgov.org,jking@sjgov.org,ronald.freitas@sjcda.org,news@kcra.com,news@kovr.com,desk@abc10.com,news@fox40.com,info@stocktonia.org?subject=Prosecute%20Fluffo's%20Killer&body=To%20whom%20it%20may%20concern%2C%0A%0AFluffo%20was%20burned%20alive%20in%20south%20Stockton%20and%20left%20on%20display.%20This%20is%20violent-crime%20level%20cruelty%2C%20and%20treating%20it%20like%20%22just%20another%20stray%20dog%20incident%22%20is%20exactly%20how%20you%20get%20escalation.%0A%0AWe%20now%20have%20a%20name%20tied%20to%20the%20killing%3A%20Voderick.%20It's%20widely%20believed%20this%20individual%20is%20already%20known%20to%20authorities%20and%20that%20Fluffo%20wasn't%20his%20first%20victim.%0A%0AThe%20Mayor%20of%20Stockton%20recently%20had%20a%20bullet%20go%20through%20her%20window%20from%20a%20nearby%20shooting.%20If%20dangerous%20people%20like%20Voderick%20are%20allowed%20to%20wander%20the%20city%20unchecked%2C%20no%20one%20in%20leadership%20gets%20to%20act%20shocked%20when%20violence%20keeps%20landing%20close%20to%20home.%0A%0AWe%20demand%2C%20at%20minimum%3A%0A%0A1.%20Felony%20handling%2C%20immediately%0A%20%20%20Classify%20and%20work%20this%20as%20felony%20animal%20cruelty%2C%20with%20a%20named%20lead%20investigator.%0A%0A2.%20Immediate%20action%20on%20the%20identified%20lead%20(Voderick)%0A%20%20%20Confirm%20identity%2C%20locate%20him%2C%20interview%20as%20appropriate%2C%20and%20pursue%20lawful%20search%2Fseizure%20of%20relevant%20evidence.%20Determine%20whether%20there%20is%20a%20pattern%20of%20related%20animal%20cruelty%20incidents.%0A%0A3.%20Full%20evidence%20workup%0A%20%20%20Pull%20and%20review%20CCTV%2FRing%2Fsecurity%20footage%2C%20canvas%20nearby%20homes%20and%20businesses%2C%20and%20issue%20a%20public%20appeal%20for%20witnesses.%0A%0A4.%20Public%20accountability%0A%20%20%20Publicly%20confirm%20the%20case%20is%20active%2C%20provide%20a%20case%20number%20and%20point%20of%20contact%2C%20and%20state%20exactly%20how%20the%20public%20can%20submit%20tips%2C%20photos%2C%20or%20video.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1N9pdgzaQqTGVwYgnslldqYmyVTIxtQit%2Fview%3Fusp%3Ddrive_link%0A%0ASincerely%2C%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/prosecute-fluffos-killer",
+          "createdAt": "2025-12-18"
+        },
+        {
           "title": "Stop Abusive Dog Trainer Trevor Cochran",
           "slug": "stop-abusive-dog-trainer-trevor-cochran",
           "caseId": "stop-abusive-dog-trainer-trevor-cochran",
