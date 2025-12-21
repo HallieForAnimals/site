@@ -363,6 +363,24 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Abandoned Frenchie, Boardman, Ohio",
+          "slug": "abandoned-frenchie-boardman-ohio",
+          "caseId": "abandoned-frenchie-boardman-ohio",
+          "instagram": "",
+          "description": "",
+          "location": {
+            "country": "",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [],
+          "url": "https://go.hallieforanimals.org/t/abandoned-frenchie-boardman-ohio",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/abandoned-frenchie-boardman-ohio",
+          "createdAt": "2025-12-21"
+        },
+        {
           "title": "Protect Bakersfield's Dogs",
           "slug": "protect-bakersfields-dogs",
           "caseId": "protect-bakersfield-s-dogs",
