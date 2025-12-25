@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Arrest & Prosecute Rahul Pawar",
+          "slug": "arrest-prosecute-rahul-pawar",
+          "caseId": "arrest-prosecute-rahul-pawar",
+          "instagram": "",
+          "description": "Abused Name: Rahul Pawar\nLocation: Bhadana area of Kota, Rajasthan, India 324002\n\nIt's believed that the dog was killed.",
+          "location": {
+            "country": "India",
+            "region": "Rajasthan",
+            "locality": "Kota"
+          },
+          "targets": [
+            "Kota Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Kota City Police",
+              "main": "+91 0744 2350778",
+              "ext": ""
+            },
+            {
+              "who": "Kota Rural Police",
+              "main": "+91 0744 2350888",
+              "ext": ""
+            },
+            {
+              "who": "Bhimganj Mandi Police Station",
+              "main": "+91 7442460754",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:igp.kota@rajpolice.gov.in,pcr.kotacity@rajpolice.gov.in,pcr.kotarural@rajpolice.gov.in,bhm-ktc.rjpol@nic.in,sp.kotacity@rajpolice.gov.in?subject=Kota%20324002%20(Ganeshpura%2FBhadana)%20-%20Alleged%20Dog%20Killing%20By%20Rahul%20Pawar&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20formal%20complaint%20regarding%20a%20serious%20animal%20cruelty%20incident%20being%20circulated%20publicly%20and%20reported%20as%20occurring%20in%20Kota%2C%20Rajasthan%2C%20in%20the%20Ganeshpura%2FBhadana%20area%20(PIN%20324002).%0A%0AThe%20posts%20allege%20that%20an%20individual%20named%20Rahul%20Pawar%20brutally%20beat%20a%20dog%20and%20that%20the%20dog%20is%20believed%20to%20have%20died.%0A%0AAbuse%20of%20animals%20is%20not%20%22minor%22%20and%20it%20is%20not%20optional%20policing.%20Violence%20like%20this%20escalates%2C%20and%20ignoring%20it%20tells%20offenders%20they%20can%20do%20it%20again.%0A%0ARequired%20Actions%3A%0A%0A1.%20Register%20a%20complaint%2FFIR%20immediately%20for%20animal%20cruelty%20resulting%20in%20death%20and%20any%20related%20offences%20(including%20disposal%2Fdestruction%20of%20evidence%20if%20applicable).%0A2.%20Confirm%20jurisdiction%20and%20assign%20an%20investigating%20officer%20(do%20not%20bounce%20this%20between%20offices).%0A4.%20Identify%20and%20locate%20the%20suspect%20Rahul%20Pawar%2C%20and%20take%20lawful%20action%20based%20on%20evidence.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1ob91TD1e_R54awAjR7ldmYzzUmej2ZKE%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0AHallieForAnimals",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/arrest-prosecute-rahul-pawar",
+          "createdAt": "2025-12-25"
+        },
+        {
           "title": "Lancaster, CA Strays",
           "slug": "lancaster-ca-strays",
           "caseId": "lancaster-ca-strays",
