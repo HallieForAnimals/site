@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Investigate Abuse At 905 Mother Gaston Blvd",
+          "slug": "investigate-abuse-at-905-mother-gaston-blvd",
+          "caseId": "investigate-abuse-at-905-mother-gaston-blvd",
+          "instagram": "",
+          "description": "Abuser Name: Marie Yvette Lebrun\nLocation: 905 Mother Gaston Boulevard, Apartment 2R, Brooklyn, NY\n\nMultiple complaints have already been made to the 73rd and 311 about animal abuse so severe that the walls shake, and yet nothing has been done so far.\nIs this the city you're so proud of @ericadamsfornyc",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Brooklyn"
+          },
+          "targets": [
+            "The NYPD & The Brooklyn DA"
+          ],
+          "phones": [
+            {
+              "who": "Brooklyn DA's Office",
+              "main": "+1 718 250 2000",
+              "ext": ""
+            },
+            {
+              "who": "NYPD 73rd Precinct",
+              "main": "+1 718 495 5411",
+              "ext": ""
+            },
+            {
+              "who": "NYPD Community Affairs Bureau",
+              "main": "+1 646 610 5323",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:gonzalee@brooklynda.org,mark.stewart@nypd.org,odelle.despot@nypd.org?subject=Suspected%20severe%20dog%20beating%20at%20905%20Mother%20Gaston%20Blvd%2C%20Apt%202R&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20requesting%20immediate%20enforcement%20action%20regarding%20suspected%20animal%20cruelty%20at%3A%0A%0A905%20Mother%20Gaston%20Boulevard%2C%20Apartment%202R%0ABrooklyn%2C%20NY%0A%0ASuspect%20identified%20as%3A%20Marie%20Yvette%20Lebrun%0A%0AMultiple%20neighbors%20have%20raised%20ongoing%20concerns.%20A%20video%20has%20now%20circulated%20where%20the%20audio%20makes%20the%20situation%20unmistakable%3A%20a%20dog%20is%20being%20violently%20beaten.%20The%20dog%E2%80%99s%20distress%20is%20clearly%20audible%2C%20and%20the%20strikes%20are%20consistent%20with%20severe%20physical%20abuse.%0A%0AThis%20isn't%20a%20%E2%80%9Cnoise%20complaint%E2%80%9D%20and%20it%20isn't%20a%20neighbor%20dispute.%20It's%20a%20credible%20cruelty%20allegation%20with%20circulating%20evidence%2C%20and%20it%20requires%20urgent%20action.%0A%0AWhat%20I%20am%20requesting%3A%0A%0A1.%20An%20immediate%20welfare%20check%20at%20the%20above%20unit%20and%20an%20investigation%20for%20animal%20cruelty.%0A2.%20If%20the%20dog%20is%20present%2C%20immediate%20assessment%20of%20injuries%2Fcondition%20and%20removal%20if%20warranted%20under%20applicable%20law.%0A3.%20A%20case%2Freport%20number%20and%20the%20name%2Funit%20of%20the%20person%20assigned%20to%20follow%20up.%0A4.%20Confirmation%20that%20the%20complainant%20evidence%20(video%2Faudio)%20can%20be%20submitted%20in%20the%20format%20you%20prefer%20(email%20upload%20link%2C%20portal%2C%20etc.).%0A%0AIf%20this%20report%20is%20ignored%20or%20treated%20casually%2C%20you%20are%20effectively%20telling%20the%20public%20that%20severe%20abuse%20is%20safe%20behind%20an%20apartment%20door.%20That%20is%20not%20acceptable.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1HfYgJ04i2cBJ2Gmf83XY-mjwOK9S9Yas%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0AHallieForAnimals%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/investigate-abuse-at-905-mother-gaston-blvd",
+          "createdAt": "2025-12-29"
+        },
+        {
           "title": "Dog Abuse In Salem, WV",
           "slug": "dog-abuse-in-salem-wv",
           "caseId": "dog-abuse-in-salem-wv",
