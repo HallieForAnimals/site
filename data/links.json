@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Dog Neglect at 5115 Lankershim Blvd, CA",
+          "slug": "dog-neglect-at-5115-lankershim-blvd-ca",
+          "caseId": "dog-neglect-at-5115-lankershim-blvd-ca",
+          "instagram": "",
+          "description": "Location: 5115 Lankershim Blvd, Apt L231, North Hollywood, CA 91601\n\nLocked in cages on a balcony 24/7 and exposed to the elements regardless of the weather.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Los Angeles"
+          },
+          "targets": [
+            "LA City Authorities & Prosecutors"
+          ],
+          "phones": [
+            {
+              "who": "LAPD",
+              "main": "+1 877 275 5273",
+              "ext": ""
+            },
+            {
+              "who": "LA County District Attorney's Office",
+              "main": "+1 818 754 8315",
+              "ext": ""
+            },
+            {
+              "who": "LA Animal Services – East Valley",
+              "main": "+1 213 485 8613",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:nhochman@da.lacounty.gov,hydee.feldsteinsoto@lacity.org,info@da.lacounty.gov,yvonne.rodriguez@lacity.org,curtis.watts@lacity.org,councilmember.nazarian@lacity.org,firstdistrict@bos.lacounty.gov,lindsey@bos.lacounty.gov,lodendahl@bos.lacounty.gov,hollyjmitchell@bos.lacounty.gov,kathryn@bos.lacounty.gov,annette.ramirez@lacity.org?subject=URGENT%3A%20Welfare%20check%20%2B%20enforcement%20needed&body=To%20whom%20it%20may%20concern%2C%0A%0AWe%20are%20requesting%20an%20urgent%2C%20documented%20welfare%20check%20and%20enforcement%20action%20regarding%20suspected%20animal%20cruelty%2Fneglect%20at%3A%0A%0A5115%20Lankershim%20Blvd%2C%20Apt%20L231%0ANorth%20Hollywood%2C%20CA%2091601%0A%0AReported%20and%20witnessed%20concerns%20(ongoing)%3A%0A%0A*%20Three%20dogs%20are%20repeatedly%20observed%20confined%20outdoors%20in%20locked%20cages%2024%2F7%2C%20with%20no%20access%20to%20the%20interior%20of%20the%20apartment%2C%20including%20during%20severe%20weather.%0A*%20The%20owner%20is%20observed%20placing%20bowls%20into%20the%20locked%20cages%2C%20but%20the%20dogs%20remain%20continuously%20confined.%0A*%20Physical%20abuse%20has%20been%20witnessed%3A%20the%20owner%20striking%20a%20dog%20while%20screaming%2C%20and%20on%20at%20least%20one%20occasion%20punching%20the%20dog.%20When%20confronted%2C%20the%20owner%20stated%3A%20%E2%80%9CI%20will%20handle%20my%20dogs%20the%20way%20I%20want.%E2%80%9D%0A%0ARequested%20action%3A%0A%0A1.%20Immediate%20on-site%20welfare%20inspection%20and%20documentation%2C%20including%20assessment%20of%20shelter%20from%20weather%2C%20continuous%20confinement%2C%20access%20to%20clean%20water%2C%20sanitation%2C%20and%20veterinary%20condition.%0A2.%20Investigation%20for%20animal%20cruelty%2Fneglect%20based%20on%20the%20witnessed%20physical%20assault.%0A3.%20Enforcement%20action%20as%20warranted%2C%20including%20seizure%20if%20the%20animals%E2%80%99%20safety%2Fmedical%20condition%20requires%20it.%0A%0APublic%20accountability%20requested%3A%0A%0AA%20public%20statement%20(press%20release%20and%2For%20official%20social%20post)%20confirming%3A%0A%20%20a)%20that%20an%20inspection%20occurred%2C%0A%20%20b)%20which%20agency%20responded%2C%0A%20%20c)%20the%20case%2Fincident%20reference%20the%20public%20can%20track%2C%0A%20%20d)%20the%20status%2Foutcome%20(e.g.%2C%20ongoing%20investigation%2C%20citations%2C%20seizure%2C%20veterinary%20care)%2C%20and%0A%20%20e)%20confirmation%20that%20the%20animals%20are%20secured%20in%20safe%20custody%20if%20removed.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1RJWzmeuXjtTOyVr9glsPQYL-A1dfjT15%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/dog-neglect-at-5115-lankershim-blvd-ca",
+          "createdAt": "2025-12-31"
+        },
+        {
           "title": "Welfare Check for Abused Frenchie",
           "slug": "welfare-check-for-abused-frenchie",
           "caseId": "welfare-check-for-abused-frenchie",
