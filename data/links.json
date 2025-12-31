@@ -363,6 +363,52 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Welfare Check for Abused Frenchie",
+          "slug": "welfare-check-for-abused-frenchie",
+          "caseId": "welfare-check-for-abused-frenchie",
+          "instagram": "",
+          "description": "Alleged Abuser Name: Maralah Magelle Trimmins\nAlleged Abuser Address: 114 N 109th Ave, Avondale, AZ\nLocation of Abuse: Outside PETCO 9480 Northern Avenue, Glendale AZ\n\nThe police were called; however, they claimed that because the beating wasn't physically recorded, there was nothing they could do. However, under Arizona Revised Statutes § 13-2910(A)(3), (4), and (9), the content of the video is more than enough to initiate an investigation and welfare check.",
+          "location": {
+            "country": "United States",
+            "region": "Arizona",
+            "locality": "Avondale"
+          },
+          "targets": [
+            "Avondale & Maricopa Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Avondale Police Department",
+              "main": "+1 623 333 7000",
+              "ext": ""
+            },
+            {
+              "who": "Avondale Animal Control",
+              "main": "+1 623 333 7012",
+              "ext": ""
+            },
+            {
+              "who": "Avondale Mayor's Office",
+              "main": "+1 623 333 1916",
+              "ext": ""
+            },
+            {
+              "who": "Avondale City Hall",
+              "main": "+1 623 333 1000",
+              "ext": ""
+            },
+            {
+              "who": "Maricopa County Animal Care & Control",
+              "main": "+1 602 506 7387",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:?subject=Welfare%20Check%20for%20Abused%20Frenchie&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20requesting%20an%20immediate%20welfare%20check%20regarding%20suspected%20animal%20cruelty%20connected%20to%20a%20circulating%20video.%0A%0ASuspect%20identified%20as%3A%20Maralah%20Magelle%20Trimmins%0AAddress%3A%20114%20N%20109th%20Ave%2C%20Avondale%2C%20AZ%0A%0AWhat%20I%20am%20requesting%3A%0A%0A1.%20An%20immediate%2C%20documented%20welfare%20check%20at%20the%20above%20address%20to%20confirm%20whether%20the%20dog%20is%20present%20and%20safe.%0A2.%20If%20the%20animal%20is%20present%2C%20assessment%20of%20condition%20and%20living%20environment%2C%20and%20removal%20if%20warranted%20under%20applicable%20law%2Fpolicy.%0A3.%20A%20PUBLIC%20statement%20providing%3A%0A%0A%20%20%20*%20the%20case%2Freport%20number%2C%0A%20%20%20*%20the%20agency%2Funit%20assigned%20to%20follow%20up%2C%0A%20%20%20*%20confirmation%20a%20welfare%20check%20was%20conducted%2C%0A%20%20%20*%20and%20what%20enforcement%20path%20is%20being%20taken%20(as%20permitted%20by%20law).%0A%0AIf%20this%20is%20brushed%20off%20or%20handled%20quietly%2C%20you%20are%20effectively%20telling%20the%20public%20that%20cruelty%20carries%20no%20consequences%20and%20that%20animals%20have%20no%20protection%20behind%20a%20closed%20door.%20That%20is%20not%20acceptable.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1EWm-zzyup0CCsO2Gw_Og5l9yYN4xQuIk%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/welfare-check-for-abused-frenchie",
+          "createdAt": "2025-12-31"
+        },
+        {
           "title": "Stop The Mass Slaughter of Street Dogs in Iraq",
           "slug": "stop-the-mass-slaughter-of-street-dogs-in-iraq",
           "caseId": "stop-the-mass-slaughter-of-street-dogs-in-iraq",
