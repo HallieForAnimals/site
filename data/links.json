@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Arrest Dog Abuser Derrick Butler",
+          "slug": "arrest-dog-abuser-derrick-butler",
+          "caseId": "arrest-dog-abuser-derrick-butler",
+          "instagram": "",
+          "description": "Abuser Name: Derrick Dejuan Butler\nAbuser's Insta: @derrickbutler604\n\nButler is an alleged \"comedian\" with multiple arrests over the past few years, including his most recent on December 30th for driving recklessly and a hit and run.\nStudies of animal cruelty cases show that 70% of defendants have other criminal charges/records.",
+          "location": {
+            "country": "United States",
+            "region": "Louisiana",
+            "locality": "Monroe"
+          },
+          "targets": [
+            "Monroe & Ouachita Parish Authorities & Prosecutors"
+          ],
+          "phones": [
+            {
+              "who": "Monroe Police Department",
+              "main": "+1 318 329 2600",
+              "ext": ""
+            },
+            {
+              "who": "Ouachita Parish Animal Control",
+              "main": "+1 318 325 0756",
+              "ext": ""
+            },
+            {
+              "who": "4th Judicial District Attorney",
+              "main": "+1 318 388 4720",
+              "ext": ""
+            },
+            {
+              "who": "Mayor Friday Ellis",
+              "main": "+1 318 329 2227",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:smullins@oppj.org,Victor.Zordan@ci.monroe.la.us,sean.reddick@ci.monroe.la.us,james.schmitz@ci.monroe.la.us,michael.freeman@ci.monroe.la.us,stew@4thda.org,juanita.woods@ci.monroe.la.us,friday.ellis@ci.monroe.la.us?subject=URGENT%3A%20Animal%20cruelty%20allegations%20(Monroe%2C%20LA)&body=To%20whom%20it%20may%20concern%2C%0A%0AMultiple%20videos%20are%20circulating%20publicly%20that%20appear%20to%20show%20severe%2C%20intentional%20animal%20cruelty%20in%20the%20Monroe%2C%20Louisiana%20area.%0A%0AThe%20individual%20shown%20is%20being%20identified%20in%20public%20posts%20as%20Derrick%20Dejuan%20Butler%20of%20Monroe%2C%20LA.%20Regardless%20of%20what%20anyone%20%22says%20online%2C%22%20the%20conduct%20shown%20in%20the%20videos%20must%20be%20treated%20as%20potential%20felony-level%20cruelty%20and%20an%20immediate%20threat%20to%20any%20animals%20in%20that%20home.%0A%0AReported%20and%20documented%20concerns%3A%0A%0A*%20A%20dog%20appears%20to%20be%20struck%20repeatedly%20with%20a%20slipper%20while%20the%20person%20claims%20the%20animal%20%22needs%20discipline.%22%0A*%20A%20dog%20appears%20to%20be%20shut%20inside%20a%20freezer.%0A%0APublic%20safety%20context%3A%0A*%20Animal%20cruelty%20is%20widely%20recognized%20by%20law%20enforcement%20and%20researchers%20as%20a%20significant%20risk%20indicator%20that%20can%20correlate%20with%20broader%20violent%20or%20antisocial%20conduct.%0A*%20Public%20posts%20accompanying%20the%20videos%20also%20claim%20this%20individual%20has%20a%20pattern%20of%20prior%20arrests%20over%20recent%20years.%20Your%20agencies%20can%20confirm%20accurate%20history%20instantly%20through%20official%20records.%20Either%20way%2C%20the%20alleged%20conduct%20in%20the%20videos%20stands%20on%20its%20own%20and%20warrants%20immediate%20action.%0A%0ARequested%20action%20(immediate%20and%20concrete)%3A%0A%0A1.%20Conduct%20an%20urgent%20welfare%20check%20at%20the%20Butler's%20address%20and%20confirm%20the%20condition%20and%20whereabouts%20of%20any%20animals.%0A2.%20Remove%2Fseize%20any%20animals%20at%20risk%20and%20ensure%20veterinary%20assessment%20and%20documentation%20(injuries%2C%20weight%2Fbody%20condition%2C%20dehydration%2C%20etc.).%0A3.%20Preserve%20evidence%20immediately%3A%20original%20uploads%2C%20metadata%2C%20account%20identifiers%2C%20device%20identifiers%20where%20obtainable%2C%20and%20any%20related%20communications.%0A4.%20Open%20a%20criminal%20investigation%20and%20pursue%20arrest%2Fcharges%20if%20probable%20cause%20is%20established.%0A5.%20Seek%20court-ordered%20restrictions%3A%20no%20contact%20with%20animals%2C%20surrender%20of%20any%20animals%20in%20the%20residence%2C%20and%20a%20prohibition%20on%20owning%2Fpossessing%20animals%20as%20a%20bond%20condition%20and%20as%20part%20of%20any%20sentence%2Fprobation%20if%20charges%20are%20sustained.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1rXO_tFfH1FDBPbsIAKvB91HczuogaGKt%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org%0A",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/arrest-dog-abuser-derrick-butler",
+          "createdAt": "2026-01-03"
+        },
+        {
           "title": "Prosecute Kristi Hicks",
           "slug": "prosecute-kristi-hicks",
           "caseId": "prosecute-kristi-hicks",
