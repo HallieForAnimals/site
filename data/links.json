@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Prosecute Dan Dejour",
+          "slug": "prosecute-dan-dejour",
+          "caseId": "prosecute-dan-dejour",
+          "instagram": "",
+          "description": "Abuser Name: Dan Dejour\nDate/Time: January 4th 5 P.M\nLocation: Long Island City, near the Pulaski Bridge.\n\nDejour was ARRESTED. Let's make sure he's charged.",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Queens"
+          },
+          "targets": [
+            "New York Authorities & Prosecutors"
+          ],
+          "phones": [
+            {
+              "who": "108th Precinct",
+              "main": "+1 718 784 5411",
+              "ext": ""
+            },
+            {
+              "who": "NYC Council, District 26",
+              "main": "+1 718 383 9566",
+              "ext": ""
+            },
+            {
+              "who": "Queens DA's Office",
+              "main": "+1 718 286 6000",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:katz@queensda.org,hameed.armani@nypd.org,district26@council.nyc.gov,zohran.mamdani@cityhall.nyc.org?subject=Prosecute%20Dan%20Dejour&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20email%20concerns%20the%20prosecution%20of%20Dan%20Dejour%20in%20connection%20with%20the%20Long%20Island%20City%20%2F%20Pulaski%20Bridge%20corridor%20incident%20in%20which%20two%20dogs%20were%20tethered%20to%20the%20rear%20of%20a%20moving%20vehicle%20and%20forced%20to%20run%2Fdrag%20behind%20it%20on%20a%20public%20street%20at%20approximately%205%3A00%20PM%20on%20Saturday%2C%20January%204.%0A%0ARequired%20prosecutorial%20posture%3A%0A%0A1.%20No%20plea%20deal%20that%20minimizes%20the%20conduct.%0A%20*No%20reduction%20to%20a%20%E2%80%9Cnon-criminal%E2%80%9D%20outcome%2C%20no%20plea-down%20that%20treats%20this%20like%20a%20minor%20lapse%2C%20and%20no%20disposition%20that%20lets%20this%20fade%20into%20the%20background.%0A2.%20Pursue%20all%20applicable%20charges%20supported%20by%20the%20evidence%20and%20pursue%20meaningful%20sentencing.%0A%20*This%20should%20be%20treated%20as%20a%20violent%20act%2C%20because%20it%20is.%20Sentencing%20should%20reflect%20deterrence%20and%20public%20safety%2C%20not%20convenience.%0A3.%20Seek%20strong%20conditions%20while%20the%20case%20is%20pending.%0A%20*At%20minimum%3A%20an%20enforceable%20prohibition%20on%20owning%2Fpossessing%2Fhandling%20animals%2C%20and%20conditions%20preventing%20contact%20with%20the%20dogs%20(and%20any%20replacement%20animals)%20while%20prosecution%20is%20ongoing.%0A4.%20Secure%20and%20document%20the%20dogs%E2%80%99%20condition%20as%20evidence%20and%20ensure%20they%20are%20not%20returned%20to%20the%20defendant.%0A*%20Veterinary%20findings%20should%20be%20preserved%20and%20used.%20Placement%20must%20prioritize%20safety%20and%20prevent%20re-victimization.%0A%0AAnimal%20cruelty%20is%20strongly%20associated%20with%20broader%20patterns%20of%20violence%20and%20escalation.%20Soft%20outcomes%20in%20cases%20this%20brazen%20do%20not%20protect%20the%20public%2C%20they%20train%20offenders%20that%20the%20system%20will%20look%20away.%0A%0AThis%20case%20was%20in%20public%20view.%20The%20public%20will%20be%20watching%20what%20your%20office%20does%20with%20it.%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/prosecute-dan-dejour",
+          "createdAt": "2026-01-06"
+        },
+        {
           "title": "Arrest Carlos A Casas",
           "slug": "arrest-carlos-a-casas",
           "caseId": "arrest-carlos-a-casas",
