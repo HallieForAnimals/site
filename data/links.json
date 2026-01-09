@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Chelsea Park Dog Abuse",
+          "slug": "chelsea-park-dog-abuse",
+          "caseId": "chelsea-park-dog-abuse",
+          "instagram": "",
+          "description": "Location: Chelsea Park area, W 27th St & 10th Ave\nDate/Time: Approx. midnight on January 7, 2026\n\nIf anyone knows who this is, call the numbers above.\nNYPD Crimestoppers is 100% anonymous.",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Manhattan"
+          },
+          "targets": [
+            "New York City Authorities"
+          ],
+          "phones": [
+            {
+              "who": "NYPD 10th Precinct",
+              "main": "+1 212 741 8211",
+              "ext": ""
+            },
+            {
+              "who": "NYPD Crime Stoppers",
+              "main": "+1 800 577 8477",
+              "ext": ""
+            },
+            {
+              "who": "NYC Council District 3",
+              "main": "+1 212 564 7757",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:timothy.wong@nypd.org,communityaffairs@nypd.org,ebottcher@council.nyc.gov,District3@council.nyc.gov,mn04@cb.nyc.gov,jbodine@cb.nyc.gov,info@manhattanbp.nyc.gov,mlevine@manhattanbp.nyc.gov?subject=Suspect%20beating%20dog%20at%20Chelsea%20Park%20(W%2027%20St%20%26%2010%20Ave)%20around%20midnight%20Jan%207&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20requesting%20immediate%20action%20regarding%20a%20suspected%20animal%20cruelty%20incident%20reported%20at%2Fnear%20Chelsea%20Park%20at%20W%2027th%20St%20%26%2010th%20Ave%2C%20Manhattan.%0A%0AIncident%20details%3A%0A%0A*%20Location%3A%20Chelsea%20Park%20area%2C%20W%2027th%20St%20%26%2010th%20Ave%20(Chelsea)%0A*%20Date%2Ftime%3A%20approx.%20midnight%20(12%3A00%20AM)%20on%20January%207%2C%202026%0A*%20Allegation%3A%20a%20male%20was%20observed%20striking%2Fbeating%20a%20dog%20in%20public%0A%0ARequested%20action%20(time-sensitive)%3A%0A%0A1.%20Generate%20and%20circulate%20a%20BOLO%20to%20patrol%20units%20and%20relevant%20Manhattan%20commands%20for%20identification%20of%20the%20individual%20and%20the%20dog.%0A2.%20Canvass%20the%20area%20and%20pull%20available%20video%3A%20park-area%20cameras%2C%20nearby%20building%20cameras%2C%20street%2Ftraffic%20cameras%2C%20and%20any%20relevant%20MTA%2Fadjacent%20business%20footage.%0A3.%20Identify%20the%20dog%20and%20ensure%20a%20welfare%20check%20%2F%20veterinary%20evaluation%20if%20located.%0A4.%20If%20the%20individual%20is%20identified%2C%20pursue%20the%20appropriate%20enforcement%20and%20charges%20and%20ensure%20the%20animal%20is%20removed%20from%20harm%20if%20legal%20thresholds%20are%20met.%0A5.%20Provide%20a%20public-facing%20update%20through%20appropriate%20NYPD%20channels%20confirming%20the%20incident%20is%20being%20investigated%20and%20encouraging%20witnesses%20to%20submit%20tips%2C%20photos%2C%20or%20video%20via%20Crime%20Stoppers.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F17Rl7j7IRWBo9-lv1VvpuDyfub9eEX_fY%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/chelsea-park-dog-abuse",
+          "createdAt": "2026-01-09"
+        },
+        {
           "title": "Shut Down Alpha Educação Canina",
           "slug": "shut-down-alpha-educa-o-canina",
           "caseId": "shut-down-alpha-educa-o-canina",
