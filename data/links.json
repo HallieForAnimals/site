@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Investigate Henry \"Coon Daddy\" Wofford",
+          "slug": "investigate-henry-coon-daddy-wofford",
+          "caseId": "investigate-henry-coon-daddy-wofford",
+          "instagram": "",
+          "description": "Name: Henry \"Coon Daddy\" Wofford\nLocation: 908 Ida Street, Wildwood, FL 34785\n\nWofford has issued a response video, claiming this raccoon was already dead, and the breathing we see is post mortem agonal breathing, but agonal breathing isn't typically rhythmic.",
+          "location": {
+            "country": "United States",
+            "region": "Florida",
+            "locality": "Wildwood"
+          },
+          "targets": [
+            "Wildwood & Sumter County Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Wildwood PD",
+              "main": "+1 352 330 1355",
+              "ext": ""
+            },
+            {
+              "who": "Wildwood City Hall",
+              "main": "+1 352 330 1330",
+              "ext": ""
+            },
+            {
+              "who": "Sumter County Sheriff's Office",
+              "main": "+1 352 569 1600",
+              "ext": ""
+            },
+            {
+              "who": "Sumter County Animal Services",
+              "main": "+1 352 689 4400",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:wgladson@sao5.org,Rparmer@wildwood-fl.gov,jmchugh@wildwood-fl.gov,jbarnes@wildwood-fl.gov,pbreeden@sumtercountysheriff.org,mkeszey@sumtercountysheriff.org,bradley.arnold@sumtercountyfl.gov?subject=Investigate%20suspected%20wildlife%20cruelty%20at%20908%20Ida%20St%2C%20Wildwood&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20request%20for%20immediate%20investigation%20into%20suspected%20animal%20cruelty%20and%20unlawful%2Finhumane%20handling%20of%20wildlife.%0A%0AIDENTIFIERS%0A%0A*%20Name%3A%20Henry%20Lee%20Wofford%0A*%20Address%3A%20908%20Ida%20Street%2C%20Wildwood%2C%20FL%2034785%0A*%20Business%20name%20used%20publicly%3A%20COON%20BOYZ%20LLC%0A%0AALLEGATION%20(as%20depicted)%0AA%20raccoon%20was%20trapped%2C%20rendered%20unconscious%20or%20incapacitated%2C%20and%20then%20nailed%20to%20a%20sheet%20of%20plywood.%0A%0ABefore%20anyone%20tries%20the%20predictable%20excuse%2C%20please%20note%3A%0APost-mortem%20movements%20can%20occur%2C%20including%20reflex%20twitching%20and%20brief%20agonal%20gasps%20that%20can%20resemble%20breathing.%20That%20reality%20does%20NOT%20excuse%20what%20is%20shown.%20If%20the%20animal%20was%20not%20definitively%20confirmed%20dead%20before%20being%20nailed%2C%20this%20may%20have%20been%20prolonged%20suffering.%20If%20the%20animal%20was%20already%20dead%2C%20it%20is%20still%20grotesque%20mutilation%20and%20improper%20handling%2Fdisposal.%20Either%20way%2C%20it%20warrants%20investigation%20and%20enforcement%20action.%0A%0AREQUESTED%20ACTIONS%0A%0A1.%20Open%20an%20investigation%20and%20confirm%20the%20lead%20agency%20(Wildwood%20PD%20%2F%20Sumter%20County%20Sheriff)%20and%20whether%20FWC%20is%20engaged%20for%20wildlife%20law%20violations.%0A2.%20Conduct%20an%20immediate%20welfare%20check%20of%20the%20property%20for%20additional%20trapped%2Finjured%20animals%20and%20any%20inhumane%20trapping%20practices.%0A3.%20Secure%20and%20preserve%20evidence%3A%20traps%2C%20tools%2Ffasteners%2C%20boards%20used%2C%20any%20remains%2C%20and%20any%20footage.%20If%20remains%20exist%2C%20ensure%20proper%20collection%2Fdocumentation%20and%2C%20if%20applicable%2C%20veterinary%2Fforensic%20examination.%0A4.%20Determine%20whether%20the%20person%2Fcompany%20is%20operating%20as%20a%20nuisance-wildlife%20service%20and%20whether%20methods%20comply%20with%20Florida%20law%20and%20humane%20standards.%0A5.%20Issue%20a%20PUBLIC%20STATEMENT%20confirming%20this%20incident%20is%20being%20investigated%20and%20advising%20the%20public%20how%20to%20submit%20tips%2Fevidence.%0A%0AIf%20this%20does%20not%20meet%20the%20threshold%20for%20immediate%20action%2C%20then%20the%20threshold%20is%20the%20problem.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F18-WlcaPNArYYnXWDuJH0p_UhsQVE69Fa%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/investigate-henry-coon-daddy-wofford",
+          "createdAt": "2026-01-12"
+        },
+        {
           "title": "Demand Termination of Puppy Dumper",
           "slug": "demand-termination-of-puppy-dumper",
           "caseId": "demand-termination-of-puppy-dumper",
