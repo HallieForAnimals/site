@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "S Gardner Ave Dog Abuse",
+          "slug": "s-gardner-ave-dog-abuse",
+          "caseId": "s-gardner-ave-dog-abuse",
+          "instagram": "",
+          "description": "Once again, @cmpdhq can't be bothered to do their jobs and are expecting the public to do it for them.\nThis guy is said to live around the S Gardne Avenue area. Someone must know who he is.\n@forgotten_now_family_rescue is offering a $5,000 reward for information leading to this POS's arrest.",
+          "location": {
+            "country": "United States",
+            "region": "North Carolina",
+            "locality": "Charlotte"
+          },
+          "targets": [
+            "Charlotte Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Charlotte-Mecklenburg Police Department",
+              "main": "+1 704 432 2442",
+              "ext": ""
+            },
+            {
+              "who": "Charlotte Mayor’s Office",
+              "main": "+1 704 336 2241",
+              "ext": ""
+            },
+            {
+              "who": "Charlotte Animal Control",
+              "main": "+1 704 336 7600",
+              "ext": ""
+            },
+            {
+              "who": "Crime Stoppers",
+              "main": "+1 704 334 1600",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:Arutledge@cmpd.org,Martha.Dozier@cmpd.org,Norman.Garnes@cmpd.org,vi.lyles@charlottenc.gov,josh.fisher@charlottenc.gov,jashri.pendergrass@charlottenc.gov?subject=Dog%20Beaten%20On%20Surveillance%20Camera&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20writing%20to%20report%20a%20clear%20animal%20cruelty%20incident%20captured%20on%20surveillance%20footage.%0A%0AA%20suspect%20was%20filmed%20beating%20a%20dog%20outside%3A%0A129%20S%20Gardner%20Ave%0ACharlotte%2C%20NC%0A%0AThis%20is%20not%20%22discipline.%22%20This%20is%20violence%20against%20an%20animal%2C%20and%20it%20requires%20immediate%20action%20to%20identify%20the%20owner%2Fsuspect%2C%20secure%20the%20dog%E2%80%99s%20safety%2C%20and%20pursue%20charges.%0A%0AIt%20has%20also%20been%20reported%20that%20officers%20stated%20they%20%22cannot%20act%20without%20a%20name%22%20and%20that%20the%20public%20would%20need%20to%20provide%20the%20suspect's%20identity%20first.%0A%0AThat%20is%20not%20an%20acceptable%20standard%20for%20policing.%20When%20an%20assault%20is%20on%20video%2C%20law%20enforcement%20is%20expected%20to%20investigate%20and%20identify%20the%20suspect%20using%20established%20investigative%20tools.%20Shifting%20that%20burden%20onto%20the%20public%20is%20effectively%20CMPD%20admitting%20it%20cannot%20be%20bothered%20to%20do%20its%20job%20and%20encouraging%20residents%20to%20doxx%20each%20other%20instead%20of%20reporting%20through%20proper%20channels.%0A%0AIf%20CMPD%20wants%20the%20public%20to%20cooperate%2C%20CMPD%20must%20also%20behave%20like%20a%20department%20that%20intends%20to%20act.%0A%0AREQUESTED%20ACTION%3A%0A%0A1.%20Open%20an%20official%20investigation%20and%20assign%20it%20to%20the%20appropriate%20CMPD%20unit%2Fdivision.%0A2.%20Preserve%20and%20obtain%20the%20original%20surveillance%20footage%20(best%20available%20copy%20and%20any%20related%20footage%20from%20nearby%20cameras).%0A3.%20Identify%20the%20suspect%20and%20the%20dog%E2%80%99s%20owner%2Fhandler%20as%20soon%20as%20possible.%0A4.%20Conduct%20a%20welfare%20check%20and%20take%20steps%20to%20ensure%20the%20dog%20is%20safe%20from%20further%20harm.%0A5.%20Pursue%20charges%20consistent%20with%20North%20Carolina%20animal%20cruelty%20law%20(N.C.G.S.%2014-360).%0A6.%20Issue%20a%20public%20statement%20confirming%20the%20above.%0A%0AThe%20public%20is%20watching%20how%20Charlotte%20handles%20cases%20like%20this.%20Animal%20abuse%20is%20a%20known%20predictor%20of%20broader%20violence%2C%20and%20failure%20to%20act%20is%20a%20green%20light%20for%20it%20to%20continue.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uYGfzaYyyH-NiLcu5LG85Q52ehrqVXdv%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/s-gardner-ave-dog-abuse",
+          "createdAt": "2026-01-15"
+        },
+        {
           "title": "Investigate Henry \"Coon Daddy\" Wofford",
           "slug": "investigate-henry-coon-daddy-wofford",
           "caseId": "investigate-henry-coon-daddy-wofford",
