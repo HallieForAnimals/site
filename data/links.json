@@ -363,6 +363,50 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Neglect at 752 East 105th Street,  LA",
+          "slug": "neglect-at-752-east-105th-street-la",
+          "caseId": "neglect-at-752-east-105th-street-la",
+          "instagram": "",
+          "description": "Location: 752 East 105th Street Los Angeles CA 90002\n\nParalyzed and left alone, with no food, water, or enrichment. \n\nThank you @kriskellyfoundation",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Los Angeles"
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "LA County District Attorney's Office",
+              "main": "+1 818 754 8315",
+              "ext": ""
+            },
+            {
+              "who": "LA Animal Services",
+              "main": "+1 213 482 9558",
+              "ext": ""
+            },
+            {
+              "who": "Mayor Karen Bass",
+              "main": "+1 213 473 3231",
+              "ext": ""
+            },
+            {
+              "who": "Council District 15",
+              "main": "+1 213 473 7015",
+              "ext": ""
+            },
+            {
+              "who": "North Central Animal Services Center",
+              "main": "+1 213 485 8855",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:jasmine.poblano@lacity.org,nhochman@da.lacounty.gov,annette.ramirez@lacity.org,hydee.feldsteinsoto@lacity.org,curtis.watts@lacity.org,yvonne.rodriguez@lacity.org,karen.bass@lacity.org,AMFeatherstonela@gmail.com,oliviaegarcia@outlook.com,commissionerkasendorf@gmail.com,commissionerysmith@gmail.com,councilmember.mcosker@lacity.org,Miguelandres.Hernandez@lacity.org,catherine.lee@lacity.org?subject=PARALYZED%20DOG%20NO%20FOOD%2FWATER%20IMMEDIATE%20WELFARE%20CHECK%20NEEDED%20752%20E%20105TH%20ST%20LOS%20ANGELES%20CA%2090002&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20an%20URGENT%20animal%20cruelty%2Fneglect%20report%20requiring%20immediate%20response.%0A%0A752%20East%20105th%20Street%2C%20Los%20Angeles%2C%20CA%2090002%0A%0AA%20dog%20at%20this%20location%20appears%20paralyzed%20(hind%20legs%2Fspine)%20and%20is%20unable%20to%20stand%20or%20move%20on%20its%20own.%20The%20dog%20has%20been%20observed%20in%20the%20same%20position%20for%20extended%20periods%20and%20appears%20to%20have%20no%20access%20to%20food%20or%20water.%20The%20coat%20is%20matted%2C%20dirty%2C%20and%20the%20animal%20looks%20exhausted%20and%20defeated.%0A%0AAn%20immobile%20dog%20without%20water%20is%20a%20medical%20emergency%20and%20an%20unacceptable%20welfare%20failure.%0A%0AREQUESTED%20ACTION%3A%0A%0A1.%20Dispatch%20an%20Animal%20Control%20Officer%20for%20an%20emergency%20welfare%20check.%0A2.%20Provide%20water%20and%20medical%20assistance%20immediately%20upon%20arrival.%0A3.%20Transport%20the%20dog%20for%20emergency%20veterinary%20assessment%20if%20the%20animal%20is%20immobile%2Fparalyzed%20or%20in%20distress.%0A4.%20Investigate%20the%20owner%2Foccupants%20for%20neglect%20and%20pursue%20enforcement%20action.%0A5.%20If%20necessary%2C%20seize%2Fimpound%20the%20animal%20under%20applicable%20cruelty%2Fneglect%20authority%20(including%20CA%20Penal%20Code%20597.1%20failure%20to%20provide%20proper%20care).%0A%0APUBLIC%20ACCOUNTABILITY%3A%0AThis%20is%20a%20high-risk%20cruelty%2Fneglect%20emergency.%20We%20expect%20a%20public%20statement%20that%20a%20unit%20has%20been%20dispatched%20and%20that%20the%20dog%20has%20been%20located%20and%20is%20receiving%20care%2C%20not%20handled%20privately%20behind%20closed%20doors%20while%20the%20animal%20suffers.%0A%0ANo%20animal%20should%20be%20left%20to%20suffer%20like%20this%20in%20the%20City%20of%20Los%20Angeles.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-5GSWFIpfW4rvKm4BbOs14myMlBEBcFK%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/neglect-at-752-east-105th-street-la",
+          "createdAt": "2026-01-17"
+        },
+        {
           "title": "S Gardner Ave Dog Abuse",
           "slug": "s-gardner-ave-dog-abuse",
           "caseId": "s-gardner-ave-dog-abuse",
