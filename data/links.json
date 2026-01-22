@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Report Sara Gurung",
+          "slug": "report-sara-gurung",
+          "caseId": "report-sara-gurung",
+          "instagram": "",
+          "description": "Name: Sara Gurung\nLocation: Kayi village, Roing tehsil, Lower Dibang Valley, Arunachal Pradesh, India\n\nSadistic bitch, @saragurung951 has been consistently posting videos of her abusing her dogs for a while now.\nReporting the account won't fix the problem; she'll only abuse them in private.\nThese dogs need to be removed from her \"care\", and she needs to be removed from existence.",
+          "location": {
+            "country": "India",
+            "region": "Arunachal Pradesh",
+            "locality": "Roing"
+          },
+          "targets": [
+            "Indian Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Superintendent of Police",
+              "main": "+91 03803 222 208",
+              "ext": ""
+            },
+            {
+              "who": "Deputy Commissioner",
+              "main": "+91 03803 222 223",
+              "ext": ""
+            },
+            {
+              "who": "Director, Fire & Emergency Services, Arunachal Police",
+              "main": "+91 0360 221 2417",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:dirfs@arunpol.nic.in,sp-polrng-arn@nic.in,dc-ldvalley-arn@nic.in,dc-ldvalley@nic.in,dcspa-ldvalley-arn@nic.in?subject=Animal%20cruelty%20in%20Kayi%20village&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20formal%20report%20of%20repeated%20animal%20cruelty%20in%20Kayi%20village%2C%20Roing%20tehsil%2C%20Lower%20Dibang%20Valley%2C%20Arunachal%20Pradesh%2C%20792110.%0A%0AThe%20individual%20involved%20is%20reported%20as%20Sara%20Gurung%20(resident%20of%20Kayi%20village).%0AShe%20is%20repeatedly%20abusing%20dogs%20by%20pulling%20their%20ears%2Fskin%20until%20they%20scream%2C%20striking%20them%2C%20and%20beating%20them%20with%20sticks.%0A%0AKnown%20vehicle%20registration%3A%20WB74AY4803.%0A%0AThis%20requires%20immediate%20action%3A%0A1)%20Locate%20Gurung%20and%20dispatch%20police%20to%20her%20location%20in%20Kayi%20village%20for%20an%20urgent%20welfare%20check.%0A2)%20Remove%2Fseize%20the%20dogs%20if%20they%20are%20at%20risk.%0A3)%20Register%20a%20case%20for%20animal%20cruelty%20and%20take%20enforcement%20action.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1K2QS16YnQsK7ErmcJYCl87zHEQ1BawH5%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/report-sara-gurung",
+          "createdAt": "2026-01-22"
+        },
+        {
           "title": "Stop Chinese Cat Torture Rings",
           "slug": "stop-chinese-cat-torture-rings",
           "caseId": "stop-chinese-cat-torture-rings",
