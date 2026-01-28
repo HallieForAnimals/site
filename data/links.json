@@ -363,6 +363,52 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "S Cedar Ave, Fresno Dog Neglect",
+          "slug": "s-cedar-ave-fresno-dog-neglect",
+          "caseId": "s-cedar-ave-fresno-dog-neglect",
+          "instagram": "",
+          "description": "Possible Name: Jenny Bautista-Salazar\nLocation: 2538 S Cedar Avenue, Fresno, CA 93725\n\nFresno Sheriff's Dept, Animal Control, & SPCA claim there's nothing wrong here. Moral disengagement hard at work.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Fresno"
+          },
+          "targets": [
+            "Fresno Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Fresno Police Department",
+              "main": "+1 559 621 7000",
+              "ext": ""
+            },
+            {
+              "who": "Fresno County Sheriff’s Office",
+              "main": "+1 559 600 3111",
+              "ext": ""
+            },
+            {
+              "who": "Fresno Humane Animal Services",
+              "main": "+1 559 600 7387",
+              "ext": ""
+            },
+            {
+              "who": "Central California SPCA",
+              "main": "+1 559 233 7722",
+              "ext": ""
+            },
+            {
+              "who": "Fresno County District Attorney’s Office",
+              "main": "+1 559 600 3141",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:media@ccspca.com,mindy.casto@fresno.gov,john.zanoni@fresnosheriff.org,lsmittcamp@fresnocountyca.gov,publicintegrity@fresnocountyca.gov,info@fresnohumane.org,rescue@ccspca.com?subject=Welfare%20Check%20%2B%20Enforcement%20Review%20Needed&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20reporting%20an%20ongoing%20animal%20welfare%20concern%20at%3A%0A%0A2538%20S%20Cedar%20Avenue%2C%20Fresno%2C%20CA%2093725%0A%0AWhat%20is%20being%20observed%3A%0A%0A*%20Four%20dogs%20chained%20outside.%0A*%20Each%20appears%20tethered%20on%20a%20short%2C%20metal%20chain%20(approximately%204%20feet%20long).%0A*%20%22Shelter%22%20appears%20to%20be%20old%20refrigerators%20laid%20on%20their%20sides%20(unsafe%2C%20inadequate%2C%20and%20not%20acceptable%20as%20proper%20shelter).%0A%0APossible%20occupant%3A%0A%0A*%20Jenny%20Bautista-Salazar%20is%20believed%20to%20live%20at%20the%20property%0A%0AIt%3Bs%20been%20reported%20that%20the%20CCSPCA%2C%20Sheriff's%20Dept%2C%20and%20Humane%20society%20have%20said%20there's%20nothing%20wrong.%20That%20conclusion%20does%20not%20match%20what%20is%20being%20observed.%20If%20agencies%20are%20signing%20off%20on%20this%2C%20I%20am%20requesting%20a%20supervisor-level%20re-check%20and%20public%20justification.%0A%0A*%20CA%20Penal%20Code%20597%20(cruelty)%0A*%20CA%20Penal%20Code%20597.1%20(neglect%3B%20authority%20to%20impound)%0A*%20CA%20Penal%20Code%20597t%20(tethering)%0A*%20Any%20applicable%20City%20of%20Fresno%20%2F%20Fresno%20County%20ordinances%20on%20tethering%2C%20shelter%2C%20sanitation%2C%20and%20minimum%20care.%0A%0ARequested%20actions%3A%0A%0A1.%20Conduct%20an%20on-site%20welfare%20check%20within%2024%20hours.%0A2.%20Document%20chain%20length%2C%20tether%20setup%2C%20collar%20type%2C%20entanglement%20risk%2C%20access%20to%20clean%20water%2C%20shade%2C%20weather%20exposure%2C%20sanitation%2C%20body%20condition%2C%20and%20injuries.%0A3.%20Issue%20citations%2Fabatement%20orders%20and%20seize%20animals%20if%20needed.%0A4.%20Provide%20a%20public%20statement%20reporting%20findings%2C%20the%20case%20number%2Freport%20number%2C%20and%20the%20name%2Ftitle%20of%20the%20supervisor%20who%20reviewed%20the%20findings.%0A5.%20If%20prior%20calls%20were%20closed%20as%20%22no%20issue%2C%22%20formally%20re-review%20those%20determinations%20and%20explain%20the%20standard%20used.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1CdpRNk8WMS7bN8iGA35MrnTWdm0Lep_N%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/s-cedar-ave-fresno-dog-neglect",
+          "createdAt": "2026-01-28"
+        },
+        {
           "title": "No Reduction in Punishment for Edwin Campuzano",
           "slug": "no-reduction-in-punishment-for-edwin-campuzano",
           "caseId": "no-reduction-in-punishment-for-edwin-campuzano",
