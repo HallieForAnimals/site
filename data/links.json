@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Investigate Amber Broughton",
+          "slug": "investigate-amber-broughton",
+          "caseId": "investigate-amber-broughton",
+          "instagram": "",
+          "description": "Abuser Names: Alex & Amber Broughton\nLocation: McKinney, Texas\nSocials: Amber - @bodiedbyamber Alex - alex_broughtguns\n\nAccording to Broughton's TikTok, this is a regular occurrence. Other videos show her dog, Tadoe, showing clear signs of long term abuse.",
+          "location": {
+            "country": "United States",
+            "region": "Texas",
+            "locality": "McKinney"
+          },
+          "targets": [
+            "McKinney Authorities"
+          ],
+          "phones": [
+            {
+              "who": "McKinney Police Department",
+              "main": "+1 972 547 2700",
+              "ext": ""
+            },
+            {
+              "who": "Collin County Animal Services",
+              "main": "+1 972 547 7292",
+              "ext": ""
+            },
+            {
+              "who": "Collin County Sheriff’s Office",
+              "main": "+1 972 547 5100",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:jellenburg@mckinneytexas.org,ldehorney@co.collin.tx.us,mbrown@co.collin.tx.us,mlangan@collincountytx.gov,jskinner@collincountytx.gov?subject=Welfare%20Check%20Request&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20reporting%20suspected%20animal%20cruelty%2Fneglect%20and%20requesting%20the%20following%20actions%3A%0A%0A1.%20LOCATE%20the%20dog%20and%20current%20residence%20of%20the%20keeper(s)%0A2.%20CONDUCT%20an%20urgent%20welfare%20check%20on%20the%20Chihuahua%0A3.%20OPEN%20an%20investigation%20for%20animal%20cruelty%2Fneglect%20based%20on%20the%20video%20evidence%0A4.%20ISSUE%20a%20PUBLIC%20STATEMENT%20confirming%20the%20report%20was%20received%20and%20that%20a%20welfare%20check%20was%20conducted%20(without%20sensitive%20details)%0A%0AIDENTIFIERS%0APrimary%20subject%3A%0A%0A*%20Name%3A%20Amber%20Broughton%2C%20owner%20of%20Bodied%20By%20Amber%0A*%20Social%20media%20handle%3A%20%40bodiedbyamber%20(TikTok%20and%20Instagram)%0A%20%20Additional%20involved%20party%20shown%20in%20video%3A%0A*%20Name%3A%20Alex%20Broughton%20(reported%20to%20reside%20in%20Princeton%2C%20TX)%0A%0AINCIDENT%20SUMMARY%20(as%20shown%20on%20video)%0A%0A*%20The%20video%20shows%20Alex%20Broughton%20pinning%20a%20Chihuahua%20against%20a%20wall%20after%20the%20dog%20allegedly%20%22bit%22%20him.%0A*%20Amber%20Broughton%20is%20filming%20and%20laughing%20during%20the%20incident.%0A*%20The%20dog%20appears%20distressed%20during%2Fafter%20the%20restraint.%0A*%20Other%20videos%20featuring%20the%20same%20dog%20show%20fear%2Fstress%20indicators%20(trembling%2Fshivering%2C%20hesitant%20movement%2C%20avoidance%2Ffreezing).%0A%0ALOCATION%20STATUS%0A%0A*%20The%20incident%20occurred%20at%20Amber's%20known%20residence%20(6116%20Berkshire%20Rd%2C%20McKinney%2C%20TX%2075072%2C%20USA)%2C%20but%20she%20appears%20to%20have%20moved%20within%20the%20last%20couple%20of%20weeks%20and%20the%20current%20address%20is%20unknown.%0A*%20The%20dog%20is%20believed%20to%20still%20be%20in%20Amber%20Broughton's%20possession%2Fcare.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1iXZpBzVq0E5JotTLjecuAEbjoA2AfLGu%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/investigate-amber-broughton",
+          "createdAt": "2026-02-01"
+        },
+        {
           "title": "Save Gilda",
           "slug": "save-gilda",
           "caseId": "save-gilda",
