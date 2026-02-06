@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Investigate US Marshall Dog Abuser",
+          "slug": "investigate-us-marshall-dog-abuser",
+          "caseId": "investigate-us-marshall-dog-abuser",
+          "instagram": "",
+          "description": "During an arrest, a US Marshall felt it appropriate to kick Yoshi, the minature schauzer, and break his ribs.\nIt's these guys job to assess danger in real time. If this agent considers a minature shcnauzer a threat, then he's unfit to wear a badge and gun.",
+          "location": {
+            "country": "United States",
+            "region": "Tennessee",
+            "locality": "Whitehaven"
+          },
+          "targets": [
+            "US Authorities"
+          ],
+          "phones": [
+            {
+              "who": "DOJ Office of Inspector General",
+              "main": "+1 800 869 4499",
+              "ext": ""
+            },
+            {
+              "who": "US Marshals Service",
+              "main": "+1 202 307 9100",
+              "ext": ""
+            },
+            {
+              "who": "Memphis Police Department - Inspectional Services Bureau",
+              "main": "+1 901 636 4966",
+              "ext": ""
+            },
+            {
+              "who": "Tennessee Bureau of Investigation",
+              "main": "+1 615 744 4000",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:MSTF.PublicAffairs@usdoj.gov,us.marshals@usdoj.gov,USATNW.Media@usdoj.gov,oig.hotline@usdoj.gov,memisb@memphistn.gov,TBI.Media@tbi.tn.gov?subject=Miniature%20Schnauzer%20Kicked%20During%20Arrest%20Operation&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20submitting%20a%20formal%20misconduct%20complaint%20regarding%20a%20viral%20video%20showing%20a%20U.S.%20Marshal%20in%20Memphis%20(Whitehaven%20area)%20turning%20and%20kicking%20a%20Miniature%20Schanuzer%20during%20an%20arrest%20operation.%0A%0AThe%20dog%2C%20named%20%22Yoshi%22%2C%20was%20later%20diagnosed%20by%20a%20veterinarian%20with%20a%20broken%20rib.%20The%20incident%20occurred%20during%20a%20USMS-led%20arrest%20operation%20outside%20a%20Whitehaven%20apartment%20complex%20in%20Memphis%2C%20Tennessee.%0A%0AThis%20complaint%20concerns%20BOTH%3A%0A1)%20the%20individual%20deputy's%20conduct%20(use%20of%20force%20against%20a%20small%20domestic%20animal)%2C%20and%0A2)%20the%20operational%20decision-making%20and%20supervision%20during%20the%20arrest%20operation%20(risk%20assessment%2C%20de-escalation%2C%20and%20handling%20of%20non-threats%20in%20a%20residential%20environment).%0A%0AA%20federal%20officer%20is%20trained%20to%20assess%20threat%20in%20the%20moment.%20A%20miniature%20schnauzer%20is%20not%20a%20lethal%20threat.%20If%20the%20official%20position%20is%20%22officer%20safety%2C%22%20then%20produce%20the%20records%20and%20footage%20that%20supposedly%20justify%20that%20claim.%0A%0AActions%20demanded%3A%0A%0A1)%20Open%20a%20misconduct%20investigation%20into%20the%20deputy%20who%20kicked%20the%20dog.%0A2)%20Conduct%20an%20operational%2Fforce%20review%20of%20the%20entire%20arrest%20operation%20(supervision%2C%20decision-making%2C%20escalation).%0A3)%20Identify%20the%20USMS%20district%2Ftask%20force%20unit%20involved%20and%20the%20chain%20of%20command%20responsible%20for%20the%20operation.%0A4)%20Preserve%20all%20evidence%20immediately%2C%20including%3A%0A%20%20%20-%20all%20body-worn%20camera%20footage%20(full%2C%20unedited)%2C%0A%20%20%20-%20any%20assisting-agency%20dash%2Fbody%20camera%20footage%2C%0A%20%20%20-%20incident%20reports%2C%20use-of-force%20documentation%2C%20and%20any%20after-action%20materials%2C%0A%20%20%20-%20any%20veterinary%20records%20or%20evidentiary%20materials%20obtained%20by%20the%20agency.%0A5)%20Release%20the%20full%2C%20unedited%20footage%20to%20the%20maximum%20extent%20permitted.%20If%20any%20portion%20is%20withheld%2C%20publish%20the%20legal%20basis%20and%20scope%20of%20the%20withholding.%0A%0AThis%20is%20a%20conduct%20and%20accountability%20problem.%20If%20the%20agency%20believes%20the%20kick%20was%20justified%2C%20that%20determination%20must%20be%20supported%20by%20the%20full%2C%20unedited%20footage%20and%20documentation%2C%20not%20a%20one-paragraph%20statement.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1ZK8np9IZb5WyJlMSktCPTm1Cy4HykafH%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/investigate-us-marshall-dog-abuser",
+          "createdAt": "2026-02-06"
+        },
+        {
           "title": "Abuse At 2826 Willow Pl, South Gate, CA",
           "slug": "abuse-at-2826-willow-pl-south-gate-ca",
           "caseId": "abuse-at-2826-willow-pl-south-gate-ca",
