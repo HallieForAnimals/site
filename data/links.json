@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Arrest John Kaschak",
+          "slug": "arrest-john-kaschak",
+          "caseId": "arrest-john-kaschak",
+          "instagram": "",
+          "description": "Abuser Name: John Kaschak\nAbuser Address: 615 W 7th St, Unit 2201, Austin, TX 78701\n\nBoone has been removed from the situation and rescued, but the abusing POS John Kaschak is yet to be arrested.",
+          "location": {
+            "country": "United States",
+            "region": "Texas",
+            "locality": "Austin"
+          },
+          "targets": [
+            "Austin Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Austin PD",
+              "main": "+1 512 974 2000",
+              "ext": ""
+            },
+            {
+              "who": "City of Austin",
+              "main": "+1 512 974 2210",
+              "ext": ""
+            },
+            {
+              "who": "Austin City Council District 9",
+              "main": "+1 512 978 2109",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:Lisa.Davis@austintexas.gov,Police3@AustinTexas.gov,policeoversight@austintexas.gov,Kirk.Watson@austintexas.gov,Zo.Qadri@austintexas.gov,TC.Broadnax@austintexas.gov,Jon.Fortune@austintexas.gov,deborah.thomas@austintexas.gov?subject=Arrest%20John%20Kaschak&body=To%20whom%20it%20may%20concern%2C%0AThis%20is%20a%20formal%20demand%20for%20immediate%20enforcement%20action%20in%20an%20animal%20cruelty%20case%20where%20the%20victim%20dog%20has%20already%20been%20seized%20after%20being%20beaten%20repeatedly.%0A%0AJohn%20Kaschak%0A615%20W%207th%20St%2C%20Unit%202201%2C%20Austin%2C%20TX%2078701%0A%0AA%20seizure%20is%20acknowledgment%20that%20harm%20occurred%20and%20the%20animal%20was%20in%20danger.%0A%0AAnd%20yet%20no%20arrest%20has%20been%20made.%0A%0AAction%20required%20now%3A%0A%0A1-%20Arrest%20and%20charge%20where%20probable%20cause%20exists%2C%20including%20warrant%20submission%2Fexecution%20and%20prosecutor%20intake%20without%20delay.%0A2-%20Escalate%20to%20a%20supervisor%20and%20the%20DA%20for%20an%20immediate%20charging%20decision%20if%20any%20individual%20is%20%22waiting%22%20on%20process.%0A3-%20Ensure%20the%20dog%20is%20protected%20from%20return%20to%20the%20alleged%20abuser%20pending%20the%20case%20outcome.%0A4-%20Issue%20a%20public%20statement%20confirming%20that%20the%20case%20is%20being%20handled.%0A%0AAnimal%20cruelty%20is%20not%20a%20%22minor%22%20offence.%20The%20FBI%20tracks%20animal%20cruelty%20in%20national%20crime%20data%20as%20a%20serious%20crime%20category%2C%20and%20law%20enforcement%20guidance%20has%20long%20documented%20the%20overlap%20between%20animal%20cruelty%20and%20other%20violent%20and%20coercive%20crimes%2C%20including%20domestic%20violence.%20Treat%20this%20as%20violence%2C%20because%20it%20is.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1qoETV5-MYzD8tIA9nIqU5BB7wQl8_Glq%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/arrest-john-kaschak",
+          "createdAt": "2026-02-10"
+        },
+        {
           "title": "Find & Prosecute Dog Abusers in Patia, Cauca, Colombia",
           "slug": "find-prosecute-dog-abusers-in-patia-cauca-colombia",
           "caseId": "find-prosecute-dog-abusers-in-patia-cauca-colombia",
