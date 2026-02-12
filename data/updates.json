@@ -40,5 +40,19 @@
         "url": "https://go.hallieforanimals.org/t/prosecute-fluffos-killer"
       }
     ]
+  },
+  {
+    "title": "Investigate Godhra Dog Abuser",
+    "status": "resolved",
+    "summary": "Sheetal Pandav, the wife of a police officer, has been identified as the abuser and arrested. She's now facing charges of animal cruelty.",
+    "date": "2026-02-12",
+    "caseId": "investigate-godhra-dog-abuser",
+    "slug": "investigate-godhra-dog-abuser",
+    "links": [
+      {
+        "label": "Take Action",
+        "url": "https://go.hallieforanimals.org/t/investigate-godhra-dog-abuser-update"
+      }
+    ]
   }
 ]
