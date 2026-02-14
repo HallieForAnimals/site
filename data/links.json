@@ -363,6 +363,52 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Demand Investigation Into Alameda Dog Walker",
+          "slug": "demand-investigation-into-alameda-dog-walker",
+          "caseId": "demand-investigation-into-alameda-dog-walker",
+          "instagram": "",
+          "description": "Abuser Name: Konstantino \"Costa\" Marangoudakis\nAbuser Address: 2234 E 19th St, Oakland, CA 94606\n\nCosta's business is disappearing, his website is gone, his Instagram is gone.\nGoing out of business isn't enough.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Oakland & Alameda"
+          },
+          "targets": [
+            "Alameda & Oakland Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Alameda Police Dept",
+              "main": "+1 510 337 8340",
+              "ext": ""
+            },
+            {
+              "who": "Alameda Animal Services",
+              "main": "+1 510 337 8565",
+              "ext": ""
+            },
+            {
+              "who": "Oakland Police Dept",
+              "main": "+1 510 777 3333",
+              "ext": ""
+            },
+            {
+              "who": "Oakland Animal Services",
+              "main": "+1 510 535 5602",
+              "ext": ""
+            },
+            {
+              "who": "Alameda County Sheriff's Office",
+              "main": "+1 510 667 7721",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:APDRecords@alamedaca.gov,shenry@alamedaca.gov,manager@alamedaca.gov,aonesko@alamedaca.gov,info@alamedaanimalshelter.org,scowan@alamedaanimalshelter.org,cityattorney@alamedacityattorney.org,cityprosecutor@alamedacityattorney.org,rfenix@alamedacityattorney.org,jbeere@oaklandca.gov,opdmedia@oaklandca.gov,opdrecordrequest@oaklandca.gov,oaklandhomicide@oaklandca.gov,OaklandPIO@oaklandca.gov,oas@oaklandca.gov,jdevries@oaklandca.gov,alcoda@acgov.org,askfhj-da@acgov.org,askechoj-da@acgov.org,ACSORecords@acgov.org?subject=Demand%20Investigation%20Into%20Alameda%20Dog%20Walker&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20is%20a%20formal%20complaint%20and%20demand%20for%20immediate%20enforcement%20action%20regarding%20suspected%20animal%20cruelty%20and%20an%20active%20commercial%20dog%20operation.%0A%0ASUSPECT%0A%0ASuspect%20name%3A%20Konstantino%20%22Costa%22%20Marangoudakis%0AAssociated%20address%3A%202234%20E%2019th%20St%2C%20Oakland%2C%20CA%2094606%0A%0AI%20have%20video%20evidence%20showing%20a%20dog%20being%20forcefully%20handled%2Fthrown%20into%20a%20vehicle%20in%20a%20manner%20consistent%20with%20animal%20cruelty.%20The%20subject%20appears%20to%20be%20operating%20with%20multiple%20dogs%2C%20consistent%20with%20a%20commercial%20walking%2Fboarding%2Ftraining%20operation.%20This%20is%20violent%20handling%20with%20a%20clear%20risk%20of%20injury.%0A%0A1.%20Open%20an%20animal%20cruelty%20investigation%20into%20Konstantino%20%22Costa%22%20Marangoudakis.%0A2.%20Conduct%20an%20urgent%20welfare%20check%20on%20EVERY%20dog%20currently%20in%20his%20care%2Fcustody%2Fcontrol%20(owned%20dogs%20and%20all%20boarded%2Fdaycare%20clients).%0A3.%20Locate%20and%20identify%20the%20vehicle(s)%20and%20any%20operating%20location(s)%20used%20to%20transport%20and%20hold%20dogs.%0A4.%20Determine%20whether%20this%20is%20an%20active%20commercial%20dog%20operation%20(boarding%2Ftraining%2Fdaycare%2Fwalking)%20and%20verify%3A%0A%20%20%20*%20Business%20licensing%2Fpermits%20(Oakland%2FAlameda%20as%20applicable)%0A%20%20%20*%20Any%20required%20animal%20boarding%20permits%2Fkennel%20requirements%0A%20%20%20*%20Insurance%20and%20compliance%0A6.%20If%20probable%20cause%20exists%2C%20seize%20animals%20for%20protection%2Fevidence%20and%20pursue%20charges.%0A%0AThe%20subject's%20online%20presence%20appears%20to%20be%20disappearing%2C%20which%20increases%20the%20risk%20of%20evidence%20loss%20and%20animals%20being%20moved.%20This%20must%20be%20treated%20as%20urgent.%0A%0AThis%20is%20a%20public%20safety%20issue.%20Someone%20who%20is%20willing%20to%20violently%20handle%20animals%20in%20public%20is%20not%20safe%20to%20leave%20in%20charge%20of%20multiple%20dogs%2C%20including%20client%20animals.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1B6NFXu_QfMzO_-f_JnY7DSr6fsFY_ngM%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/demand-investigation-into-alameda-dog-walker",
+          "createdAt": "2026-02-14"
+        },
+        {
           "title": "Arrest Maadi Dog Killer",
           "slug": "arrest-maadi-dog-killer",
           "caseId": "arrest-maadi-dog-killer",
