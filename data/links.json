@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Justice For Feather",
+          "slug": "justice-for-feather",
+          "caseId": "justice-for-feather",
+          "instagram": "",
+          "description": "Abuser Name: Lauren Renee Wright\n\nFeather was found at the side of the road, weighing 32lbs with no food in her stomach. \nHer ears were cut, and showed signs of long exposure to extreme temperatures.\nShe fought for her life at Woodward Animal Control but passed away two days later.",
+          "location": {
+            "country": "United States",
+            "region": "Oklahoma",
+            "locality": "Woodward"
+          },
+          "targets": [
+            "Woodward Authorities & Prosecutors"
+          ],
+          "phones": [
+            {
+              "who": "Woodward County DA",
+              "main": "+1 580 256 8616",
+              "ext": ""
+            },
+            {
+              "who": "Woodward PD",
+              "main": "+1 580 254 8535",
+              "ext": ""
+            },
+            {
+              "who": "Woodward PD (Alt)",
+              "main": "+1 580 254 8530",
+              "ext": ""
+            },
+            {
+              "who": "Woodward AC",
+              "main": "+1 580 254 8549",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:hfargo@cityofwoodward-ok.gov,bparker@cityofwoodward-ok.gov,dnavratil@cityofwoodward-ok.gov,kcornejo@cityofwoodward-ok.gov,susan.meinders@dac.state.ok.us?subject=CF-2026-00018%20-%20State%20of%20Oklahoma%20vs.%20Lauren%20Renee%20Wright&body=To%20whom%20it%20may%20concern%2C%0A%0AThis%20message%20concerns%20CF-2026-00018%20(State%20of%20Oklahoma%20vs.%20Lauren%20Renee%20Wright)%2C%20filed%20as%20CRUELTY%20TO%20ANIMALS%20(B5).%0A%0AThe%20community%20is%20demanding%20the%20full%20extent%20of%20the%20law%20be%20applied.%20No%20charge%20reduction.%20No%20quiet%20deal%20that%20minimizes%20what%20happened.%20No%20outcome%20that%20amounts%20to%20a%20wrist-slap.%0A%0AREQUESTS%3A%0A%0A1.%20Oppose%20any%20plea%20reduction%20or%20dismissal%20that%20minimizes%20accountability%20in%20CF-2026-00018.%0A2.%20Oppose%20any%20deferred-style%20resolution%20that%20avoids%20a%20meaningful%20conviction-level%20outcome%20for%20felony%20animal%20cruelty.%0A3.%20Seek%20the%20strongest%20lawful%20sentence%20available%2C%20including%20custody%20where%20authorized%2C%20restitution%2C%20and%20strict%20supervision%20terms.%0A4.%20Maintain%20and%20enforce%20the%20%22NO%20POSSESSION%20OF%20ANIMALS%22%20condition%2C%20and%20pursue%20a%20long-term%2Flifetime%20prohibition%20on%20owning%2C%20possessing%2C%20or%20residing%20with%20animals%20as%20part%20of%20sentencing%20conditions.%0A5.%20Ensure%20the%20case%20file%20is%20complete%20and%20prosecution-ready%3A%20preserve%20and%20present%20all%20veterinary%20documentation%2C%20photos%2C%20witness%20statements%2C%20and%20all%20agency%20reports.%20If%20other%20animals%20were%20involved%20or%20at%20risk%2C%20investigate%20fully%20and%20file%20additional%20counts%20where%20supported%20by%20evidence.%0A%0AThis%20request%20is%20strengthened%20by%20the%20defendant's%20documented%20prior%20criminal%20case%20in%20Woodward%20County%3A%0A%0A*%20CM-2025-00042%2C%20DUI-ALCOHOL-AGGRAVATED%20(MISDEMEANOR)%2C%20filed%2002%2F25%2F2025.%0A%20%20The%20docket%20reflects%20a%20plea%20setting%20completed%2006%2F24%2F2025%20and%20a%20deferred-style%20status%20(%22ST%20PENDING%20DEFERRED%22)%20on%20record.%0A%0AWhen%20a%20person%20is%20already%20appearing%20in%20court%20for%20a%20serious%20alcohol-related%20driving%20offense%2C%20the%20correct%20response%20to%20a%20felony%20cruelty%20case%20is%20not%20another%20soft%20landing.%20The%20public%20expects%20consistent%20accountability%20and%20a%20clear%20deterrent%20message.%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/justice-for-feather",
+          "createdAt": "2026-02-16"
+        },
+        {
           "title": "Justice For Teddy",
           "slug": "justice-for-teddy",
           "caseId": "justice-for-teddy",
