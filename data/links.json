@@ -363,6 +363,47 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Investigate Neglect At 161 3rd Street, Rochester, NY",
+          "slug": "investigate-neglect-at-161-3rd-street-rochester-ny",
+          "caseId": "investigate-neglect-at-161-3rd-street-rochester-ny",
+          "instagram": "",
+          "description": "Location: 161 3rd Street, Rochester, NY, \n\nRochester Humane has already instructed this guy to keep his dogs indoors after they were left in neglectful conditions outside; now they're prisoners inside. One dog has clearly injured himself trying to escape his crate.",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Rochester"
+          },
+          "targets": [
+            "Rochester Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Humane Law Enforcement",
+              "main": "+1 585 223 6500",
+              "ext": ""
+            },
+            {
+              "who": "Rochester Animal Services",
+              "main": "+1 585 428 7008",
+              "ext": ""
+            },
+            {
+              "who": "Rochester PD",
+              "main": "+1 585 428 5990",
+              "ext": ""
+            },
+            {
+              "who": "Monroe County DA's Office",
+              "main": "+1 585 753 4500",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:?subject=Investigate%20Neglect%20At%20161%203rd%20Street%2C%20Rochester%2C%20NY&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20reporting%20suspected%20animal%20cruelty%2Fneglect%20at%3A%20161%203rd%20Street%2C%20Rochester%2C%20NY.%0A%0AAt%20least%20five%20dogs%20%20re%20confined%20to%20crates.%20Multiple%20crates%20appear%20damaged%2Fchewed%20through%20with%20holes%20large%20enough%20for%20dogs%20to%20push%20their%20heads%20out.%20One%20dog%20has%20visible%20injuries%20to%20the%20head%2Fface%20consistent%20with%20repeated%20pushing%20through%20the%20damaged%20crate%20opening.%20This%20creates%20an%20ongoing%20injury%20risk%20and%20potential%20strangulation%20risk.%0A%0ARochester%20Humane%20Society%20previously%20instructed%20the%20resident%20to%20keep%20the%20dogs%20indoors%20after%20they%20were%20left%20outside%20in%20extreme%20temperatures%20(prior%20welfare%20concern%20already%20documented).%0A%0ARequested%20actions%3A%0A1)%20Immediate%20welfare%20check%20at%20the%20address%20and%20documentation%20of%20conditions%20(photos%2C%20written%20observations).%0A2)%20Veterinary%20assessment%20for%20the%20injured%20dog(s)%20and%20any%20other%20animals%20in%20distress.%0A3)%20Determine%20whether%20the%20conditions%20meet%20the%20threshold%20for%20seizure%2Fremoval%20under%20applicable%20NY%20law%20and%20proceed%20if%20justified.%0A4)%20Open%20a%20cruelty%2Fneglect%20investigation%20and%20pursue%20appropriate%20charges%20(not%20another%20warning).%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11n1VHfmHDqtkQIQc4Gakf2oUoxkENdUX%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/investigate-neglect-at-161-3rd-street-rochester-ny",
+          "createdAt": "2026-02-18"
+        },
+        {
           "title": "Pass L35/2026 End Mass Killing in Romania",
           "slug": "pass-l35-2026-end-mass-killing-in-romania",
           "caseId": "pass-l35-2026-end-mass-killing-in-romania",
