@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Remove Dog From Abusive Owner in Bogota",
+          "slug": "remove-dog-from-abusive-owner-in-bogota",
+          "caseId": "remove-dog-from-abusive-owner-in-bogota",
+          "instagram": "",
+          "description": "The (in)competent authorities have assessed this situation and decided there's nothing they can do because the owner is autistic...\nYou would not leave a child in an abusive household simply because a parent has a disability. The same should apply to a dog.",
+          "location": {
+            "country": "Colombia",
+            "region": "",
+            "locality": "Bogota"
+          },
+          "targets": [
+            "Bogota Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Bogota Animal Protection",
+              "main": "+57 601 439 9801",
+              "ext": ""
+            },
+            {
+              "who": "Local Authority Office",
+              "main": "+57 601 382 0660",
+              "ext": ""
+            },
+            {
+              "who": "Local Police",
+              "main": "+57 601 442 2228",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:notificacionestutelas@gobiernobogota.gov.co,proteccionanimal@animalesbog.gov.co,disciplinarios@animalesbog.gov.co,notificacionesjudiciales@animalesbog.gov.co,defensorciudadanoSDG@gobiernobogota.gov.co?subject=Engativa%20(Altos%20de%20Granada)%20-%20Remove%20The%20Abused%20Dog%20Now&body=A%20quien%20corresponda%3A%0A%0AEsto%20se%20refiere%20al%20reciente%20caso%20de%20maltrato%20animal%20en%20Engativa%2C%20Bogot%C3%A1%20(complejo%20residencial%20Altos%20de%20Granada)%2C%20donde%2C%20seg%C3%BAn%20se%20informa%2C%20un%20perro%20fue%20agredido%20f%C3%ADsicamente%20y%20no%20se%20tomaron%20medidas%20efectivas%2C%20supuestamente%20porque%20el%20propietario%20es%20autista.%0A%0AEl%20autismo%20no%20es%20una%20luz%20verde%20para%20maltratar%20a%20los%20animales.%20Un%20diagn%C3%B3stico%20puede%20cambiar%20C%C3%93MO%20intervienen%20las%20autoridades%20(enfoque%20seguro%2C%20apoyo%20presente).%20No%20cambia%20SI%20las%20autoridades%20intervienen.%20Si%20una%20persona%20no%20puede%20tener%20un%20animal%20sin%20recurrir%20a%20la%20violencia%2C%20el%20animal%20debe%20ser%20retirado.%0A%0AMedidas%20necesarias%3A%0A1)%20Comprobaci%C3%B3n%20inmediata%20del%20bienestar%20y%20evaluaci%C3%B3n%20de%20riesgos%20en%20el%20lugar%20en%20cuesti%C3%B3n.%0A2)%20Retirada%20protectora%2Fsalvaguarda%20del%20perro.%0A3)%20Evaluaci%C3%B3n%20veterinaria%20y%20documentaci%C3%B3n.%0A4)%20Investigaci%C3%B3n%20formal%20y%20medidas%20coercitivas%20adecuadas.%0A%0ANo%20se%20dejar%C3%ADa%20a%20un%20ni%C3%B1o%20en%20un%20hogar%20abusivo%20simplemente%20porque%20uno%20de%20los%20padres%20tiene%20una%20discapacidad.%20El%20principio%20de%20protecci%C3%B3n%20es%20el%20mismo%3A%20proteger%20primero%20a%20la%20v%C3%ADctima%20vulnerable.%0A%0AAtentamente%2C%0A%0AEquipo%20de%20%40HallieForAnimals%0Acontact%40hallieforanimals.org%0A%0A%0ATo%20whom%20it%20may%20concern%2C%0A%0AThis%20concerns%20the%20recent%20animal%20abuse%20case%20in%20Engativa%2C%20Bogota%20(Altos%20de%20Granada%20residential%20complex)%20where%20a%20dog%20was%20reportedly%20physically%20assaulted%20and%20no%20effective%20action%20was%20taken%2C%20allegedly%20because%20the%20owner%20is%20autistic.%0A%0AAutism%20is%20not%20a%20green%20light%20to%20abuse%20animals.%20A%20diagnosis%20can%20change%20HOW%20authorities%20intervene%20(safe%20approach%2C%20support%20present).%20It%20does%20not%20change%20WHETHER%20authorities%20intervene.%20If%20a%20person%20cannot%20keep%20an%20animal%20without%20violence%2C%20the%20animal%20must%20be%20removed.%0A%0ARequired%20actions%3A%0A1)%20Immediate%20welfare%20check%20and%20risk%20assessment%20at%20the%20location%20in%20question%0A2)%20Protective%20removal%2Fsafeguarding%20of%20the%20dog%0A3)%20Veterinary%20assessment%20and%20documentation%0A4)%20Formal%20investigation%20and%20appropriate%20enforcement%20action%0A%0AYou%20would%20not%20leave%20a%20child%20in%20an%20abusive%20household%20simply%20because%20a%20parent%20has%20a%20disability.%20The%20safeguarding%20principle%20is%20the%20same%3A%20protect%20the%20vulnerable%20victim%20first.%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/remove-dog-from-abusive-owner-in-bogota",
+          "createdAt": "2026-02-19"
+        },
+        {
           "title": "Investigate Neglect At 161 3rd Street, Rochester, NY",
           "slug": "investigate-neglect-at-161-3rd-street-rochester-ny",
           "caseId": "investigate-neglect-at-161-3rd-street-rochester-ny",
