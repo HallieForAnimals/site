@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Demand Welfare Check at 25208 SW 133rd Pl",
+          "slug": "demand-welfare-check-at-25208-sw-133rd-pl",
+          "caseId": "demand-welfare-check-at-25208-sw-133rd-pl",
+          "instagram": "",
+          "description": "Location: 25208 SW 133rd Pl, Homestead, FL 33032\n\nKept outside 24/7 without access to food, water, or adequate shelter.",
+          "location": {
+            "country": "United States",
+            "region": "Florida",
+            "locality": "Homestead"
+          },
+          "targets": [
+            "Homstead Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Miami-Dade Animal Services",
+              "main": "+1 305 468 5900",
+              "ext": ""
+            },
+            {
+              "who": "Homestead Police Department",
+              "main": "+1 305 247 1535",
+              "ext": ""
+            },
+            {
+              "who": "Miami-Dade Sheriff",
+              "main": "+1 305 476 5423",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:georginac.vargas@miamidade.gov,annette.jose@miamidade.gov,japerez@homesteadfl.gov,gmorillo@homesteadfl.gov,mario.knapp@homesteadpolice.com,Gabrielle.Leal@homesteadpolice.com?subject=Welfare%20check%20requested%20-%20dog%20kept%20outside%2024%2F7&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20requesting%20an%20immediate%20animal%20welfare%20check%20at%3A%0A%0A25208%20SW%20133rd%20Pl%2C%20Homestead%2C%20FL%2033032%0A%0AA%20dog%20is%20reportedly%20being%20kept%20outdoors%2024%2F7.%20From%20what%20can%20be%20observed%2C%20there%20is%20NO%20visible%20food%20or%20water%20available%20for%20the%20dog%2C%20and%20there%20is%20NO%20adequate%20shelter%20(no%20proper%20cover%20from%20heat%2Frain%20and%20no%20safe%2C%20protective%20housing).%0A%0AIt%20has%20also%20been%20alleged%20that%20the%20dog%20is%20being%20left%20outside%20because%20another%20dog%20inside%20the%20home%20is%20pregnant.%20Regardless%20of%20the%20reason%2C%20the%20dog%20outdoors%20must%20have%20adequate%20shelter%2C%20shade%2C%20and%20continuous%20access%20to%20clean%20water%20and%20appropriate%20care.%0A%0AThis%20is%20a%20welfare%20concern%20that%20needs%20an%20in-person%20check%2C%20documentation%2C%20and%20enforcement%20action%20as%20appropriate.%20Florida%20conditions%20can%20be%20dangerous%20quickly%20without%20shade%2C%20water%2C%20and%20shelter.%0A%0AObserved%2FReported%20issues%3A%0A%0A*%20Dog%20kept%20outside%20at%20all%20hours%20(24%2F7)%0A*%20Food%20and%20water%20cannot%20be%20seen%20out%20for%20the%20dog%0A*%20No%20adequate%20shelter%20visible%0A*%20Allegedly%20left%20outside%20due%20to%20another%20dog%20inside%20being%20pregnant%0A%0ARequest%3A%0A%0A*%20Please%20dispatch%20the%20appropriate%20officer%2Finspector%20to%20perform%20a%20welfare%20check%0A*%20Verify%20access%20to%20clean%20water%2C%20food%2C%20adequate%20shelter%2Fshade%2C%20and%20overall%20condition%0A*%20Document%20findings%20and%20take%20enforcement%20action%20if%20standards%20are%20not%20met%0A*%20Provide%20a%20public%20statement%20confirming%20findings%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1mOaCSgkrZY1yqrMn01IVZE92Kwowq7DX%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/demand-welfare-check-at-25208-sw-133rd-pl",
+          "createdAt": "2026-02-25"
+        },
+        {
           "title": "Remove Dog From Abusive Owner in Bogota",
           "slug": "remove-dog-from-abusive-owner-in-bogota",
           "caseId": "remove-dog-from-abusive-owner-in-bogota",
