@@ -363,6 +363,42 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Arrest Brooklyn Dog Abusers",
+          "slug": "arrest-brooklyn-dog-abusers",
+          "caseId": "arrest-brooklyn-dog-abusers",
+          "instagram": "",
+          "description": "Date & Time: February 28, :35\nLocation: Morgan Ave & Johnson Ave, Brooklyn, NY\n\nThe cops were called, they did nothing. A squad car was flagged down two blocks away, they did nothing too.",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Brooklyn"
+          },
+          "targets": [
+            "Brooklyn Authorities"
+          ],
+          "phones": [
+            {
+              "who": "NYPD 90th Precinct",
+              "main": "+1 718 963 5311",
+              "ext": ""
+            },
+            {
+              "who": "Brooklyn DA's Office",
+              "main": "+1 718 250 2340",
+              "ext": ""
+            },
+            {
+              "who": "Civilian Complaint Review Board",
+              "main": "+1 800 341 2272",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:zmamdani@cityhall.nyc.gov,vincent.seminerio@nypd.org,mark.vazquez@nypd.org,gonzalee@brooklynda.org,info@nycacc.org,iab@nypd.org,outreach@oignypd.nyc.gov,communityaffairs@nypd.org,michael.lipetri@nypd.org,asilver@cityhall.nyc.gov,pressoffice@cityhall.nyc.gov?subject=Animal%20cruelty%20on%20video%20%2B%20reported%20NYPD%20non-response&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20reporting%20animal%20cruelty%20captured%20on%20video%20at%2Fnear%20Morgan%20Ave%20and%20Johnson%20Ave%20in%20Brooklyn%20on%20February%2028%2C%202026.%0A%0AIn%20the%20footage%2C%20two%20individuals%20(one%20male%2C%20one%20female)%20are%20seen%20kicking%20and%20punching%20a%20dog%20and%20aggressively%20yanking%20the%20dog%20by%20the%20leash.%20When%20confronted%2C%20they%20respond%20with%20an%20%E2%80%9Cit%E2%80%99s%20my%20dog%2Fnone%20of%20your%20business%E2%80%9D%20attitude.%0A%0ADate%20%26%20Time%3A%20February%2028%2C%202026%20-%2018%3A35%0ALocation%3A%20Morgan%20Ave%20%26%20Johnson%20Ave%2C%20Brooklyn%2C%20NY%0A%0AThe%20person%20who%20recorded%20the%20video%20states%20they%20called%20the%20police%20at%20the%20time%2C%20and%20that%20responding%20officers%20did%20not%20take%20action.%20They%20also%20state%20they%20flagged%20down%20a%20marked%20NYPD%20squad%20car%20a%20couple%20of%20blocks%20away%20and%20that%20officers%20again%20did%20not%20take%20action.%0A%0ARequested%20Actions%3A%0A%0A1.%20Open%20an%20animal%20cruelty%20investigation%20immediately%20and%20assign%20it%20a%20case%20number.%0A2.%20Identify%20both%20individuals%20using%20the%20video%20and%20nearby%20CCTV%20(business%2Fbuilding%20cameras%2C%20traffic%20cameras%2C%20etc.).%0A3.%20Conduct%20a%20welfare%20check%20and%20ensure%20the%20dog%20is%20safe.%20If%20probable%20cause%20exists%2C%20remove%20the%20dog%20from%20the%20abuser(s).%0A4.%20Document%20injuries%20and%20pursue%20appropriate%20charges.%0A5.%20Provide%20a%20public%20statement%20including%20the%20complaint%2Fcase%20number%20for%20follow-up.%0A6.%20Separately%3A%20Please%20review%20the%20reported%20non-response%20by%20officers%2Fsquad%20car%20as%20described%20above%20and%20confirm%20how%20this%20will%20be%20addressed%20internally%20(e.g.%2C%20supervisor%20review%2C%20memo%20book%2Fbody-worn%20camera%20review%20if%20applicable).%0A%0AI%20am%20asking%20for%20enforcement%20and%20documentation.%20This%20is%20violence%20and%20the%20dog%20may%20still%20be%20in%20danger.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1rrohu3vmNSKvfYCXuukaCS86Uo5IES4R%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/arrest-brooklyn-dog-abusers",
+          "createdAt": "2026-03-01"
+        },
+        {
           "title": "Prosecute Il Tacano Pet Groomer",
           "slug": "prosecute-il-tacano-pet-groomer",
           "caseId": "prosecute-il-tacano-pet-groomer",
