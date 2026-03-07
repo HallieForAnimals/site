@@ -363,6 +363,37 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Demand Accountability For Bahamas Officer",
+          "slug": "demand-accountability-for-bahamas-officer",
+          "caseId": "demand-accountability-for-bahamas-officer",
+          "instagram": "",
+          "description": "Location: Nassau, New Providence, Bahamas\n\nThis POS is a member of the Royal Bahamas Police Force. She has no place in a position of power, let alone in control of a police canine.",
+          "location": {
+            "country": "Bahamas",
+            "region": "New Providence",
+            "locality": "Nassau"
+          },
+          "targets": [
+            "Nassau Authorities"
+          ],
+          "phones": [
+            {
+              "who": "Commissioner of Police",
+              "main": "+1 242 322 4444",
+              "ext": ""
+            },
+            {
+              "who": "Ministry of Agriculture and Marine Resources",
+              "main": "+1 242 397 7500",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:cop@rbpf.bs,wps@rbpf.bs,tourism@bahamas.com,amiller@bahamas.com,minagriculturemarine@bahamas.gov.bs,mofa@bahamas.gov.bs?subject=Demand%20Accountability%20For%20Bahamas%20Officer&body=To%20whom%20it%20may%20concern%2C%0A%0ADisturbing%20video%20footage%20shows%20a%20Royal%20Bahamas%20Police%20Force%20officer%20shooting%20a%20family-owned%20dog%20on%20the%20roadside%20in%20Nassau.%20The%20dog%20was%20not%20attacking%20anyone%20and%20posed%20no%20imminent%20threat.%0A%0AThis%20act%20constitutes%20potential%20cruelty%20under%20the%20Animal%20Protection%20and%20Control%20Act%202010%20(Ch.%20378)%3A%0A-%20Cruelty%20is%20defined%20as%20any%20act%20causing%20unnecessary%20or%20unjustifiable%20pain%2Fsuffering%20(Section%202).%0A-%20Prohibited%20acts%20include%20cruelly%20beating%2C%20injuring%2C%20abusing%2C%20or%20inhumanely%20killing%20an%20animal%20(related%20provisions%20under%20repealed%20Penal%20Code%20sections%20now%20consolidated%20here%2C%20with%20penalties%20in%20Second%20Schedule%20including%20fines%20up%20to%20%24500%2B%20for%20abuse%2Fneglect%2Fmistreatment).%0A%0AThe%20Bahamas%20cannot%20normalize%20violence%20against%20animals%20by%20law%20enforcement.%20Animal%20cruelty%20is%20a%20recognized%20predictor%20and%20indicator%20of%20future%20violent%20and%20sexual%20offenses%20against%20people%20(supported%20by%20decades%20of%20criminological%20research%2C%20including%20links%20used%20in%20offender%20profiling).%0A%0AWe%20demand%3A%0A1.%20Immediate%20suspension%20of%20the%20involved%20officer%20pending%20full%20independent%20investigation.%0A2.%20Transparent%20public%20report%20on%20the%20incident%2C%20including%20body%20cam%20footage%20(if%20available)%20and%20justification%20under%20use-of-force%20policy.%0A3.%20Mandatory%20humane%20training%20for%20all%20RBPF%20officers%20on%20animal%20encounters%2C%20de-escalation%2C%20and%20non-lethal%20options.%0A4.%20Prosecution%20if%20evidence%20shows%20unnecessary%20force%20or%20cruelty%20under%20Ch.%20378.%0A%0AFailure%20to%20act%20erodes%20public%20trust%20and%20signals%20tolerance%20for%20violence.%0A%0AThis%20incident%20highlights%20the%20urgent%20need%20for%20stronger%20enforcement%20of%20animal%20protection%20laws%20and%20links%20to%20human%20safety.%0A%0AThank%20you%20for%20your%20prompt%20action.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1aV2ZxmfEjYTqSCon-TOx1m3pk-c6huJI%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/demand-accountability-for-bahamas-officer",
+          "createdAt": "2026-03-07"
+        },
+        {
           "title": "Arrest Animal Abuser in Odesa, Ukraine",
           "slug": "arrest-animal-abuser-in-odesa-ukraine",
           "caseId": "arrest-animal-abuser-in-odesa-ukraine",
