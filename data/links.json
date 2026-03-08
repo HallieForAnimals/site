@@ -363,6 +363,35 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Locate & Arrest Indian Dog Hanger",
+          "slug": "locate-arrest-indian-dog-hanger",
+          "caseId": "locate-arrest-indian-dog-hanger",
+          "instagram": "",
+          "description": "@krishna.kumar3209 seems to think it's appropriate to film a hanging dog in front of children, it's not clear if he was the one who hanged the dog in the first place.\nThe post has since been deleted, but that doesn't stop him being located, arrested, and charged.",
+          "location": {
+            "country": "India",
+            "region": "",
+            "locality": ""
+          },
+          "targets": [],
+          "phones": [
+            {
+              "who": "Animal Welfare Board of India (AWBI)",
+              "main": "+91 129 255 5700",
+              "ext": ""
+            },
+            {
+              "who": "Ministry of Fisheries, Animal Husbandry and Dairying",
+              "main": "+91 112 338 9620",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:support-awbi@gov.in,jspf-dadf@nic.in?subject=FIR%20Demand%3A%20Animal%20Cruelty%20Video%20by%20Instagram%20%40krishna.kumar3209&body=To%20whom%20it%20may%20concern%2C%0A%0AA%20video%20from%20deleted%20Instagram%20post%20by%20%40krishna.kumar3209%20(Krishna%20Kumar).%20Shows%20killing%20and%20hanging%20of%20a%20dog%2C%20filmed%20with%20children%20present%20and%20watching.%0A%0AViolations%3A%0A%0ASection%2011(1)(a)%2C%20(c)%2C%20(l)%20Prevention%20of%20Cruelty%20to%20Animals%20Act%2C%201960%20-%20torturous%20killing%2C%20unnecessary%20suffering.%0ASections%20325%2F326%20Bharatiya%20Nyaya%20Sanhita%2C%202023%20-%20mischief%20causing%20animal%20death.%0AChildren%20witnessing%20graphic%20cruelty%20risks%20psychological%20harm%20and%20links%20to%20The%20Link%3A%20animal%20abuse%20predicts%20violent%2Fsexual%20offences%20against%20humans%20(FBI%2FASPCA%20research).%0A%0AThis%20fits%20vigilante%20abuse%20pattern%20post-Supreme%20Court%20August%202025%20stray%20dog%20orders%20(initial%20roundup%20misread%20as%20kill%20permission%2C%20reversed%20August%2022%20to%20sterilization%2Frelease).%0A%0ADemands%3A%0A%0A1.%20Register%20FIR%20immediately%20under%20above%20sections%2C%20treating%20children%20present%20as%20aggravating%20factor%20(possible%20JJ%20Act%202015%20Section%2075).%0A2.%20Trace%20perpetrator%20%40krishna.kumar3209%20via%20Instagram%2FMeta%20data%2C%20IP%2C%20video%20metadata.%0A3.%20Investigate%2C%20arrest%2C%20prosecute.%0A4.%20Public%20statement%20on%20Supreme%20Court%20reversal%20to%20curb%20vigilante%20cruelty.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1rr9uRliyd6IEZPdYcJ1Nb5RD11Md6cFX%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforaniamls.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/locate-arrest-indian-dog-hanger",
+          "createdAt": "2026-03-08"
+        },
+        {
           "title": "Prosecute Deepika Patidar & Pooja Panchal",
           "slug": "prosecute-deepika-patidar-pooja-panchal",
           "caseId": "prosecute-deepika-patidar-pooja-panchal",
