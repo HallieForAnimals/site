@@ -363,6 +363,37 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Recue Tethered Dog at 3112 S Western Ave, LA",
+          "slug": "recue-tethered-dog-at-3112-s-western-ave-la",
+          "caseId": "recue-tethered-dog-at-3112-s-western-ave-la",
+          "instagram": "",
+          "description": "Location: 3112 S Western Ave, Los Angeles, CA 90018\n\nThis dog was left out all day in 90°F heat and well into the night.\nLeaving a dog tethered outside with no adequate shade, water, or relief breaches California Health & Safety Code § 122335, California Penal Code § 597, § 597t, and Los Angeles Municipal Code § 53.70.\nPenal Code 597.1 allows police officers and animal control officers to seize animals based on suspected abuse/neglect, not just confirmed.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Los Angeles"
+          },
+          "targets": [
+            "LA Animal Services & Leadership"
+          ],
+          "phones": [
+            {
+              "who": "LA Animal Services",
+              "main": "+1 888 452 7381",
+              "ext": ""
+            },
+            {
+              "who": "Office of Mayor Karen Bass",
+              "main": "+1 213 978 1028",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:karen.bass@lactiy.org,annette.ramirez@lacity.org,laanimalservices@lacity.org?subject=Dog%20Left%20Tied%20Outside%20in%20Extreme%20Heat%20at%203112%20S%20Western%20Ave&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20writing%20to%20report%20clear%20animal%20neglect%20and%20abuse%20at%203112%20S%20Western%20Ave%2C%20Los%20Angeles%2C%20CA%2090018.%20A%20dog%20has%20been%20tied%20up%20outside%20this%20property%20all%20day%20in%20temperatures%20reaching%2090F%20and%20remains%20there%20into%20the%20night%20with%20no%20adequate%20shade%2C%20water%2C%20or%20relief%20from%20the%20heat.%0A%0AThis%20is%20not%20an%20isolated%20case.%20It%20is%20part%20of%20a%20growing%20pattern%20in%20Los%20Angeles%20where%20animal%20cruelty%20and%20neglect%20go%20unaddressed%2C%20making%20the%20city's%20animal%20welfare%20enforcement%20a%20joke.%0A%0ALeaving%20a%20dog%20tethered%20in%20extreme%20heat%20without%20proper%20care%20violates%20Los%20Angeles%20Municipal%20Code%20and%20California%20law.%20California%20Penal%20Code%20allows%20peace%20officers%20and%20animal%20control%20officers%20to%20seize%20and%20impound%20an%20animal%20based%20on%20suspected%20abuse%20or%20neglect%20when%20there%20is%20reasonable%20belief%20that%20prompt%20action%20is%20needed%20to%20protect%20the%20animal's%20health%20or%20safety.%20Confirmation%20of%20abuse%20is%20not%20required%20for%20immediate%20intervention.%0A%0AI%20and%20many%20concerned%20residents%20demand%20that%20LA%20Animal%20Services%20take%20immediate%20action%3A%0A%0A-%20Dispatch%20officers%20to%203112%20S%20Western%20Ave%20today%20to%20check%20on%20the%20dog%20and%20seize%20it%20from%20the%20harmful%20situation%20if%20needed.%0A-%20Investigate%20the%20owners%20and%20hold%20them%20fully%20accountable%20under%20the%20law.%0A-%20Resolve%20this%20case%20promptly.%0A%0ACitizen%20of%20Los%20Angeles%20and%20beyond%20are%20tired%20of%20repeated%20failures%20by%20LA%20Animal%20Services%20to%20protect%20animals%20in%20distress.%20This%20situation%20must%20be%20sorted%20out%20now%20with%20no%20more%20excuses.%0A%0AThank%20you%20for%20your%20urgent%20attention%20to%20this%20matter.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11DspwgrsXU5lCAhj_3UcAyWxi3eTwroC%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAniamls%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/recue-tethered-dog-at-3112-s-western-ave-la",
+          "createdAt": "2026-03-17"
+        },
+        {
           "title": "Release Wayne Hsiung & Associates",
           "slug": "release-wayne-hsiung-associates",
           "caseId": "release-wayne-hsiung-associates",
