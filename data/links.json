@@ -363,6 +363,37 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Dog Abuse At 134 Beech Street, Yonkers, NY",
+          "slug": "dog-abuse-at-134-beech-street-yonkers-ny",
+          "caseId": "dog-abuse-at-134-beech-street-yonkers-ny",
+          "instagram": "",
+          "description": "Location: First Floor, 134 Beech Street, Yonkers, NY 10701\n\nThis abuse has already been reported, but the cops didn't do anything without a witness or statement, completely ignoring their responsibilities.\nPolice DO NOT need a witness or a statement to investigate a crime. Once again, the authorities would rather ignore animal abuse out of convenience.",
+          "location": {
+            "country": "United States",
+            "region": "New York",
+            "locality": "Yonkers"
+          },
+          "targets": [
+            "Yonker PD and SPCA"
+          ],
+          "phones": [
+            {
+              "who": "Yonkers Police Department",
+              "main": "+1 914 377 7900",
+              "ext": ""
+            },
+            {
+              "who": "SPCA Westchester",
+              "main": "+1 914 941 7797",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:info@spcawestchester.org,police@ypd.yonkersny.gov,Chris.Sapienza@ypd.yonkersny.gov,Paul.Rice@ypd.yonkersny.gov,Richard.Alaimo@ypd.yonkersny.gov,Daniel.Campanini@ypd.yonkersny.gov,Jared.Singer@ypd.yonkersny.gov?subject=Request%20for%20Immediate%20Animal%20Welfare%20Check%20At%20134%20Beech%20Street&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20have%20serious%20concerns%20about%20the%20welfare%20of%20one%20or%20more%20dogs%20in%20the%20first-floor%20apartments%20at%20134%20Beech%20Street%2C%20Yonkers%2C%20NY%2010701.%20Over%20an%20extended%20period%2C%20there%20have%20been%20repeated%20and%20disturbing%20sounds%20consistent%20with%20animal%20abuse%2C%20including%20loud%20yelps%2Fscreams%20of%20pain%2C%20repeated%20striking%2Fthudding%20noises%20suggestive%20of%20beating%2C%20cries%20of%20distress%2C%20and%20verbal%20indications%20of%20mistreatment.%20These%20occur%20frequently%20enough%20to%20indicate%20ongoing%20neglect%20or%20cruelty%2C%20not%20isolated%20incidents.%0A%0ANew%20York%20State%20law%20(Agriculture%20%26%20Markets%20Law%20%C2%A7%C2%A7%20353%20and%20353-a)%20prohibits%20unjustified%20pain%2C%20suffering%2C%20or%20neglect%20of%20animals%2C%20and%20I%20believe%20this%20situation%20warrants%20immediate%20investigation%20to%20ensure%20the%20animal(s)%20are%20not%20in%20imminent%20danger.%0A%0AThe%20public%20expects%20law%20enforcement%20to%20uphold%20the%20law%20consistently%20and%20protect%20vulnerable%20animals%2C%20not%20turn%20a%20blind%20eye%20simply%20because%20it%20may%20be%20inconvenient%20or%20because%20a%20witness%20is%20unwilling%20to%20come%20forward%20publicly.%20A%20welfare%20check%20by%20officers%20or%20humane%20agents%2C%20observing%20conditions%2C%20the%20animal's%20health%2C%20and%20any%20visible%20signs%20of%20injury%20or%20neglect%2C%20could%20resolve%20this%20quickly%20and%20prevent%20further%20harm.%0A%0APlease%20accept%20this%20as%20an%20anonymous%20tip%20with%20supporting%20evidence%20and%20prioritize%20a%20welfare%20check%20as%20soon%20as%20possible.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1h7Gr5fzFTYlSBsLwRipB0vBEUI8NXDZr%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/dog-abuse-at-134-beech-street-yonkers-ny",
+          "createdAt": "2026-03-19"
+        },
+        {
           "title": "Arrest Animal Abuser Najae Marie Vanderhurst",
           "slug": "arrest-animal-abuser-najae-marie-vanderhurst",
           "caseId": "arrest-animal-abuser-najae-marie-vanderhurst",
