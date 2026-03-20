@@ -363,6 +363,37 @@
       "name": "Recent Cases",
       "links": [
         {
+          "title": "Arrest Skid Row Dog Abuser",
+          "slug": "arrest-skid-row-dog-abuser",
+          "caseId": "arrest-skid-row-dog-abuser",
+          "instagram": "",
+          "description": "Location: San Julian & 6th St, Los Angeles, California\n\nA homeless individual was caught repeatedly beating his dog over the head on Skid Row during 100°F temperatures.",
+          "location": {
+            "country": "United States",
+            "region": "California",
+            "locality": "Los Angeles"
+          },
+          "targets": [
+            "LA Officials"
+          ],
+          "phones": [
+            {
+              "who": "LAPD",
+              "main": "+1 213 972 1298",
+              "ext": ""
+            },
+            {
+              "who": "LA Animal Services Cruelty Hotline",
+              "main": "+1 888 452 7381",
+              "ext": ""
+            }
+          ],
+          "url": "mailto:Ysabel.Jurado@lacity.org,firstdistrict@bos.lacounty.gov,35361@lapd.online,35924@lapd.online,annette.ramirez@lacity.org,karen.bass@lacity.org?subject=Dog%20Being%20Beaten%20at%20San%20Julian%20St%20and%206th%20St%20Skid%20Row%20Central%20Area&body=To%20whom%20it%20may%20concern%2C%0A%0AI%20am%20reporting%20a%20case%20of%20animal%20cruelty%20observed%20in%20Skid%20Row.%0A%0AIncident%20Details%3A%20%20%0A-%20Location%3A%20San%20Julian%20Street%20and%206th%20Street%20intersection%2C%20Skid%20Row%2C%20Los%20Angeles%20(Central%20City%20East%2C%20LAPD%20Central%20Area%2C%20City%20Council%20District%2014%2C%20LA%20County%20District%201).%20%20%0A-%20Description%3A%20A%20homeless%20individual%20is%20repeatedly%20beating%20his%20dog%20over%20the%20head.%20%20%0A%0AThis%20appears%20to%20violate%20California%20Penal%20Code%20sections%20on%20animal%20cruelty%20(e.g.%2C%20willful%20infliction%20of%20unnecessary%20suffering).%20Response%20is%20needed%20to%20protect%20the%20animal%2C%20investigate%2C%20and%20remove%20the%20dog%20for%20safety.%0A%0AI%20respectfully%20request%3A%20%20%0A1.%20LAPD%20Central%20Division%20assess%20the%20situation%20and%20intervene%20as%20appropriate.%20%20%0A2.%20LA%20Animal%20Services%20investigate%20and%20enforce%20animal%20welfare%20laws.%20%20%0A3.%20Coordination%20between%20LAPD%20and%20Animal%20Services%20for%20action%20in%20Skid%20Row.%20%20%0A%0AThank%20you%20for%20your%20prompt%20attention.%20Swift%20action%20can%20prevent%20further%20suffering%20to%20this%20animal.%0A%0AEvidence%3A%20https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1aCyCVfo4bQXXQMv16tBfeBSD2aJO7W9Z%2Fview%3Fusp%3Dsharing%0A%0ASincerely%2C%0A%0A%40HallieForAnimals%20Team%0Acontact%40hallieforanimals.org",
+          "tag": "Email",
+          "shortlink": "https://go.hallieforanimals.org/t/arrest-skid-row-dog-abuser",
+          "createdAt": "2026-03-20"
+        },
+        {
           "title": "Dog Abuse At 134 Beech Street, Yonkers, NY",
           "slug": "dog-abuse-at-134-beech-street-yonkers-ny",
           "caseId": "dog-abuse-at-134-beech-street-yonkers-ny",
